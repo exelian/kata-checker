@@ -1,0 +1,151 @@
+1: Naar links |W|
+- Zenkutsu dachi hidari
+  - Seiken oi gedan barai
+  - Seiken gyaku jodan uke
+  - Seiken oi chudan tsuki
+2: Naar voren |W|
+- Zenkutsu dachi migi
+  - Seiken oi jodan uke
+  - Seiken gyaku gedan barai
+  - Tettsui oi hizo uchi
+3: Been terugtrekken |W|
+  - hikiashi migi
+- Kokutsu dachi migi
+  - Seiken gyaku uchi-uke & Seiken oi gedan barai (morote)
+4: Trap + naar voren |W|
+  - migiashi chudan mae-geri
+- Zenkutsu dachi migi # meteen doorstappen
+- Zenkutsu dachi hidari
+  - Shuto oi jodan uke
+  - Haito gyaku jodan uchi-uchi
+5: Naar voren |W|
+- Zenkutsu dachi migi
+  - Haito gyaku jodan soto-uchi
+  - Empi oi jodan ate & Shotei gyaku jodan uchi (morote)
+  - Seiken yama tsuki # gyaku boven!
+
+6: 180gr draaien |O|
+- Zenkutsu dachi migi
+  - Seiken oi gedan barai
+  - Seiken gyaku jodan uke
+  - Seiken oi chudan tsuki
+7: Naar voren |O|
+- Zenkutsu dachi hidari
+  - Seiken oi jodan uke
+  - Seiken gyaku gedan barai
+  - Tettsui oi hizo uchi
+8: Been terugtrekken |O|
+  - hikiashi hidari
+- Kokutsu dachi hidari
+  - Seiken oi gedan barai & Seiken gyaku uchi-uke (morote)
+9: Trap + naar voren |O|
+  - hidariashi chudan mae-geri
+- Zenkutsu dachi hidari # meteen doorstappen
+- Zenkutsu dachi migi
+  - Shuto oi jodan uke
+  - Haito gyaku jodan uchi-uchi
+10: Naar voren |O|
+- Zenkutsu dachi hidari
+  - Haito gyaku jodan soto-uchi
+  - Empi oi jodan ate & Shotei gyaku jodan uchi (morote)
+  - Seiken yama tsuki # gyaku boven!
+
+11: Naar links |N|
+- Zenkutsu dachi hidari
+  - Seiken oi gedan barai
+  - Seiken juji jodan uke # gyaku boven!
+  - Seiken gyaku gedan barai
+  - Seiken gyaku uchi-uke & Seiken oi gedan barai (morote)
+12: Naar achter |N|
+- Kokutsu dachi migi
+  - Seiken gyaku uchi-uke & Seiken oi gedan barai (morote)
+13: Trap + naar voren |N|
+  - migiashi chudan mae-geri
+- Zenkutsu dachi migi # meteen doorstappen
+- Zenkutsu dachi hidari
+  - Shuto oi jodan uke
+  - Shuto gyaku gedan barai
+  - Shuto oi hizo uchi
+14: Naar voren |N|
+- Zenkutsu dachi migi
+  - Shuto oi jodan uke
+  - Shuto gyaku gedan barai
+  - Shuto oi hizo uchi
+15: Naar voren |N|
+- Zenkutsu dachi hidari
+  - Haito oi uchi-uke & Shuto gyaku gedan barai (morote)
+16: Naar voren |N|
+  - migiashi jodan mae-geri
+  - Hirate gyaku osai uke -> Nukite oi chudan
+
+17: Schuin naar voren |NO|
+- Zenkutsu dachi hidari
+  - Seiken oi gedan barai
+  - Seiken gyaku jodan tsuki
+  - Seiken oi chudan tsuki
+18: Schuin naar voren |NO|
+- Zenkutsu dachi migi
+  - Empi oi ago uchi
+  - Seiken gyaku chudan tsuki
+  - Tettsui oi komekami uchi & Shotei gyaku chudan uchi  (morote)
+
+19: 270gr draaien |NW|
+- Zenkutsu dachi migi
+  - Seiken oi gedan barai
+  - Seiken gyaku jodan tsuki
+  - Seiken oi chudan tsuki
+20: Schuin naar voren |NW|
+- Zenkutsu dachi hidari
+  - Empi oi ago uchi
+  - Seiken gyaku chudan tsuki
+  - Tettsui oi komekami uchi & Shotei gyaku chudan uchi (morote)
+
+21: 135gr draaien |Z|
+- Zenkutsu dachi hidari
+  - Seiken oi gedan barai
+  - Seiken gyaku jodan uke
+  - Seiken oi soto uke
+  - Seiken gyaku uchi-uke
+  - Seiken oi chudan tsuki
+22: Naar voren |Z|
+- Zenkutsu dachi migi
+  - Seiken oi jodan uke
+  - Seiken juji gedan uke # gyaku boven
+  - Shuto gyaku chudan kake-uke
+  - Seiken oi gedan tsuki
+23: Naar voren |Z|
+- Zenkutsu dachi hidari
+  - Seiken oi jodan uke
+  - Seiken juji gedan uke # gyaku boven
+  - Shuto gyaku chudan kake-uke
+  - Seiken oi gedan tsuki
+24: Knietje en doorstappen |Z|
+- Zenkutsu dachi hidari
+  - Haito morote jodan uchi -> Shotei morote jodan uchi
+  - Hiza ganmen geri
+- Zenkutsu dachi migi
+  - Seiken morote chudan tsuki
+- Zenkutsu dachi hidari
+  - Seiken yama tsuki
+
+25: 270gr draaien |W|
+- Zenkutsu dachi migi
+  - Seiken oi jodan uke
+  - Seiken gyaku gedan barai
+  - Seiken morote chudan tsuki
+
+26: 180gr draaien |O|
+- Zenkutsu dachi hidari
+  - Seiken oi jodan uke
+  - Seiken gyaku gedan barai
+  - Seiken morote chudan tsuki
+
+27: naar links |Z|
+- Zenkutsu dachi hidari
+  - Shuto gyaku ganmen uchi & Shotei oi jodan uke (morote)
+
+28: 180gr draaien |W|
+- Zenkutsu dachi migi
+  - Shuto gyaku ganmen uchi & Shotei oi jodan uke (morote)
+- Nekoashi dachi migi
+  - Shuto mae mawashi-uke

@@ -1,0 +1,171 @@
+1: Naar voren |N|
+- Uchi hachiji dachi
+  - Kanku
+  - Shuto gedan uchi migi & Shotei gedan uchi hidari
+2: Naar links |W|
+- Kokutsu dachi hidari
+  - Shuto mawashi uchi
+3: 180gr draaien |O|
+- Kokutsu dachi migi
+  - Shuto mawashi uchi
+4: Naar links |N|
+- Sanchin dachi hidari
+  - Seiken oi uchi uke
+  - Seiken gyaku chudan tsuki
+  - Seiken gyaku uchi uke
+  - Seiken oi chudan tsuki
+
+5: Blijf de op plaats |N|
+- Kokutsu dachi hidari
+  - Shuto mawashi uchi
+6: Naar voren |N|
+- Kokutsu dachi migi
+  - Shuto mawashi uchi
+7: Naar voren |N|
+- Kokutsu dachi hidari
+  - Shuto mawashi uchi
+8: Naar voren |N|
+- Zenkutsu dachi migi
+  - Hirate gyaku osai uke & Nukite gohon oi chudan kiai
+
+9: 180gr draaien |Z|
+- Zenkutsu dachi hidari
+  - Shotei gyaku jodan uke & Shuto oi ganmen uchi (morote)
+10: Trap + naar voren |Z|
+- Vanuit stand
+  - Chusoku chudan mae geri migi
+- Zenkutsu dachi migi
+  - Seiken gyaku chudan tsuki -> Seiken oi chudan tsuki (nidan)
+
+11: 180gr draaien |N| # Voorste been verplaatsen
+- Zenkutsu dachi migi
+  - Shotei gyaku jodan uke & Shuto oi ganmen uchi (morote)
+12: Trap + naar voren |N|
+- Vanuit stand
+  - Chusoku chudan mae geri hidari
+- Zenkutsu dachi hidari
+  - Seiken gyaku chudan tsuki -> Seiken oi chudan tsuki (nidan)
+
+13: Aansluiten voor yoko geri |N|
+  - hikiashi hidari & morote hidari hikite
+- Mutsubi dachi
+  - Chusoku chudan mae geri migi
+  - Yoko chudan geri migi & Uraken yoko uchi
+- Zenkutsu dachi migi |O|
+  - Empi gyaku jodan ate & Shotei oi jodan uchi
+14: Aansluiten voor yoko geri |N|
+  - hikiashi hidari
+- Mutsubi dachi
+  - Chusoku chudan mae geri hidari
+  - Yoko chudan geri hidari & Uraken yoko uchi
+- Zenkutsu dachi hidari |O|
+  - Empi gyaku jodan ate & Shotei oi jodan uchi
+
+15: Schuin naar voren |NW|
+- Sanchin dachi migi
+  - Seiken oi jodan uke ibuki
+  - Uraken oi ganmen uchi
+  - Empi oi jodan ate
+  - Empi gyaku jodan ate
+  - Empi oi oroshi uchi kiai
+- Kiba dachi
+16: Schuin naar voren |NO|
+- Sanchin dachi hidari
+  - Seiken oi jodan uke ibuki
+  - Uraken oi ganmen uchi
+  - Empi oi jodan ate
+  - Empi gyaku jodan ate
+  - Empi oi oroshi uchi kiai
+- Kiba dachi
+
+17: Naar voren |N|
+- Mami dachi migi
+  - Shotei morote gedan uke
+- Moroashi dachi migi
+18: Naar voren |N|
+- Mami dachi migi
+  - Shotei morote gedan uke
+- Moroashi dachi migi
+19: Naar voren |N|
+- Mami dachi migi
+  - Shotei morote gedan uke
+- Moroashi dachi migi
+20: Naar voren |N|
+  - hikite migi & hikiashi migi
+- Moroashi dachi migi
+  - Shiji tsuri tsuki kiai
+
+21: 180gr draaien |Z|
+- Mami dachi hidari
+  - Shotei morote gedan uke
+- Moroashi dachi hidari
+22: Naar voren |Z|
+- Mami dachi hidari
+  - Shotei morote gedan uke
+- Moroashi dachi hidari
+23: Naar voren |Z|
+  - hikite hidari & hikiashi hidari
+- Moroashi dachi hidari
+  - Shiji tsuri tsuki # Doorstappen
+- Kake dachi migi
+  - Seiken yama tsuki kiai
+
+24: 180gr draaien |N|
+- Kiba dachi # in oostelijke richting
+  - Haishu jun chudan uke hidari
+25: Naar voren |N|
+- Vanuit stand
+  - Teisoku migiashi chudan mikazuki geri
+- Tsuruashi dachi migi
+  - Empi oi jodan ate & Shotei gyaku jodan uchi
+- Juji dachi
+  - Seiken juji gedan uke
+- Trap ontwijken door naar de grond te duiken + grond slaan (LOL)
+26: Blijf staan en kom omhoog |N|
+- Verplaats gewicht naar achter tot een
+- Kokutsu dachi migi
+  - Shuto mawashi uke
+
+27: Draai naar links |W|
+- Sanchin dachi hidari
+  - Seiken oi uchi uke & Seiken gyaku gedan barai
+  - Seiken oi gedan barai & Seiken gyaku uchi uke
+  - Kanku
+  - Shuto gedan uchi migi & Shotei gedan uchi hidari
+28: Draai 270gr rugwaards |O|
+- Kiba dachi # In oostelijk richting
+  - Nukite gohon yoko chudan migi
+  - Nukite gohon yoko chudan hidari
+  - Kake uke migi
+  - Nukite gohon yoko chudan hidari # Naar voren, oostelijk
+  - Nukite gohon yoko chudan migi # Naar voren, oostelijk
+29: Draai 180gr rugwaards |W|
+- Kiba dachi # In westlijke richting
+  - Nukite gohon yoko chudan hidari
+  - Nukite gohon yoko chudan migi
+  - Kake uke hidari
+  - Nukite gohon yoko chudan migi # Naar voren, westlijke
+  - Nukite gohon yoko chudan hidari # Naar voren, westlijke
+30: Draai 90gr rugwaards |N|
+- Kiba dachi # In noordelijk richting
+  - Nukite gohon yoko chudan migi
+  - Nukite gohon yoko chudan hidari
+  - Kake uke migi
+  - Nukite gohon yoko chudan hidari # Naar voren, noordelijk
+  - Nukite gohon yoko chudan migi # Naar voren, noordelijk
+31: Naar links |N|
+- Kiba dachi # In noordelijke richting
+  - Nukite gohon yoko chudan hidari
+  - Nukite gohon yoko chudan migi
+  - Kake uke hidari
+  - Nukite gohon yoko chudan migi # Naar voren, noordelijk
+  - Nukite gohon yoko chudan hidari # Naar voren, noordelijk
+
+32: Pak persoon rechtsachter vast met 2 handen en werp naar links |W|
+- Zenkutsu dachi hidari
+  - Seiken oi gedan barai
+  - Seiken gyaku gedan tsuki
+33: Pak persoon linksachter vast met 2 handen en werp naar rechts |N|
+- Zenkutsu dachi migi
+  - Seiken oi gedan barai
+  - Seiken gyaku gedan tsuki
