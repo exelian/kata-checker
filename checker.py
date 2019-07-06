@@ -1,5 +1,18 @@
 import argparse
 import re
+import xml.etree.ElementTree as ET
+
+LANGUAGE_FILE = 'userDefineLang.xml'
+KEYWORD_CLASSES = {
+    'Keywords1': 'WEAPON',
+    'Keywords2': 'HANDEDNESS',
+    'Keywords3': 'TARGET',
+    'Keywords4': 'WAZA',
+    'Keywords5': 'WAZA_PREFIX',
+    'Keywords6': 'DIRECTIONS',
+    'Keywords7': 'TECHNIQUE_MODIFIERS',
+    'Keywords8': 'errors'
+}
 
 class RegExFormat(object):
     def __init__(self, args):
@@ -14,116 +27,72 @@ class RegExFormat(object):
 
         return joined
 
-STANCES = RegExFormat([
-    'Zenkutsu',
-    'Kiba',
-    'Kokutsu',
-    'Nekoashi',
-    'Moroashi',
-    'Musubi',
-    'Heisoku',
-    'Heiko',
-    'Fudo',
-    'Sanchin',
-    'Uchi hachiji',
-    'Tsuruashi',
-    'Mami',
-    'Kosa',
-    'Kake',
-    'Juji'
-])
+def parse_xml_file(filename):
+    xml_doc = ET.parse(filename)
+    root = xml_doc.getroot()
+    keyword_tags = root.findall('./UserLang/KeywordLists/Keywords')
 
-WEAPON = RegExFormat([
-    'Seiken',
-    'Tettsui',
-    'Chusoku',
-    'Haito',
-    'Shotei',
-    'Empi',
-    'Shuto',
-    'Nukite',
-    'Hiza',
-    'Uraken',
-    'Haisoku',
-    'Hirate',
-    'Haishu',
-    'Teisoku',
-    'Toho',
-    'Sokuto',
-    'Yoko'
-])
+    return {
+        KEYWORD_CLASSES[tag.attrib['name']]: tag.text.split(' ')
+        for tag in keyword_tags
+        if tag.attrib['name'].startswith('Keywords')
+    }
 
-HANDEDNESS = RegExFormat([
-    'oi',
-    'gyaku',
-    'juji',
-    'morote',
-    'yama',
-    'jun',
-    'migi',
-    'hidari'
-])
+def generate_parser_regex():
+    output = parse_xml_file(LANGUAGE_FILE)
 
-TARGET = RegExFormat([
-    'gedan',
-    'jodan',
-    'chudan',
-    'hizo',
-    'ganmen',
-    'ago',
-    'yoko',
-    'shita',
-    'soto',
-    'sakotsu',
-    'mae',
-    'mawashi',
-    'osai',
-    'hitai',
-    'komekami',
-    'ushiro',
-    'kansetsu',
-    'kakiwake'
-])
+    STANCES = RegExFormat([
+        'Zenkutsu',
+        'Kiba',
+        'Kokutsu',
+        'Nekoashi',
+        'Moroashi',
+        'Musubi',
+        'Heisoku',
+        'Heiko',
+        'Fudo',
+        'Sanchin',
+        'Uchi hachiji',
+        'Tsuruashi',
+        'Mami',
+        'Kosa',
+        'Kake',
+        'Juji'
+    ])
 
-WAZA = RegExFormat([
-    'uke',
-    'barai',
-    'tsuki',
-    'geri',
-    'ate',
-    'uchi',
-    'hikite',
-    'hikiashi'
-])
+    WEAPON = RegExFormat(output['WEAPON'])
+    HANDEDNESS = RegExFormat(output['HANDEDNESS'])
+    TARGET = RegExFormat(output['TARGET'])
+    WAZA = RegExFormat(output['WAZA'])
+    TECHNIQUE_MODIFIERS = RegExFormat(output['TECHNIQUE_MODIFIERS'])
+    SPECIAL_TECHNIQUE = RegExFormat(['Kanku', 'Tensho'])
 
-SPECIAL_TECHNIQUE = RegExFormat(['Kanku', 'Tensho'])
+    LEFT_RIGHT = RegExFormat(['migi', 'hidari'])
+    DIRECTIONS = RegExFormat(['N', 'NO', 'O', 'ZO', 'Z', 'ZW', 'W', 'NW'])
+    DIRECTION = fr'(?:\|(?:{DIRECTIONS})\|)'
 
-TECHNIQUE_MODIFIERS = RegExFormat(['ibuki', 'kiai'])
+    WAZA_PREFIX = '(uchi|soto|morote|mae|kake|mawashi|nagashi)-'
+    TECHNIQUE = fr'({WEAPON: })?\s?({HANDEDNESS: })\s?({TARGET: })\s?(?:{WAZA_PREFIX})?({WAZA})'
+    MOROTE = fr'{TECHNIQUE} & {TECHNIQUE}\s*(\(morote\))?'
+    FOLLOWUP = fr'{TECHNIQUE} -> {TECHNIQUE}\s*(\(nidan\))?'
 
-LEFT_RIGHT = RegExFormat(['migi', 'hidari'])
-DIRECTIONS = RegExFormat(['N', 'NO', 'O', 'ZO', 'Z', 'ZW', 'W', 'NW'])
-DIRECTION = fr'(?:\|(?:{DIRECTIONS})\|)'
+    BUNKAI = r'^=>(?P<attack>.*?):(?P<uke>(?s:.*))\.'
 
-WAZA_PREFIX = '(uchi|soto|morote|mae|kake|mawashi|nagashi)-'
-TECHNIQUE = fr'({WEAPON: })?\s?({HANDEDNESS: })\s?({TARGET: })\s?(?:{WAZA_PREFIX})?({WAZA})'
-MOROTE = fr'{TECHNIQUE} & {TECHNIQUE}\s*(\(morote\))?'
-FOLLOWUP = fr'{TECHNIQUE} -> {TECHNIQUE}\s*(\(nidan\))?'
+    COUNT_LINE = fr'(?P<step>\d+): (?P<desc>.*) {DIRECTION}'
+    STANCE_LINE = fr'- (?P<stance>{STANCES:X} dachi) ({LEFT_RIGHT}|{DIRECTION})'
+    TECHNIQUE_LINE = fr'  - (?P<actions>{TECHNIQUE}|{MOROTE}|{FOLLOWUP})\s*(?P<mod>{TECHNIQUE_MODIFIERS: })'
 
-BUNKAI = r'^=>(?P<attack>.*?):(?P<uke>(?s:.*))\.'
+    COMMENT = r'(?:\s*#(?P<comment>.*))?$'
+    LINE = fr'^({COUNT_LINE}|{STANCE_LINE}|{TECHNIQUE_LINE}|{BUNKAI}|){COMMENT}'
 
-COUNT_LINE = fr'(?P<step>\d+): (?P<desc>.*) {DIRECTION}'
-STANCE_LINE = fr'- (?P<stance>{STANCES:X} dachi) ({LEFT_RIGHT}|{DIRECTION})'
-TECHNIQUE_LINE = fr'  - (?P<actions>{TECHNIQUE}|{MOROTE}|{FOLLOWUP})\s*(?P<mod>{TECHNIQUE_MODIFIERS: })'
-
-COMMENT = r'(?:\s*#(?P<comment>.*))?$'
-LINE = fr'^({COUNT_LINE}|{STANCE_LINE}|{TECHNIQUE_LINE}|{BUNKAI}|){COMMENT}'
-MATCHER = re.compile(LINE)
+    return re.compile(LINE)
 
 def main():
     parser = argparse.ArgumentParser(description='Check a kata description for correctness')
     parser.add_argument('filename', type=str, help='filename to check')
     args = parser.parse_args()
 
+    MATCHER = generate_parser_regex()
     with open(args.filename, 'r+') as f:
         for i, l in enumerate(f):
             m = MATCHER.match(l.strip('\n'))
