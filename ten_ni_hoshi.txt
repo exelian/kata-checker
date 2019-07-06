@@ -7,11 +7,11 @@
 2: Naar voren |W|
 - Zenkutsu dachi migi
   - Shuto oi jodan uke
-  - hikiashi migi
+  - migi hikiashi
 - Kokutsu dachi migi # voorste been terugtrekken
   - Seiken oi gedan barai
 3: Vanuit stand |W|
-  - migiashi chudan mae-geri
+  - migi chudan mae-geri
 - Zenkutsu dachi hidari
   - Seiken oi jodan uke
   - Seiken oi gedan barai
@@ -34,7 +34,7 @@
 - Kokutsu dachi hidari # voorste been terugtrekken
   - Seiken oi gedan barai
 7: Vanuit stand |O|
-  - hidariashi chudan mae-geri
+  - hidari chudan mae-geri
 - Zenkutsu dachi migi # Naar voren
   - Seiken oi jodan uke
   - Seiken oi gedan barai
@@ -54,7 +54,7 @@
   - Seiken oi gedan barai
   - Seiken oi uchi-uke
 10: Naar voren |N|
-  - migiashi chudan mae-geri
+  - migi chudan mae-geri
 - Zenkutsu dachi hidari
   - Seiken oi jodan uke
   - Seiken oi gedan barai
@@ -71,8 +71,8 @@
   - Seiken oi jodan uke
   - Seiken oi gedan barai
   - Seiken oi uchi-uke
-  - migiashi chudan mae-geri
-  - Sokuto migiashi kansetsu geri
+  - migi chudan mae-geri
+  - Sokuto migi kansetsu geri
 - Zenkutsu dachi migi
   - Tettsui komekami uchi kiai
 
@@ -99,10 +99,10 @@
   - Seiken oi uchi-uke
 17: Naar voren |Z|
 - Zenkutsu dachi hidari
-  - Seiken oi uchi-uke  & Seiken gyaku gedan barai (morote)
+  - Seiken oi uchi-uke & Seiken gyaku gedan barai (morote)
 18: Naar voren |Z|
 - Zenkutsu dachi migi
-  - Seiken oi uchi-uke  & Seiken gyaku gedan barai (morote)
+  - Seiken oi uchi-uke & Seiken gyaku gedan barai (morote)
 19: Naar voren |Z|
 - Zenkutsu dachi migi
   - Seiken morote chudan tsuki
