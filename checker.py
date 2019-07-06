@@ -28,6 +28,7 @@ STANCES = RegExFormat([
     'Uchi hachiji',
     'Tsuruashi',
     'Mami',
+    'Kosa',
     'Kake',
     'Juji'
 ])
@@ -59,10 +60,8 @@ HANDEDNESS = RegExFormat([
     'morote',
     'yama',
     'jun',
-    'migiashi',
-    'hidariashi',
-    'migite',
-    'hidarite'
+    'migi',
+    'hidari'
 ])
 
 TARGET = RegExFormat([
@@ -105,13 +104,12 @@ LEFT_RIGHT = RegExFormat(['migi', 'hidari'])
 DIRECTIONS = RegExFormat(['N', 'NO', 'O', 'ZO', 'Z', 'ZW', 'W', 'NW'])
 DIRECTION = fr'(?:\|(?:{DIRECTIONS})\|)'
 
-WAZA_PREFIX = '(uchi|soto|morote|mae|kake|mawashi)-'
-WAZA_PREFIX = '(uchi|soto|morote|mae|kake|mawashi)-'
-TECHNIQUE = fr'({WEAPON: })?\s?({HANDEDNESS: })\s?({TARGET: })\s?(?:{WAZA_PREFIX})?({WAZA})\s*(?:{LEFT_RIGHT})?'
+WAZA_PREFIX = '(uchi|soto|morote|mae|kake|mawashi|nagashi)-'
+TECHNIQUE = fr'({WEAPON: })?\s?({HANDEDNESS: })\s?({TARGET: })\s?(?:{WAZA_PREFIX})?({WAZA})'
 MOROTE = fr'{TECHNIQUE} & {TECHNIQUE}\s*(\(morote\))?'
 FOLLOWUP = fr'{TECHNIQUE} -> {TECHNIQUE}\s*(\(nidan\))?'
 
-BUNKAI = r'^=>(?P<attack>.*?): (?P<uke>(?s:.*))\.'
+BUNKAI = r'^=>(?P<attack>.*?):(?P<uke>(?s:.*))\.'
 
 COUNT_LINE = fr'(?P<step>\d+): (?P<desc>.*) {DIRECTION}'
 STANCE_LINE = fr'- (?P<stance>{STANCES:X} dachi) ({LEFT_RIGHT}|{DIRECTION})'
