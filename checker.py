@@ -65,7 +65,7 @@ def generate_parser_regex():
     TARGET = RegExFormat(output['TARGET'])
     WAZA = RegExFormat(output['WAZA'])
     TECHNIQUE_MODIFIERS = RegExFormat(output['TECHNIQUE_MODIFIERS'])
-    SPECIAL_TECHNIQUE = RegExFormat(['Kanku', 'Tensho'])
+    SPECIAL_TECHNIQUE = RegExFormat(['Kanku', 'Tensho', 'Tenkan', 'Tenshin'])
 
     LEFT_RIGHT = RegExFormat(['migi', 'hidari'])
     DIRECTIONS = RegExFormat(['N', 'NO', 'O', 'ZO', 'Z', 'ZW', 'W', 'NW'])
