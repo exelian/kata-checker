@@ -57,19 +57,20 @@
 - Zenkutsu dachi hidari
   - Seiken gyaku uchi gedan barai -> Seiken gyaku uchi uke # gyaku o uchi uke
 12: Vanuit stand |Z|
-  - (Chusoku) migiashi chudan mae geri
+  - (Chusoku) migiashi chudan mae-geri
 Doorstappen |Z|
 - Zenkutsu dachi migi
   - Seiken gyaku chudan tsuki
-  - Seiken gyaku uchi uke
+  - Seiken gyaku uchi-uke
 13: Vanuit stand |Z|
-  - (Chusoku) hidariashi chudan mae geri
+  - (Chusoku) hidari chudan mae-geri
 Doorstappen |Z|
 - Zenkutsu dachi hidari
   - Seiken gyaku chudan tsuki
 14: Naar voren |Z|
 - Zenkutsu dachi migi
-  - Seiken morote uke kiai
+  - Seiken morote-uke kiai
+=> 14 : morote uke gebruiken als nekwurging/slag naar de nek terwijl je met links arm vast houd.
 
 15: Draai 270gr naar links rugwaards |W|
 - Zenkutsu dachi hidari
