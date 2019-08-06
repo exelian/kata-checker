@@ -65,7 +65,7 @@ def generate_parser_regex():
     TARGET = RegExFormat(output['TARGET'])
     WAZA = RegExFormat(output['WAZA'])
     TECHNIQUE_MODIFIERS = RegExFormat(output['TECHNIQUE_MODIFIERS'])
-    SPECIAL_TECHNIQUE = RegExFormat(['Kanku', 'Tensho', 'Tenkan', 'Tenshin'])
+    MOVEMENT = RegExFormat(['Tenkan', 'Tenshin', 'Yori ashi', 'Tsugi ashi', 'Ayumi ashi', 'Tobi'])
 
     LEFT_RIGHT = RegExFormat(['migi', 'hidari'])
     DIRECTIONS = RegExFormat(['N', 'NO', 'O', 'ZO', 'Z', 'ZW', 'W', 'NW'])
@@ -79,8 +79,8 @@ def generate_parser_regex():
     BUNKAI = r'^=>(?P<attack>.*?):(?P<uke>(?s:.*))\.'
 
     COUNT_LINE = fr'(?P<step>\d+): (?P<desc>.*) {DIRECTION}'
-    STANCE_LINE = fr'- (?P<stance>{STANCES:X} dachi) ({LEFT_RIGHT}|{DIRECTION})'
-    TECHNIQUE_LINE = fr'  - (?P<actions>{TECHNIQUE}|{MOROTE}|{FOLLOWUP})\s*(?P<mod>{TECHNIQUE_MODIFIERS: })'
+    STANCE_LINE = fr'- (?P<stance>{STANCES:X} dachi)\s*({LEFT_RIGHT})?\s*({DIRECTION})?'
+    TECHNIQUE_LINE = fr'  - (?P<actions>{TECHNIQUE}|{MOROTE}|{FOLLOWUP}|{MOVEMENT})\s*(?P<mod>{TECHNIQUE_MODIFIERS: })'
 
     COMMENT = r'(?:\s*#(?P<comment>.*))?$'
     LINE = fr'^({COUNT_LINE}|{STANCE_LINE}|{TECHNIQUE_LINE}|{BUNKAI}|){COMMENT}'
