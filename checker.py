@@ -71,7 +71,7 @@ def generate_parser_regex():
     DIRECTIONS = RegExFormat(['N', 'NO', 'O', 'ZO', 'Z', 'ZW', 'W', 'NW'])
     DIRECTION = fr'(?:\|(?:{DIRECTIONS})\|)'
 
-    WAZA_PREFIX = '(uchi|soto|morote|mae|kake|mawashi|nagashi)-'
+    WAZA_PREFIX = RegExFormat(output['WAZA_PREFIX'])
     TECHNIQUE = fr'({WEAPON: })?\s?({HANDEDNESS: })\s?({TARGET: })\s?(?:{WAZA_PREFIX})?({WAZA})'
     MOROTE = fr'{TECHNIQUE} & {TECHNIQUE}\s*(\(morote\))?'
     FOLLOWUP = fr'{TECHNIQUE} -> {TECHNIQUE}\s*(\(nidan\))?'
