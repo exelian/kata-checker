@@ -9,11 +9,11 @@
   - Seiken gyaku gedan barai
   - Tettsui oi hizo uchi
 3: Been terugtrekken |W|
-  - hikiashi migi
+  - migi hikiashi
 - Kokutsu dachi migi
   - Seiken gyaku uchi-uke & Seiken oi gedan barai (morote)
 4: Trap + naar voren |W|
-  - migiashi chudan mae-geri
+  - migi chudan mae-geri
 - Zenkutsu dachi migi # meteen doorstappen
 - Zenkutsu dachi hidari
   - Shuto oi jodan uke
@@ -35,11 +35,11 @@
   - Seiken gyaku gedan barai
   - Tettsui oi hizo uchi
 8: Been terugtrekken |O|
-  - hikiashi hidari
+  - hidari hikiashi
 - Kokutsu dachi hidari
   - Seiken oi gedan barai & Seiken gyaku uchi-uke (morote)
 9: Trap + naar voren |O|
-  - hidariashi chudan mae-geri
+  - hidari chudan mae-geri
 - Zenkutsu dachi hidari # meteen doorstappen
 - Zenkutsu dachi migi
   - Shuto oi jodan uke
@@ -60,7 +60,7 @@
 - Kokutsu dachi migi
   - Seiken gyaku uchi-uke & Seiken oi gedan barai (morote)
 13: Trap + naar voren |N|
-  - migiashi chudan mae-geri
+  - migi chudan mae-geri
 - Zenkutsu dachi migi # meteen doorstappen
 - Zenkutsu dachi hidari
   - Shuto oi jodan uke
@@ -75,7 +75,7 @@
 - Zenkutsu dachi hidari
   - Haito oi uchi-uke & Shuto gyaku gedan barai (morote)
 16: Naar voren |N|
-  - migiashi jodan mae-geri
+  - migi jodan mae-geri
   - Hirate gyaku osai uke -> Nukite oi chudan
 
 17: Schuin naar voren |NO|
