@@ -1,29 +1,43 @@
-1: Naar links voor (NW)
+1: Naar links voor |NW|
 - Zenkutsu dachi hidari
   - Seiken oi jodan uke
 
-2: Achterste been bij trekken en naar rechts draaien (O)
+2: Achterste been bij trekken en naar rechts draaien |O|
 - Kokutsu dachi migi
-  - Seiken oi uchi uke
+  - Seiken oi uchi-uke
 
-3: Met links voor voren stappen (N)
+3: Met links voor voren stappen |N|
 - Zenkutsu dachi hidari
   - Seiken oi soto uke
 
-4: Blijven staan (N)
+4: Blijven staan |N|
 - Zenkutsu dachi hidari
   - Seiken gyaku chudan tsuki
 
-5: Links schuin naar achter verplaatsen (NO)
-- Kiba dachi
-  - Shuto jun yoko gedan barai # Richten NO
+5: Links schuin naar achter verplaatsen |NO|
+- Kiba dachi migi
+  - Shuto jun gedan barai # Richten NO
 
-6: Rechts verplaatsen naar zenkutsu dachi (NO)
+6: Rechts verplaatsen naar zenkutsu dachi |NO|
 - Zenkutsu dachi migi
   - Nukite gohon gyaku jodan
 
-7: Trap + aansluiten (NO)
-- Vanuit stand
-  - Chusoku jodan mae geri hidari
+7: Trap + aansluiten |NO|
+  - hidari jodan mae-geri
 - Heisoku dachi
-  - Hiki hidariashi & morote hidari hikite
+  - hidari hikiashi & hidari morote-hikite
+
+8: Trap + uraken |ZO|
+- Tsuruashi dachi migi
+  - Yoko migi chudan geri & Uraken yoko uchi
+  - Haishu yoko uchi
+- Zenkutsu dachi migi # Plaats je rechtervoet schuin naar achter zodat de volgende stand recht is
+  - Shotei oi jodan uchi & Empi gyaku jodan ate
+
+9: Draai naar kiba |NW|
+- Kiba dachi hidari
+  - Uraken jun yoko uchi
+
+10: Trek links bij |N|
+- Kokutsu dachi hidari
+  - Shuto mae mawashi uke
