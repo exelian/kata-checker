@@ -2,7 +2,7 @@
 - Kokutsu dachi hidari # morote hikite migi terwijl je in draait
   - Seiken oi uchi-uke
   - Seiken gyaku chudan tsuki
-  - hikiashi hidari & Seiken morote hikite migi
+  - hidari hikiashi & Seiken migi morote-hikite
 - Musubi dachi |N|
 => chudan oi tsuki hidari: blokeer met uchi uke, controleer geblokkeerde hand, stoot, rechterhand op achterhoofd & linkerhand op kin, gecontrolleerd gooien/naar de grond brengen.
 
@@ -10,7 +10,7 @@
 - Kokutsu dachi migi
   - Seiken oi uchi-uke
   - Seiken gyaku chudan tsuki
-  - hikiashi migi & Seiken morote hikite hidari
+  - migi hikiashi & Seiken hidari morote-hikite
 - Musubi dachi |N|
 
 3: Naar voren |N|
@@ -20,37 +20,51 @@
 - Zenkutsu dachi hidari
   - Seiken juji gedan uke
   - Seiken juji jodan uke
-  - Tensho 
-Doorstappen
-- Zenkutsu dachi migi
+  - tensho
+- Zenkutsu dachi migi # Doorstappen
   - Seiken oi chudan tsuki kiai
 => 4 mae geri & tsuki jodan migi: blokeer aanvalen, draai linkerhand palm naar boven en pak geblokeerde arm, trek en draai arm naar beneden terwijl je instapt, stoot naar het hoofd.
 => 4 jodan tsuki: blokeer tsuki met 2de juji uke, gebruik de gyaku hand om de arm naar beneden te begeleiden icm oi shotei jodan uchi, volg op met ganmen tsuki.
 
 5: Naar achter |Z|
   - Haishu chudan uke # je staat nog richting |N|, maar de blok is naar achter richting |Z|
-  - Mikazuki geri
-=> Terwijl je bij 4 nog de hand vast houd, met de mikazuki geri over de arm heenstappen, arm naar boven trekken en klemmen/breken.
+  - mikazuki geri
+=> 4 & 5: Terwijl je bij 4 nog de hand vast houd, met de mikazuki geri over de arm heenstappen, arm naar boven trekken en klemmen/breken.
 - Kiba dachi migi |Z| # je hoofd wijst richting |O|
   - Seiken jun gedan barai # |Z|
   - Haishu gyaku uke # |N|
 
 6: Naar links |N|
-  - Mikazuki geri
+  - mikazuki geri
   - Empi oi jodan ate # migi
 - Tsuruashi dachi migi
-Naar voren
-- Kake dachi migi
+- Kake dachi migi # stap door naar voren
   - Uraken jun yoko uchi # morote uchi uke?
-  - Seiken jun age tsuki (morote) kiai
-=> 5 & 6 oi tsuki migi: 
-  blokeer met haishu, 
-  mikazuki naar hoofd/lichaam, 
-  empi naar lichaam, 
-  rechterarm onder zijn (rechter) arm door, 
-  gebruik links zijn arm omhoog te buigen (bij de elleboog) 
-  klem met rechts door zijn pols vast te pakken
-  ga licht omhoog om uit balans te brengen
-  draai naar kakedachi om te werpen
-. 
+- Kokutsu dachi hidari |Z| # Draai je om terwijl je opstoot
+  - Seiken jun age tsuki kiai
+=> 5 & 6 oi tsuki migi: blokeer met haishu, mikazuki naar hoofd/lichaam, empi naar lichaam, rechterarm onder zijn (rechter) arm door, gebruik links zijn arm omhoog te buigen (bij de elleboog), klem met rechts door zijn pols vast te pakken, ga licht omhoog om uit balans te brengen, draai naar kakedachi om te werpen.
 
+7: Sprong naar voren |Z|
+  - Tobi
+- Juji dachi hidari |ZO|
+  - Seiken juji gedan uke
+- Zenkutsu dachi migi
+  - Seiken morote uchi-uke kiai
+
+8: Achterste voet verplaatsen |NW|
+- Zenkutsu dachi hidari
+  - Shotei oi jodan nagashi-uke
+  - Shotei gyaku gedan uchi
+- Kiba dachi hidari |NW| # Draai op je hiel, niet de bal van je voet
+  - ashi dori # Been beetpakken
+  - tai otoshi
+  - hidari hikiashi
+- Musubi dachi |N|
+
+9: Rechtervoet schuin verplaatsen |NO|
+- Zenkutsu dachi migi
+  - Shotei oi jodan nagashi-uke
+  - Shotei gyaku gedan uchi
+- Kiba dachi migi |NO| # Draai op je hiel, niet de bal van je voet
+  - ashi dori # Been beetpakken
+  - tai otoshi
