@@ -57,9 +57,10 @@
   - Shotei gyaku gedan uchi
 - Kiba dachi hidari |NW| # Draai op je hiel, niet de bal van je voet
   - ashi dori # Been beetpakken
-  - tai otoshi
+  - hidari tai otoshi
   - hidari hikiashi
 - Musubi dachi |N|
+=> 8 jodan tsuki: Gebruik de hikiashi voor een veeg ipv tai otoshi.
 
 9: Rechtervoet schuin verplaatsen |NO|
 - Zenkutsu dachi migi
