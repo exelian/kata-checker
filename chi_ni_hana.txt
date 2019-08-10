@@ -99,3 +99,30 @@
 
 17: Naar links draaien |Z|
 - Zenkutsu dachi hidari
+  - Seiken oi gedan barai
+- Sanchin dachi hidari # Achterste been aansluiten
+  - Seiken oi soto-uke
+  - Seiken gyaku jodan uke
+18: Naar voren trappen |Z|
+- Moroashi dachi hidari
+  - Yoko migi chudan geri # uraken?
+- Zenkutsu dachi migi
+  - Seiken oi uchi-uke
+  - Seiken gyaku uchi-uke
+  - Seiken oi jodan uke
+  - Seiken yama tsuki
+19: Naar voren |Z|
+- Zenkutsu dachi hidari
+  - Seiken oi uchi-uke
+  - Seiken gyaku uchi-uke
+  - Seiken oi jodan uke
+  - Seiken yama tsuki
+20: Naar voren |Z|
+- Zenkutsu dachi migi
+  - Seiken morote uchi-uke
+  - Seiken oi jodan tsuki
+  - Seiken gyaku gedan tsuki -> Seiken oi chudan tsuki (nidan)
+
+21: 270graden naar rechts |W|
+- Zenkutsu dachi hidari
+  - Seiken oi gedan barai
