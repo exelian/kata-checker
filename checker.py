@@ -57,7 +57,8 @@ def generate_parser_regex():
         'Mami',
         'Kosa',
         'Kake',
-        'Juji'
+        'Juji',
+        'Shiko'
     ])
 
     WEAPON = RegExFormat(output['WEAPON'])
@@ -72,7 +73,8 @@ def generate_parser_regex():
     DIRECTION = fr'(?:\|(?:{DIRECTIONS})\|)'
 
     WAZA_PREFIX = RegExFormat(output['WAZA_PREFIX'])
-    TECHNIQUE = fr'({WEAPON: })?\s?({HANDEDNESS: })\s?({TARGET: })\s?(?:{WAZA_PREFIX})?({WAZA})'
+    WAZA_SUFFFIX = RegExFormat(['komi'])
+    TECHNIQUE = fr'({WEAPON: })?\s?({HANDEDNESS: })\s?(?:({TARGET: })\s)*(?:{WAZA_PREFIX})?({WAZA})\s?({WAZA_SUFFFIX})?'
     MOROTE = fr'{TECHNIQUE} & {TECHNIQUE}\s*(\(morote\))?'
     FOLLOWUP = fr'{TECHNIQUE} -> {TECHNIQUE}\s*(\(nidan\))?'
 
