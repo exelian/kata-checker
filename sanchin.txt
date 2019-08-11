@@ -1,0 +1,61 @@
+1: Naar voren |N|
+- Sanchin dachi migi
+  - Seiken oi uchi-uke & Seiken gyaku uchi-uke (morote) ibuki # houd je oi hand op de dezelfde plek
+  - hidari hikite
+  - Seiken gyaku chudan tsuki ibuki
+  - Seiken gyaku uchi-uke ibuki
+2: Naar voren |N|
+- Sanchin dachi hidari
+  - Seiken oi uchi-uke & Seiken gyaku uchi-uke (morote) ibuki
+  - hidari hikite
+  - Seiken gyaku chudan tsuki ibuki
+  - Seiken gyaku uchi-uke ibuki
+3: Naar voren |N|
+- Sanchin dachi migi
+  - hidari hikite
+  - Seiken gyaku chudan kagi tsuki ibuki
+
+4: Rechts overstappen en 180 graden draaien |Z|
+- Sanchin dachi hidari
+  - Seiken oi uchi-uke # snel!
+  - Seiken gyaku chudan tsuki ibuki
+  - Seiken gyaku uchi-uke ibuki
+5: Naar voren |Z|
+- Sanchin dachi migi
+  - hidari hikite
+  - Seiken gyaku chudan kagi tsuki ibuki
+
+6: Rechts overstappen en 180 graden draaien |N|
+- Sanchin dachi hidari
+  - Seiken oi uchi-uke # snel!
+  - Seiken gyaku chudan tsuki ibuki
+  - Seiken gyaku uchi-uke ibuki
+7: Naar voren |N|
+- Sanchin dachi migi
+  - hidari hikite
+  - Seiken gyaku chudan tsuki ibuki
+  - Seiken gyaku uchi-uke ibuki
+8: Blijf op de plaats |N|
+- Sanchin dachi migi
+  - migi hikite
+  - Seiken oi chudan tsuki ibuki # OI!
+  - Seiken oi uchi-uke ibuki
+9: Blijf op de plaats |N|
+- Sanchin dachi migi
+  - hidari hikite
+  - Seiken gyaku chudan tsuki ibuki
+  - Seiken gyaku uchi-uke ibuki
+10: Blijf op de plaats |N|
+- Sanchin dachi migi
+  - morote hikite
+  - Gohon morote jodan nukite ibuki
+  - morote hikite
+  - Gohon morote jodan nukite ibuki
+  - morote hikite
+  - Gohon morote jodan nukite ibuki
+  - ushiro ayumi ashi migi
+- Sanchin dachi hidari # achterwaards!
+  - gyaku mae mawashi uke ibuki
+  - ushiro ayumi ashi hidari
+- Sanchin dachi migi # achterwaards!
+  - gyaku mae mawashi uke ibuki
