@@ -33,7 +33,7 @@ def parse_xml_file(filename):
     keyword_tags = root.findall('./UserLang/KeywordLists/Keywords')
 
     return {
-        KEYWORD_CLASSES[tag.attrib['name']]: tag.text.split(' ')
+        KEYWORD_CLASSES[tag.attrib['name']]: tag.text.split()
         for tag in keyword_tags
         if tag.attrib['name'].startswith('Keywords')
     }
@@ -66,9 +66,10 @@ def generate_parser_regex():
     TARGET = RegExFormat(output['TARGET'])
     WAZA = RegExFormat(output['WAZA'])
     TECHNIQUE_MODIFIERS = RegExFormat(output['TECHNIQUE_MODIFIERS'])
-    MOVEMENT = RegExFormat(['Tenkan', 'Tenshin', 'Yori ashi', 'Tsugi ashi', 'Ayumi ashi', 'Tobi'])
-
+    MOVEMENT_TYPE = RegExFormat(['tenkan', 'tenshin', 'yori ashi', 'tsugi ashi', 'surikomi ashi', 'ayumi ashi', 'tobi'])
     LEFT_RIGHT = RegExFormat(['migi', 'hidari'])
+    MOVEMENT = fr'(?:(mae|ushiro)\s)?({MOVEMENT_TYPE})\s?({LEFT_RIGHT})?'
+
     DIRECTIONS = RegExFormat(['N', 'NO', 'O', 'ZO', 'Z', 'ZW', 'W', 'NW'])
     DIRECTION = fr'(?:\|(?:{DIRECTIONS})\|)'
 
