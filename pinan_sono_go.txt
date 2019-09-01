@@ -1,3 +1,4 @@
+# Afgerond
 1: Naar links |W|
 - Kokutsu dachi hidari # morote hikite migi terwijl je in draait
   - Seiken oi uchi-uke
@@ -22,6 +23,7 @@
   - Seiken juji jodan uke
   - tensho
 - Zenkutsu dachi migi # Doorstappen
+  - Shotei oi chudan oshite # duw de tori of controleer zijn verdediging door te duwen
   - Seiken oi chudan tsuki kiai
 => 4 katate dori: gyaku hand onder de hand van tegenstand, omhoog brengen en klemmen door links naar beneden en rechts omhoog te duwen.
 => 4 mae geri & tsuki jodan migi: blokeer aanvalen, draai linkerhand palm naar boven en pak geblokeerde arm, trek en draai arm naar beneden terwijl je instapt, stoot naar het hoofd.
@@ -46,7 +48,7 @@
 => 5 & 6 oi tsuki migi: blokeer met haishu, mikazuki naar hoofd/lichaam, empi naar lichaam, rechterarm onder zijn (rechter) arm door, gebruik links zijn arm omhoog te buigen (bij de elleboog), klem met rechts door zijn pols vast te pakken, ga licht omhoog om uit balans te brengen, draai naar kakedachi om te werpen.
 
 7: Sprong naar voren |Z|
-  - Tobi
+  - tobi
 - Juji dachi hidari |ZO|
   - Seiken juji gedan uke
 - Zenkutsu dachi migi
@@ -70,3 +72,4 @@
 - Kiba dachi migi |NO| # Draai op je hiel, niet de bal van je voet
   - ashi dori # Been beetpakken
   - tai otoshi
+=> 9 jodan tsuki: blokeer en slag naar tanden, kote gaeshi/mawashi en veeg met voorste been .
