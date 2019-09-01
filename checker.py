@@ -33,7 +33,7 @@ def parse_xml_file(filename):
     keyword_tags = root.findall('./UserLang/KeywordLists/Keywords')
 
     return {
-        KEYWORD_CLASSES[tag.attrib['name']]: tag.text.split()
+        KEYWORD_CLASSES[tag.attrib['name']]: (tag.text or "").split()
         for tag in keyword_tags
         if tag.attrib['name'].startswith('Keywords')
     }
