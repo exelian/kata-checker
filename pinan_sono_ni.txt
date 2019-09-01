@@ -1,7 +1,7 @@
 1: Naar links |W|
 - Kokutsu dachi hidari # morote hikite migi terwijl je in draait
-  - Seiken morote hikite migi
-  - Seiken oi uchi uke & Seiken gyaku jodan uke (morote)
+  - Seiken migi morote-hikite
+  - Seiken oi uchi-uke & Seiken gyaku jodan uke (morote)
   - Tettsui gyaku hizo uchi # linkerhand voorbereiden door boven rechterschouder te plaatsen
 - Kiba dachi hidari # met links naar voren stappen zodat je gezicht richting noorden is
   - Tettsui jun yoko uchi
@@ -13,8 +13,8 @@
 
 2: Rechterbeen aansluiten en naar rechts draaien |O|
 - Kokutsu dachi migi
-  - Seiken morote hikite hidari
-  - Seiken oi uchi uke & Seiken gyaku jodan uke (morote)
+  - Seiken hidari morote-hikite
+  - Seiken oi uchi-uke & Seiken gyaku jodan uke (morote)
   - Tettsui gyaku hizo uchi # linkerhand voorbereiden door boven rechterschouder te plaatsen
 - Kiba dachi migi # met rechts naar voren stappen zodat je gezicht richting noorden is
   - Tettsui jun yoko uchi
@@ -36,7 +36,7 @@
 
 6: Naar voren |N|
 - Zenkutsu dachi migi
-  - Hirate gyaku osai uke -> Nukite gohon oi chudan kiai
+  - Hirate gyaku osae uke -> Gohon oi chudan nukite kiai
 
 7: 270gr rugwaards draaien |O|
 - Kokutsu dachi hidari
@@ -56,18 +56,18 @@
 
 11: 45gr naar links |Z|
 - Zenkutsu dachi hidari
-  - Seiken gyaku uchi gedan barai -> Seiken gyaku uchi uke # gyaku o uchi uke
+  - Seiken gyaku gedan uchi-barai -> Seiken gyaku uchi-uke # gyaku o uchi uke
 => 11 iemand pakt je rechterarm vast/duwt deze naar beneden: Beweeg je hand van gedan naar uchi uke voor een elleboogklem (overstrekking).
 12: Vanuit stand |Z|
   - migi chudan mae-geri
-Doorstappen |Z|
+  - ayumi ashi
 - Zenkutsu dachi migi
   - Seiken gyaku chudan tsuki
   - Seiken gyaku uchi-uke
 => 11 & 12 oi migi tsuki: blokeer met uchi uke, mae geri, o soto gari, tsuki.
 13: Vanuit stand |Z|
   - hidari chudan mae-geri
-Doorstappen |Z|
+  - ayumi ashi
 - Zenkutsu dachi hidari
   - Seiken gyaku chudan tsuki
 14: Naar voren |Z|
@@ -77,7 +77,7 @@ Doorstappen |Z|
 
 15: Draai 270gr naar links rugwaards |W|
 - Zenkutsu dachi hidari
-  - Seiken oi gedan barai -> oi hikite -> Nukite gohon oi jodan nagashi
+  - Seiken oi gedan barai -> Gohon oi jodan nagashi-nukite # Vergeet de hikite niet!
 
 16: Stap schuin naar voren |NW|
 - Zenkutsu dachi migi
@@ -86,7 +86,7 @@ Doorstappen |Z|
 
 17: Draai 135gr naar rechts |O|
 - Zenkutsu dachi migi
-  - Seiken oi gedan barai -> oi hikite -> Nukite gohon oi jodan nagashi
+  - Seiken oi gedan barai -> Gohon oi jodan nagashi-nukite # Vergeet de hikite niet!
 
 18: Stap schuin naar voren |NO|
 - Zenkutsu dachi hidari
