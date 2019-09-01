@@ -1,3 +1,4 @@
+# Afgerond
 1: Naar links |W|
 - Kokutsu dachi hidari # morote hikite migi terwijl je in draait
   - Haishu oi uchi-uke & Shuto gyaku jodan uke (morote)
@@ -39,7 +40,7 @@
   - Shuto oi jodan uke & Shuto gyaku ganmen uchi (morote)
 7: Vanuit stand |N|
   - migi chudan mae-geri
-  - Yori ashi
+  - yori ashi
 - Kake dachi migi
   - Uraken jun yoko uchi kiai
 
@@ -75,7 +76,7 @@
   - Seiken morote uchi-uke
 
 15: Vanuit stand |Z|
-  - Hiza migi ganmen geri # Zet je rechtervoet direct naast je linkervoet!
+  - Hiza migi ganmen geri kiai # Zet je rechtervoet direct naast je linkervoet!
 - Kokutsu dachi hidari |N| # Draai 180gr naar links
   - Shuto mawashi uchi
 
