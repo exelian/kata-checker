@@ -26,7 +26,7 @@
   - Shuto mawashi uchi
 8: Naar voren |N|
 - Zenkutsu dachi migi
-  - Hirate gyaku osai uke & Nukite oi chudan tsuki kiai
+  - Hirate gyaku osae uke & Gohon oi chudan nukite kiai
 
 9: 180gr draaien |Z|
 - Zenkutsu dachi hidari
@@ -91,7 +91,7 @@
 20: Naar voren |N|
   - migi hikite & migi hikiashi
 - Moroashi dachi migi
-  - Shiji tsuri tsuki kiai
+  #- Seiken shiji tsuri tsuki kiai
 
 21: 180gr draaien |Z|
 - Mami dachi hidari
@@ -104,7 +104,7 @@
 23: Naar voren |Z|
   - hidari hikite & hidari hikiashi
 - Moroashi dachi hidari
-  - Shiji tsuri tsuki # Doorstappen
+  #- Seiken Shiji tsuri tsuki # Doorstappen
 - Kake dachi migi
   - Seiken yama tsuki kiai
 
@@ -131,32 +131,32 @@
   - Shuto oi gedan uchi & Shotei gyaku gedan uchi
 28: Draai 270gr rugwaards |O|
 - Kiba dachi # In oostelijk richting
-  - Nukite gohon yoko chudan migi
-  - Nukite gohon yoko chudan hidari
+  - Gohon migi yoko chudan nukite
+  - Gohon hidari yoko chudan nukite
   - Kake migi uke
-  - Nukite gohon yoko chudan hidari # Naar voren, oostelijk
-  - Nukite gohon yoko chudan migi # Naar voren, oostelijk
+  - Gohon hidari yoko chudan nukite # Naar voren, oostelijk
+  - Gohon migi yoko chudan nukite # Naar voren, oostelijk
 29: Draai 180gr rugwaards |W|
 - Kiba dachi # In westlijke richting
-  - Nukite gohon yoko chudan hidari
-  - Nukite gohon yoko chudan migi
+  - Gohon hidari yoko chudan nukite
+  - Gohon migi yoko chudan nukite
   - Kake hidari uke
-  - Nukite gohon yoko chudan migi # Naar voren, westlijke
-  - Nukite gohon yoko chudan hidari # Naar voren, westlijke
+  - Gohon migi yoko chudan nukite # Naar voren, westlijke
+  - Gohon hidari yoko chudan nukite # Naar voren, westlijke
 30: Draai 90gr rugwaards |N|
 - Kiba dachi # In noordelijk richting
-  - Nukite gohon yoko chudan migi
-  - Nukite gohon yoko chudan hidari
+  - Gohon migi yoko chudan nukite
+  - Gohon hidari yoko chudan nukite
   - Kake migi uke
-  - Nukite gohon yoko chudan hidari # Naar voren, noordelijk
-  - Nukite gohon yoko chudan migi # Naar voren, noordelijk
+  - Gohon hidari yoko chudan nukite # Naar voren, noordelijk
+  - Gohon migi yoko chudan nukite # Naar voren, noordelijk
 31: Naar links |N|
 - Kiba dachi # In noordelijke richting
-  - Nukite gohon yoko chudan hidari
-  - Nukite gohon yoko chudan migi
+  - Gohon hidari yoko chudan nukite
+  - Gohon migi yoko chudan nukite
   - Kake hidari uke
-  - Nukite gohon yoko chudan migi # Naar voren, noordelijk
-  - Nukite gohon yoko chudan hidari # Naar voren, noordelijk
+  - Gohon migi yoko chudan nukite # Naar voren, noordelijk
+  - Gohon hidari yoko chudan nukite # Naar voren, noordelijk
 
 32: Pak persoon rechtsachter vast met 2 handen en werp naar links |W|
 - Zenkutsu dachi hidari
