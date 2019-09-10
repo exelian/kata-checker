@@ -56,8 +56,7 @@
 
 8: Achterste voet verplaatsen |NW|
 - Zenkutsu dachi hidari
-  - Shotei oi jodan nagashi-uke
-  - Shotei gyaku gedan uchi
+  - Shotei oi jodan nagashi-uke & Shotei gyaku gedan uchi
 - Kiba dachi hidari |NW| # Draai op je hiel, niet de bal van je voet
   - ashi dori # Been beetpakken
   - hidari tai otoshi
@@ -67,8 +66,7 @@
 
 9: Rechtervoet schuin verplaatsen |NO|
 - Zenkutsu dachi migi
-  - Shotei oi jodan nagashi-uke
-  - Shotei gyaku gedan uchi
+  - Shotei oi jodan nagashi-uke & Shotei gyaku gedan uchi
 - Kiba dachi migi |NO| # Draai op je hiel, niet de bal van je voet
   - ashi dori # Been beetpakken
   - tai otoshi
