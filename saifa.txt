@@ -1,13 +1,63 @@
-Bunkai voor de laatste passen (vanaf laatste kiai met gyaku tsuki)
+# Bunkai voor de laatste passen (vanaf laatste kiai met gyaku tsuki)
+#
+# tenkan = je tegenstander ontwijken
+#
+# aanvaller doet gyaku tsuki zenkutsu migi
+# stap naar voren en draai in (tenkan) + haito uchi = onder de gyaku tsuki en over de arm (rechte armklem , ude hishigi ude gatame)
+# nukite
+# mai mawashi uke = rechterhand onder kin, pak geklemde arm met links en draai door
+#
+#
+# Bunkai voor de veeg, tettsui shita tsuki
+# - je wordt beet gepakt bij rechterschouder, arm omhoog terwijl je draait (tettsui) om de greep te breken, maakt tettsui af (gezicht?) en volg met shita, volgt door een veeg
+# - veeg kan ook een blok van een low-kick zijn?
 
-tenkan = je tegenstander ontwijken
+1: Schuin naar voren |NO|
+- Kiba dachi migi
+  - tsugi ashi
+- Musubi dachi |W|
+  - migi morote-hikite
+  - Empi migi uke
+- Kiba dachi |N|
+  - Uraken jun yoko uchi & Toho gyaku hikite # katate dori?
+2: Schuin naar voren |NW|
+- Kiba dachi migi
+  - tsugi ashi
+- Musubi dachi |O|
+  - migi morote-hikite
+  - Empi migi uke
+- Kiba dachi |N|
+  - Uraken jun yoko uchi & Toho gyaku hikite # katate dori?
+3: Schuin naar voren |NO|
+- Kiba dachi migi
+  - tsugi ashi
+- Musubi dachi |W|
+  - migi morote-hikite
+  - Empi migi uke
+- Kiba dachi |N|
+  - Uraken jun yoko uchi & Toho gyaku hikite # katate dori?
 
-aanvaller doet gyaku tsuki zenkutsu migi
-stap naar voren en draai in (tenkan) + haito uchi = onder de gyaku tsuki en over de arm (rechte armklem , ude hishigi ude gatame)
-nukite
-mai mawashi uke = rechterhand onder kin, pak geklemde arm met links en draai door
+4: Linkervoet aansluiten en naar links stappen |N|
+- Musubi dachi
+  - ayumi ashi hidari # Stap naar links, met links, VERGEET NIET TE KIJKEN NAAR RECHTS!
+- Nekoashi dachi migi
+  - Shuto oi gedan barai & Haito gyaku uchi-uke (morote)
 
+5: Trap & beweeg naar rechts |N|
+  - migi chudan mae geri
+  - ayumi ashi migi # stap naar rechts met rechts, VERGEET NIET TE KIJKEN NAAR LINKS!
+- Nekoashi dachi hidari
+  - Shuto oi gedan barai & Haito gyaku uchi-uke (morote)
 
-Bunkai voor de veeg, tettsui shita tsuki
-- je wordt beet gepakt bij rechterschouder, arm omhoog terwijl je draait (tettsui) om de greep te breken, maakt tettsui af (gezicht?) en volg met shita, volgt door een veeg
-- veeg kan ook een blok van een low-kick zijn?
+6: Trap en stap naar achter |N|
+  - hidari chudan mae geri
+- Zenkutsu dachi migi
+  - Haito morote jodan soto uchi
+  - hidari hikite & migi hikite (morote)
+  - Seiken morote chudan tsuki
+
+7: Verplaats je voorste voet naar links en draai om |Z|
+- Zenkutsu dachi hidari
+  - Haito morote jodan soto uchi
+  - hidari hikite & migi hikite (morote)
+  - Seiken morote chudan tsuki
