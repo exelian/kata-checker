@@ -41,13 +41,13 @@
 - Musubi dachi
   - ayumi ashi hidari # Stap naar links, met links, VERGEET NIET TE KIJKEN NAAR RECHTS!
 - Nekoashi dachi migi
-  - Shuto oi gedan barai & Haito gyaku uchi-uke (morote)
+  - Shuto oi gedan barai & Haito gyaku uchi-uke (morote) ibuki
 
 5: Trap & beweeg naar rechts |N|
   - migi chudan mae geri
   - ayumi ashi migi # stap naar rechts met rechts, VERGEET NIET TE KIJKEN NAAR LINKS!
 - Nekoashi dachi hidari
-  - Shuto oi gedan barai & Haito gyaku uchi-uke (morote)
+  - Shuto oi gedan barai & Haito gyaku uchi-uke (morote) ibuki
 
 6: Trap en stap naar achter |N|
   - hidari chudan mae geri
@@ -55,9 +55,34 @@
   - Haito morote jodan soto uchi
   - hidari hikite & migi hikite (morote)
   - Seiken morote chudan tsuki
+  - Tettsui oi chudan ganmen uchi & Shotei gyaku chudan ganmen uchi (morote)
 
-7: Verplaats je voorste voet naar links en draai om |Z|
+7: Verplaats je voorste voet naar links en draai 180 graden |Z|
 - Zenkutsu dachi hidari
   - Haito morote jodan soto uchi
   - hidari hikite & migi hikite (morote)
   - Seiken morote chudan tsuki
+  - Tettsui oi chudan ganmen uchi & Shotei gyaku chudan ganmen uchi (morote)
+
+8: Veeg en draai 180 graden |N|
+  - migi ashi barai
+- Sanchin dachi migi
+  - Tettsui oi ganmen oroshi-uchi
+  - Uraken gyaku shita tsuki kiai
+
+9: Veeg en draai 180 graden |Z|
+  - hidari ashi barai
+- Sanchin dachi hidari
+  - Tettsui oi ganmen oroshi-uchi
+  - Uraken gyaku shita tsuki kiai
+
+10: naar voren |Z|
+- Zenkutsu dachi migi
+  - Seiken gyaku chudan tsuki kiai
+
+11: Draai 180 graden |N|
+  - tenkan
+- Kokutsu dachi migi
+  - Haito oi jodan uchi
+  - Gohon gyaku chudan nukite
+  - Shuto gyaku mae mawashi uke ibuki
