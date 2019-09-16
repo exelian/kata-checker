@@ -1,17 +1,3 @@
-# Bunkai voor de laatste passen (vanaf laatste kiai met gyaku tsuki)
-#
-# tenkan = je tegenstander ontwijken
-#
-# aanvaller doet gyaku tsuki zenkutsu migi
-# stap naar voren en draai in (tenkan) + haito uchi = onder de gyaku tsuki en over de arm (rechte armklem , ude hishigi ude gatame)
-# nukite
-# mai mawashi uke = rechterhand onder kin, pak geklemde arm met links en draai door
-#
-#
-# Bunkai voor de veeg, tettsui shita tsuki
-# - je wordt beet gepakt bij rechterschouder, arm omhoog terwijl je draait (tettsui) om de greep te breken, maakt tettsui af (gezicht?) en volg met shita, volgt door een veeg
-# - veeg kan ook een blok van een low-kick zijn?
-
 1: Schuin naar voren |NO|
 - Kiba dachi migi
   - tsugi ashi
@@ -20,12 +6,14 @@
   - Empi migi uke
 - Kiba dachi |N|
   - Uraken jun yoko uchi & Toho gyaku hikite # katate dori?
+=> 1 katate dori: gebruik de empi om de greep losser te maken/kote mawashi in te zetten, Empi om te counteren.
+=> 1 katate dori: trek hand naar je toe en overstrek elleboog van tori met de empi, evt opvolgen met mae geri.
 2: Schuin naar voren |NW|
-- Kiba dachi migi
+- Kiba dachi hidari
   - tsugi ashi
 - Musubi dachi |O|
-  - migi morote-hikite
-  - Empi migi uke
+  - hidari morote-hikite
+  - Empi hidari uke
 - Kiba dachi |N|
   - Uraken jun yoko uchi & Toho gyaku hikite # katate dori?
 3: Schuin naar voren |NO|
@@ -39,16 +27,15 @@
 
 4: Linkervoet aansluiten en naar links stappen |N|
 - Musubi dachi
-  - ayumi ashi hidari # Stap naar links, met links, VERGEET NIET TE KIJKEN NAAR RECHTS!
+  - ayumi ashi hidari # Stap naar links, met links, VERGEET NIET NAAR RECHTS TE KIJKEN!
 - Nekoashi dachi migi
   - Shuto oi gedan barai & Haito gyaku uchi-uke (morote) ibuki
-
+=> 4 tsuki: Gebruik de voorbereiding om de stoot op de vangen/klemmen tussen armen, kote gaeshi/mawashi afhankelijk van de tegenstander, opvolgen met hiza/mae geri.
 5: Trap & beweeg naar rechts |N|
   - migi chudan mae geri
-  - ayumi ashi migi # stap naar rechts met rechts, VERGEET NIET TE KIJKEN NAAR LINKS!
+  - ayumi ashi migi # stap naar rechts met rechts, VERGEET NIET NAAR LINKS TE KIJKEN!
 - Nekoashi dachi hidari
   - Shuto oi gedan barai & Haito gyaku uchi-uke (morote) ibuki
-
 6: Trap en stap naar achter |N|
   - hidari chudan mae geri
 - Zenkutsu dachi migi
@@ -56,6 +43,7 @@
   - hidari hikite & migi hikite (morote)
   - Seiken morote chudan tsuki
   - Tettsui oi chudan ganmen uchi & Shotei gyaku chudan ganmen uchi (morote)
+=> 6: Kopstoot, gebruik tettsui om contact te zoeken/houden, evt doorzetten in een polsklem.
 
 7: Verplaats je voorste voet naar links en draai 180 graden |Z|
 - Zenkutsu dachi hidari
@@ -69,6 +57,7 @@
 - Sanchin dachi migi
   - Tettsui oi ganmen oroshi-uchi
   - Uraken gyaku shita tsuki kiai
+=> 8: kata dori: arm omhoog terwijl je draait (tettsui) om de greep te breken, maakt tettsui af (gezicht?) en volg met shita, volgt door een veeg (veeg kan ook een blok van een low-kick zijn?).
 
 9: Veeg en draai 180 graden |Z|
   - hidari ashi barai
@@ -86,3 +75,5 @@
   - Haito oi jodan uchi
   - Gohon gyaku chudan nukite
   - Shuto gyaku mae mawashi uke ibuki
+=> 11 gyaku tsuki zenkutsu dachi migi: stap naar voren en draai in (tenkan) + haito uchi = onder de gyaku tsuki en over de arm (rechte armklem, ude hishigi ude gatame), nukite.
+=> 11: mai mawashi uke = rechterhand onder kin, pak geklemde arm met links en draai door.
