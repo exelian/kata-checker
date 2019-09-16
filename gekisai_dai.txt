@@ -1,0 +1,69 @@
+1: Naar links |W|
+- Sanchin dachi hidari
+  - Seiken oi jodan uke ibuki
+2: Naar voren |W|
+- Sanchin dachi migi
+  - Seiken oi jodan tsuki
+- Kiba dachi hidari |W|
+  - Seiken jun yoko gedan barai
+
+3: Links sluit aan bij rechts en stapt terug naar achter |O|
+- Sanchin dachi migi
+  - Seiken oi jodan uke ibuki
+4: Naar voren |O|
+- Sanchin dachi hidari
+  - Seiken oi jodan tsuki
+- Kiba dachi migi |O|
+  - Seiken jun yoko gedan barai
+
+5: Rechts sluit aan en stapt naar voren |N|
+- Sanchi dachi migi
+  - Seiken oi uchi-uke ibuki
+6: Naar voren |N|
+- Sanchi dachi hidari
+  - Seiken oi uchi-uke ibuki
+7: Naar voren |N|
+- Sanchi dachi migi
+  - Seiken oi uchi-uke ibuki
+8: Kamae, trappen en doorstappen |N|
+- Moroashi dachi migi
+  - hidari chudan mae geri
+- Zenkutsu dachi hidari
+  - Empi oi ago uchi
+  - Uraken oi ganmen uchi # Oroshi
+  - Tettsui oi ganmen uchi
+  - Seiken gyaku chudan tsuki
+  - migi ashi barai
+- Kiba dachi migi |Z|
+  - Shuto jun chudan yoko uchi kiai
+
+9: Naar voren |Z|
+- Sanchi dachi hidari
+  - Seiken oi uchi-uke ibuki
+10: Naar voren |Z|
+- Sanchi dachi migi
+  - Seiken oi uchi-uke ibuki
+11: Naar achter |Z| # blijf dezelfde kant op staan!
+- Sanchi dachi hidari
+  - Seiken oi uchi-uke ibuki
+12: Kamae, trappen en doorstappen |N|
+- Moroashi dachi hidari
+  - hidari chudan mae geri
+- Zenkutsu dachi migi
+  - Empi oi ago uchi
+  - Uraken oi ganmen uchi # Oroshi
+  - Tettsui oi ganmen uchi
+  - Seiken gyaku chudan tsuki
+  - migi ashi barai
+- Kiba dachi hidari |Z|
+  - Shuto jun chudan yoko uchi kiai
+
+12: Direct doorstappen |N|
+  - ayumi ashi
+- Zenkutsu dachi migi
+  - Seiken yama tsuki
+- Musubi dachi # Voorste been terugtrekken
+  - migi hikite & hidari hikite
+13: Naar voren |N|
+- Zenkutsu dachi hidari
+  - Seiken yama tsuki
