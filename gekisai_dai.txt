@@ -17,13 +17,13 @@
   - Seiken jun yoko gedan barai
 
 5: Rechts sluit aan en stapt naar voren |N|
-- Sanchi dachi migi
+- Sanchin dachi migi
   - Seiken oi uchi-uke ibuki
 6: Naar voren |N|
-- Sanchi dachi hidari
+- Sanchin dachi hidari
   - Seiken oi uchi-uke ibuki
 7: Naar voren |N|
-- Sanchi dachi migi
+- Sanchin dachi migi
   - Seiken oi uchi-uke ibuki
 8: Kamae, trappen en doorstappen |N|
 - Moroashi dachi migi
@@ -38,13 +38,13 @@
   - Shuto jun chudan yoko uchi kiai
 
 9: Naar voren |Z|
-- Sanchi dachi hidari
+- Sanchin dachi hidari
   - Seiken oi uchi-uke ibuki
 10: Naar voren |Z|
-- Sanchi dachi migi
+- Sanchin dachi migi
   - Seiken oi uchi-uke ibuki
 11: Naar achter |Z| # blijf dezelfde kant op staan!
-- Sanchi dachi hidari
+- Sanchin dachi hidari
   - Seiken oi uchi-uke ibuki
 12: Kamae, trappen en doorstappen |N|
 - Moroashi dachi hidari
