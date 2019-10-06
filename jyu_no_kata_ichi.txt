@@ -21,7 +21,7 @@
 
 6: Rechts verplaatsen naar zenkutsu dachi |NO|
 - Zenkutsu dachi migi
-  - Nukite gohon gyaku jodan
+  - Gohon gyaku jodan nukite
 
 7: Trap + aansluiten |NO|
   - hidari jodan mae-geri
@@ -41,4 +41,4 @@
 
 10: Trek links bij |N|
 - Kokutsu dachi hidari
-  - Shuto mae mawashi uke
+  - Shuto gyaku mae mawashi uke
