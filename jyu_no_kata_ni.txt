@@ -1,31 +1,59 @@
-zenkutsu dachi
-shuto oi jodan uke, gyaku tsuki
-zenkutsu dachi
-shotei oi soto uke, gyaku tsuki
-jodan mawashi geri
-oi jodan tsuki
-gyaku gedan tsuki
-zenkutsu dachi
-hikite/ashi
-musubi dachi
-yoko geri & uraken
-gyaku tsuki
-jodan mae geri
-180 gr draaien 
-kokutsu dachi
-uchi uke
-mae geri
-mae geri
-oi jodan tsuki
-gyaku chudan tsuki
-shotei oi soto uke, gyaku tsuki
-jodan mawashi geri
-oi jodan tsuki
-gyaku gedan tsuki
-zenkutsu dachi
-hikite/ashi
-musubi dachi
-yoko geri & uraken
-gyaku tsuki
-180 gr draaien 
-mae mawashi uke
+1: Naar voren |N|
+- Zenkutsu dachi hidari
+  - Shuto oi jodan uke
+  - Seiken gyaku chudan tsuki
+
+2: Draai naar rechts door je achterste voet te verplaatsen |O|
+- Zenkutsu dachi hidari
+  - Shotei oi soto uke
+  - Seiken gyaku chudan tsuki
+
+3: Trap en stap naar voren |O|
+  - Haisoku migi jodan mawashi geri
+- Zenkutsu dachi migi
+  - Seiken oi jodan tsuki # kizami
+  - Seiken gyaku chudan tsuki
+
+4: Voorste been terugtrekken |O|
+  - migi hikiashi & hidari morote-hikite
+- Musubi dachi |O|
+- Tsuruashi dachi migi
+  - Yoko migi chudan geri & Uraken oi yoko uchi
+- Zenkutsu dachi migi |Z|
+  - Seiken gyaku chudan tsuki
+
+5: Trappen en 180 graden draaien |Z|
+  - hidari mae jodan geri
+- Kokutsu dachi hidari |N|
+  - Seiken oi uchi-uke
+
+6: Trappen en naar voren |N|
+  - hidari mae geri # terugzetten
+  - migi mae geri
+- Zenkutsu dachi migi |N|
+  - Seiken oi jodan tsuki # kizami?
+  - Seiken gyaku chudan tsuki
+
+7: Draai naar links door je achterste voet te verplaatsen |W|
+- Zenkutsu dachi migi
+  - Shotei oi soto uke
+  - Seiken gyaku chudan tsuki
+
+8: Trap en stap naar voren |W|
+  - Haisoku hidari jodan mawashi geri
+- Zenkutsu dachi hidari
+  - Seiken oi jodan tsuki # kizami?
+  - Seiken gyaku chudan tsuki
+
+9: Voorste been terugtrekken |W|
+  - migi hikiashi & hidari morote-hikite
+- Musubi dachi |O|
+- Tsuruashi dachi hidari
+  - Yoko hidari chudan geri & Uraken oi yoko uchi
+- Zenkutsu dachi hidari |Z|
+  - Seiken gyaku chudan tsuki
+
+10: 180 graden draaien en achterste been terugtrekken |N|
+  - migi hikiashi
+- Kokutsu dachi migi |N|
+  - Shuto gyaku mae mawashi uke
