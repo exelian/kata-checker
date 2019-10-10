@@ -23,22 +23,23 @@ Most kata described here have defined origins.
 - Pinan sono san (Itosu Anko)
 - Pinan sono yon (Itosu Anko)
 - Pinan sono go (Itosu Anko)
-- Taikyoku sono ichi
-- Taikyoku sono ni
-- Taikyoku sono san
+- Taikyoku sono ichi (Funakoshi Yoshitaka)
+- Taikyoku sono ni (Funakoshi Yoshitaka)
+- Taikyoku sono san (Funakoshi Yoshitaka)
 
 ## Goju-ryu (Naha)
 - Gekisai dai (Miyagi Chojun)
 - Gekisai sho (Miyagi Chojun)
-- Saifa
-- Sanchin
-- Seienchin
-- Seipai
-- Tensho
+- Saifa (Miyagi Chojun?)
+- Sanchin (Higaonna Kanryo)
+- Seienchin (Trad.)
+- Seipai (Miyagi Chojun?)
+- Tensho (rokkishu, Miyagi Chojun)
 - Tsuki no kata (Seigokan, Seiko Tada?)
 - Yantsu? (Shitoryu ansan?)
 
-## Koryu kata (unknown origin)
+## Koryu kata (unknown origin, IKO-1 honbu)
 - Chi ni hana
 - Ten ni hoshi
 - Jin ni ai
+- Kaizen

@@ -1,0 +1,78 @@
+1: Naar links |W|
+- Kokutsu dachi hidari
+  - Seiken oi uchi-uke
+  - Seiken gyaku chudan tsuki
+  - ayumi ashi
+- Zenkutsu dachi migi |W|
+  - Seiken oi jodan uke
+  - Seiken gyaku chudan tsuki
+- Kiba dachi hidari |W|
+  - Seiken jun gedan barai
+
+2: Been terug trekken en 180 graden draaien |O|
+- Kokutsu dachi migi
+  - Seiken oi uchi-uke
+  - Seiken gyaku chudan tsuki
+  - ayumi ashi
+- Zenkutsu dachi hidari |O|
+  - Seiken oi jodan uke
+  - Seiken gyaku chudan tsuki
+- Kiba dachi migi |O|
+  - Seiken jun gedan barai
+
+3: Schuin naar voren |NO|
+- Kiba dachi migi # yonjyugo
+  - Haito jun jodan uchi-uchi ibuki
+  - Shuto jun gedan barai ibuki
+4: Schuin naar voren |NW|
+- Kiba dachi hidari # yonjyugo
+  - Haito jun jodan uchi-uchi ibuki
+  - Shuto jun gedan barai ibuki
+5: Schuin naar voren |NO|
+- Kiba dachi migi # yonjyugo
+  - Haito jun jodan uchi-uchi ibuki
+  - Shuto jun gedan barai ibuki
+
+6: Trappen en doorstappen |N|
+- Moroashi dachi migi
+  - hidari mae geri
+- Zenkutsu dachi hidari
+  - Seiken oi jodan uke
+  - Seiken gyaku chudan tsuki kiai
+  - Seiken gyaku uchi-uke
+  - Seiken gyaku gedan barai
+- Kokutsu dachi migi
+  - Shuto mawashi uke # kort, zonder de lage blok
+
+7: Gewicht naar voren, voorbereiden voor trap |ZO|
+- Tsuruashi dachi hidari
+  - Seiken migi morote-hikite
+  - Yoko hidari chudan geri & Uraken yoko uchi # tate, niet met de palm naar boven
+- Zenkutsu dachi hidari
+  - Seiken gyaku chudan tsuki
+8: Gewicht naar voren, voorbereiden voor trap |ZW|
+- Tsuruashi dachi migi
+  - Seiken hidari morote-hikite
+  - Yoko migi chudan geri & Uraken yoko uchi # tate, niet met de palm naar boven
+- Zenkutsu dachi migi
+  - Seiken gyaku chudan tsuki
+9: Gewicht naar voren, voorbereiden voor trap |ZO|
+- Tsuruashi dachi hidari
+  - Seiken migi morote-hikite
+  - Yoko hidari chudan geri & Uraken yoko uchi # tate, niet met de palm naar boven
+- Zenkutsu dachi hidari
+  - Seiken gyaku chudan tsuki
+
+10: Trappen en recht naar voren |ZO|
+  - migi mae geri
+- Kake dachi migi |Z|
+  - Seiken yama tsuki kiai
+
+11: 180 graden draaien en met links uitstappen |N|
+- Kokutsu dachi hidari
+  - Shuto mawashi uke # kort, zonder de lage blok
+12: Naar achter stappen |N|
+- Kokutsu dachi migi
+  - Haito oi jodan  uchi
+  - Gohon gyaku chudan nukite
+  - Shuto gyaku mae mawashi uke ibuki
