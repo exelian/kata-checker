@@ -1,0 +1,60 @@
+1: Schuin naar achter |NW|
+- Kiba dachi hidari # yonjyugo
+  - Seiken jun yoko gedan barai
+  - Seiken gyaku chudan tsuki
+2: Stap naar voren |NO|
+- Kiba dachi migi # yonjyugo
+  - Seiken jun yoko gedan barai
+  - Seiken gyaku chudan tsuki
+3: Naar voren |N|
+- Sanchin dachi hidari
+  - Seiken gyaku chudan tsuki
+4: Naar voren |N|
+- Sanchin dachi migi
+  - Seiken gyaku chudan tsuki
+5: Naar voren |N|
+- Zenkutsu dachi hidari
+  - Seiken gyaku gedan tsuki
+6: Naar voren |N|
+- Zenkutsu dachi migi 
+  - Seiken gyaku gedan tsuki -> Seiken oi chudan tsuki (nidan) kiai
+
+7: 180 graden draaien, voorste been terug trekken |Z|
+- Sanchin dachi hidari
+  - Seiken oi uchi-uke ibuki
+  - Seiken gyaku chudan tsuki
+8: Naar voren |Z|
+- Sanchin dachi migi
+  - Seiken oi uchi-uke ibuki
+  - Seiken gyaku chudan tsuki -> Seiken oi chudan tsuki
+9: Naar voren |Z|
+- Zenkutsu dachi hidari
+  - Seiken oi jodan tsuki
+10: Naar voren |Z|
+- Zenkutsu dachi migi
+  - Seiken oi jodan tsuki kiai
+
+11: Achterste been verplaatsen, 180 gr draaien |N|
+- Zenkutsu dachi hidari
+  - Seiken oi uchi-uke & Seiken gyaku gedan barai (morote) ibuki
+
+12: Trappen, opzij draaien, stoten doorstappen, omdraaien |O|
+  - migi mae geri # Naar rechts draaien
+- Kiba dachi migi
+  - Seiken jun chudan tsuki
+- Kiba dachi hidari # Doorstappen
+  - Seiken jun chudan tsuki
+- Kiba dachi migi |W| # Blijven staan
+  - Gohon jun chudan nukite
+13: Doorstappen |W|
+- Kiba dachi hidari # Doorstappen
+  - Gohon jun chudan nukite
+
+14: Linkerbeen aansluiten |N|
+- Zenkutsu dachi migi
+  - Seiken oi uchi-uke & Seiken gyaku gedan barai (morote) ibuki
+15: Vanuit stand |N|
+  - Seiken oi jodan tsuki -> Seiken oi gedan tsuki -> Seiken oi chudan tsuki kiai
+  - migi hikiashi
+- Sanchin dachi migi
+  - Shuto oi mae mawashi uke ibuki

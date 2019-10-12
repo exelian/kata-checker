@@ -78,12 +78,13 @@ def generate_parser_regex():
     TECHNIQUE = fr'({WEAPON: })?\s?({HANDEDNESS: })\s?(?:({TARGET: })\s)*(?:{WAZA_PREFIX})?({WAZA})\s?({WAZA_SUFFFIX})?'
     MOROTE = fr'{TECHNIQUE} & {TECHNIQUE}\s*(\(morote\))?'
     FOLLOWUP = fr'{TECHNIQUE} -> {TECHNIQUE}\s*(\(nidan\))?'
+    FOLLOWUP3 = fr'{TECHNIQUE} -> {TECHNIQUE} -> {TECHNIQUE}\s*(\(sandan\))?'
 
     BUNKAI = r'^=>(?P<attack>.*?):(?P<uke>(?s:.*))\.'
 
     COUNT_LINE = fr'(?P<step>\d+): (?P<desc>.*) {DIRECTION}'
     STANCE_LINE = fr'- (?P<stance>{STANCES:X} dachi)\s*({LEFT_RIGHT})?\s*({DIRECTION})?'
-    TECHNIQUE_LINE = fr'  - (?P<actions>{TECHNIQUE}|{MOROTE}|{FOLLOWUP}|{MOVEMENT})\s*(?P<mod>{TECHNIQUE_MODIFIERS: })'
+    TECHNIQUE_LINE = fr'  - (?P<actions>{TECHNIQUE}|{MOROTE}|{FOLLOWUP}|{FOLLOWUP3}|{MOVEMENT})\s*(?P<mod>{TECHNIQUE_MODIFIERS: })'
 
     COMMENT = r'(?:\s*#(?P<comment>.*))?$'
     LINE = fr'^({COUNT_LINE}|{STANCE_LINE}|{TECHNIQUE_LINE}|{BUNKAI}|){COMMENT}'
