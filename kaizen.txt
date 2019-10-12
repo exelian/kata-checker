@@ -1,4 +1,19 @@
---FUDO--
+1: Sluit been aan |N|
+- Heisoku dachi
+  - hidari hikiashi 
+  - Hirate hidari tate-hikite & Seiken migi tate-hikite # Naar links terugtrekken!
+2: Naar voren |N|
+- Zenkutsu dachi hidari
+  - Seiken gyaku gedan barai
+3: Sluit aan |N|
+- Heisoku dachi
+  - hidari hikiashi 
+  - Hirate hidari tate-hikite & Seiken migi tate-hikite # Naar links terugtrekken!
+4: Stap met rechts uit |O|
+- Zenkutsu dachi migi
+  - Seiken oi gedan barai
+- Kiba dachi hidari |W| # kijkt naar voren |N|
+  - Seiken jun chudan kagi tsuki
 
 Heisoku-dachi, "Chinese kenpo-ish houding"
 Schuin-links zenkutsu-dachi, gyaku sayu(?) gedan barai
