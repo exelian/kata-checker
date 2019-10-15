@@ -1,0 +1,49 @@
+1: Naar voren |N|
+- Sanchin dachi migi
+  - Seiken oi uchi-uke ibuki
+  - Kake oi hikite
+  - Shuto oi sakotsu uchi-komi ibuki
+  - Shuto oi hizo uchi
+  - Shotei oi hikite
+  - Shotei oi gedan barai
+  - Koken oi jodan uke
+  - Koken oi hikite
+  - Shuto oi sakotsu uchi-komi ibuki
+  - Koken oi chudan uchi-uke
+  - Shotei oi hizo uchi ibuki
+2: Naar voren |N|
+- Sanchin dachi hidari
+  - Seiken oi uchi-uke ibuki
+  - Kake oi hikite
+  - Shuto oi sakotsu uchi-komi ibuki
+  - Shuto oi hizo uchi
+  - Shotei oi hikite
+  - Shotei oi gedan barai
+  - Koken oi jodan uke
+  - Koken oi hikite
+  - Shuto oi sakotsu uchi-komi ibuki
+  - Koken oi chudan uchi-uke
+  - Shotei oi hizo uchi ibuki
+3: Naar voren |N|
+- Sanchin dachi migi
+  - Seiken morote uchi-uke ibuki
+  - Kake morote hikite
+  - Shuto morote sakotsu uchi-komi ibuki
+  - Shuto morote hizo uchi
+  - Shotei morote hikite
+  - Shotei morote gedan barai
+  - Koken morote jodan uke
+  - Koken morote hikite
+  - Shuto morote sakotsu uchi-komi ibuki
+  - Koken morote chudan uchi-uke
+  - Shotei morote hizo uchi ibuki
+4: Blijven staan |N|
+  - Gohon morote jodan nukite ibuki
+  - Gohon morote jodan nukite ibuki
+  - Gohon morote jodan nukite ibuki
+  - ushiro ayumi ashi migi
+- Sanchin dachi hidari
+  - gyaku mae mawashi uke ibuki
+  - ushiro ayumi ashi hidari
+- Sanchin dachi migi
+  - gyaku mae mawashi uke ibuki
