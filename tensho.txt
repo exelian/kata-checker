@@ -2,39 +2,39 @@
 - Sanchin dachi migi
   - Seiken oi uchi-uke ibuki
   - Kake oi hikite # Inademen
-  - Shuto oi sakotsu uchi ibuki # komi
+  - Shuto oi sakotsu uchikomi ibuki
   - Shuto oi hizo uchi
   - Shotei oi hikite # Inademen
   - Shotei oi gedan barai ibuki
   - Koken oi jodan uke
   - Koken oi hikite # Inademen
-  - Shuto oi sakotsu uchi ibuki # komi
+  - Shuto oi sakotsu uchikomi ibuki
   - Koken oi chudan uchi-uke
   - Shotei oi hizo uchi ibuki
 2: Naar voren |N|
 - Sanchin dachi hidari
   - Seiken oi uchi-uke ibuki
   - Kake oi hikite # Inademen
-  - Shuto oi sakotsu uchi ibuki # komi
+  - Shuto oi sakotsu uchikomi ibuki
   - Shuto oi hizo uchi
   - Shotei oi hikite # Inademen
   - Shotei oi gedan barai ibuki
   - Koken oi jodan uke
   - Koken oi hikite # Inademen
-  - Shuto oi sakotsu uchi ibuki # komi
+  - Shuto oi sakotsu uchikomi ibuki
   - Koken oi chudan uchi-uke
   - Shotei oi hizo uchi ibuki
 3: Naar voren |N|
 - Sanchin dachi migi
   - Seiken morote uchi-uke ibuki
   - Kake morote hikite # Inademen
-  - Shuto morote sakotsu uchi ibuki # komi
+  - Shuto morote sakotsu uchikomi ibuki
   - Shuto morote hizo uchi
   - Shotei morote hikite # Inademen
   - Shotei morote gedan barai ibuki
   - Koken morote jodan uke
   - Koken morote hikite # Inademen
-  - Shuto morote sakotsu uchi ibuki # komi
+  - Shuto morote sakotsu uchikomi ibuki
   - Koken morote chudan uchi-uke
   - Shotei morote hizo uchi ibuki
 4: Blijven staan |N|

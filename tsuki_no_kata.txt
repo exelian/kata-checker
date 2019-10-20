@@ -1,9 +1,9 @@
 1: Schuin naar achter |NW|
-- Kiba dachi hidari # yonjyugo
+- Yonjugo kiba dachi hidari
   - Seiken jun yoko gedan barai
   - Seiken gyaku chudan tsuki
 2: Stap naar voren |NO|
-- Kiba dachi migi # yonjyugo
+- Yonjugo kiba dachi migi
   - Seiken jun yoko gedan barai
   - Seiken gyaku chudan tsuki
 3: Naar voren |N|

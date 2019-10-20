@@ -20,16 +20,16 @@
 - Kiba dachi migi |O|
   - Seiken jun gedan barai
 
-3: Schuin naar voren |NO|
-- Kiba dachi migi # yonjyugo
+3: Schuin naar voren |N|
+- Yonjugo kiba dachi migi
   - Haito jun jodan uchi-uchi ibuki
   - Shuto jun gedan barai ibuki
-4: Schuin naar voren |NW|
-- Kiba dachi hidari # yonjyugo
+4: Schuin naar voren |N|
+- Yonjugo kiba dachi hidari
   - Haito jun jodan uchi-uchi ibuki
   - Shuto jun gedan barai ibuki
-5: Schuin naar voren |NO|
-- Kiba dachi migi # yonjyugo
+5: Schuin naar voren |N|
+- Yonjugo kiba dachi migi
   - Haito jun jodan uchi-uchi ibuki
   - Shuto jun gedan barai ibuki
 
