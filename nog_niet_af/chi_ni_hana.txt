@@ -34,7 +34,7 @@
   - hidari hikiashi
 - Sanchin dachi hidari # voorste been terugtrekken
   - Seiken gyaku gedan barai
-  - Haito gyaku jodan soto-uchi
+  - Haito gyaku jodan soto uchi
   - Uraken oi shita tsuki
 7: Naar voren |O|
 - Kosa dachi hidari # voorste been kwartslag draaien als voorbereiding
@@ -54,9 +54,9 @@
 - Zenkutsu dachi hidari # links blijft staan, rechts gaat naar achter
   - Seiken oi jodan uke
   - Seiken oi gedan barai
-  - Seiken gyaku soto-uke
+  - Seiken gyaku soto uke
   - Seiken oi uchi-uke
-  - Shuto gyaku sakotsu uchi komi
+  - Shuto gyaku sakotsu uchikomi
 10: Naar voren |N|
 - Kokutsu dachi migi
   - Shuto mawashi uke
@@ -77,35 +77,33 @@
 - Zenkutsu dachi hidari
   - Seiken oi gedan barai
   - Seiken oi uchi-uke
-  # Stoot?
 14: Trappen en doorstappen |NO|
   - Haisoku migi chudan mawashi geri
 - Shiko dachi migi
   - Seiken jun jodan uke # deze opzij
-  - Seiken jun soto-uke # deze recht voor je
+  - Seiken jun soto uke # deze recht voor je
   - Empi jun chudan yoko uchi
 
 15: ong. 270 graden draaien |NW|
 - Zenkutsu dachi migi
   - Seiken oi gedan barai
   - Seiken oi uchi-uke
-  # Stoot?
 16: Trappen en doorstappen |NO|
   - Haisoku hidari chudan mawashi geri
 - Shiko dachi hidari
   - Seiken jun jodan uke # deze opzij
-  - Seiken jun soto-uke # deze recht voor je
+  - Seiken jun soto uke # deze recht voor je
   - Empi jun chudan yoko uchi
 
 17: Naar links draaien |Z|
-- Zenkutsu dachi hidari
+- Moroashi dachi hidari
   - Seiken oi gedan barai
 - Sanchin dachi hidari # Achterste been aansluiten
-  - Seiken oi soto-uke
+  - Seiken oi soto uke
   - Seiken gyaku jodan uke
 18: Naar voren trappen |Z|
 - Moroashi dachi hidari
-  - Yoko migi chudan geri # uraken?
+  - Yoko migi chudan geri
 - Zenkutsu dachi migi
   - Seiken oi uchi-uke
   - Seiken gyaku uchi-uke
