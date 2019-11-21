@@ -1,0 +1,68 @@
+1: Naar voren |N|
+- Zenkutsu dachi migi
+  - Seiken oi jodan uke
+  - Seiken gyaku chudan tsuki
+- Kiba dachi |W| # Verplaats je achterste voet
+  - Uraken migi shita tsuki
+
+2: Naar linksvoor |ZW|
+- Zenkutsu dachi hidari
+  - Seiken oi jodan uke
+  - Seiken oi gedan barai
+  - ayumi ashi
+- Zenkutsu dachi migi
+  - Empi oi ago uchi
+
+3: 180 graden draaien |NO|
+- Zenkutsu dachi migi
+  - Seiken oi gedan barai
+  - Seiken gyaku uchi-uke
+  - Tettsui oi ganmen uchi
+
+4: 90 graden opzij |ZO|
+- Zenkutsu dachi migi
+  - Seiken oi jodan uke
+  - Seiken oi gedan barai
+  - ayumi ashi
+- Zenkutsu dachi hidari
+  - Empi oi ago uchi
+
+5: 180 graden draaien |NO|
+- Zenkutsu dachi hidari
+  - Seiken oi gedan barai
+  - Seiken gyaku uchi-uke
+  - Tettsui oi ganmen uchi
+
+6: Voorste been verzetten |N|
+- Zenkutsu dachi hidari
+  - Seiken oi jodan uke
+  - Seiken gyaku chudan tsuki
+- Kiba dachi |O| # Verplaats je achterste voet
+  - Uraken migi shita tsuki
+
+7: Linker been terugtrekken |O|
+- Kokutsu dachi hidari
+  - Seiken morote uke
+  - Seiken kakiwake uke
+  - hidari mae geri
+- Zenkutsu dachi hidari
+
+8: Omdraaien en achterste been terugtrekken |W|
+- Kokutsu dachi migi
+  - Seiken morote uke
+  - Seiken kakiwake uke
+  - migi mae geri
+- Zenkutsu dachi migi
+- Musubi dachi
+  - waki kamae
+
+9: Yoki geri naar links |Z|
+- Tsuruashi dachi hidari
+  - Yoko hidari chudan geri & Uraken yoko tate-uchi
+- Zenkutsu dachi hidari
+  - Seiken morote chudan tsuki
+  - Seiken yama tsuki
+
+10: 180 graden draaien en achterste been terugtrekken |N|
+- Kokutsu dachi migi
+  - Shotei oi mae mawashi uke
