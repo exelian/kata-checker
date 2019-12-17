@@ -5,10 +5,10 @@
 2: Naar voren |W|
 - Zenkutsu dachi migi
   - Seiken oi jodan uke
-  - migi hikiashi
+  - migi ushiro hikiashi
 - Sanchin dachi migi # voorste been terugtrekken
   - Seiken gyaku gedan barai
-  - Haito gyaku mawashi jodan soto-uchi
+  - Haito gyaku jodan soto uchi
   - Uraken oi shita tsuki
 3: Naar voren |W|
 - Kosa dachi migi # voorste been kwartslag draaien als voorbereiding
@@ -17,8 +17,9 @@
 => 2 & 3 oi tsuki migi: blokeer tsuki met gedan barai, zet beweging voort onder arm en klem arm/ellebog op je schouder, shuta tsuki, stap naar voren met kiba en werp met gedan barai (5de pinan?).
 => 3: tai otoshi ipv gedan barai.
 4: Naar voren |W|
+  - migi mae hikiashi
 - Sanchin dachi hidari # achterste been bijtrekken, maar wel als achterste laten
-  - Seiken gyaku soto-uke
+  - Seiken gyaku soto uke
   - Shuto oi jodan uke
   - Shuto oi jodan uchi-uchi
 - Zenkutsu dachi migi
@@ -31,7 +32,7 @@
 6: Naar voren |O|
 - Zenkutsu dachi hidari
   - Seiken oi jodan uke
-  - hidari hikiashi
+  - hidari ushiro hikiashi
 - Sanchin dachi hidari # voorste been terugtrekken
   - Seiken gyaku gedan barai
   - Haito gyaku jodan soto uchi
@@ -41,8 +42,9 @@
 - Kiba dachi migi
   - Seiken jun yoko gedan barai
 8: Naar voren |O|
+  - migi mae hikiashi
 - Sanchin dachi migi # achterste been bijtrekken, maar wel als achterste laten
-  - Seiken gyaku soto-uke
+  - Seiken gyaku soto uke
   - Shuto oi jodan uke
   - Shuto oi jodan uchi-uchi
 - Zenkutsu dachi hidari
@@ -70,6 +72,7 @@
   - Haito oi uchi-uke
   - Shuto gyaku jodan uchi
   - migi jodan mae geri
+  - yori ashi migi
 - Kake dachi migi
   - Uraken jun yoko uchi kiai
 
@@ -96,13 +99,13 @@
   - Empi jun chudan yoko uchi
 
 17: Naar links draaien |Z|
-- Moroashi dachi hidari
+- Zenkutsu dachi hidari
   - Seiken oi gedan barai
 - Sanchin dachi hidari # Achterste been aansluiten
   - Seiken oi soto uke
   - Seiken gyaku jodan uke
 18: Naar voren trappen |Z|
-- Moroashi dachi hidari
+- Tsuruashi dachi hidari
   - Yoko migi chudan geri
 - Zenkutsu dachi migi
   - Seiken oi uchi-uke
@@ -124,3 +127,27 @@
 21: 270graden naar rechts |W|
 - Zenkutsu dachi hidari
   - Seiken oi gedan barai
+  - Seiken oi uchi-uke
+  - Seiken gyaku gedan tsuki -> Seiken oi chudan tsuki (nidan)
+22: Naar voren |W|
+- Zenkutsu dachi migi
+  - Seiken gyaku uchi-uke
+  - Tettsui oi komekami uchi
+
+23: Draai 180 graden |W|
+- Zenkutsu dachi migi
+  - Seiken oi gedan barai
+  - Seiken oi uchi-uke
+  - Seiken gyaku gedan tsuki -> Seiken oi chudan tsuki (nidan)
+24: Naar voren |W|
+- Zenkutsu dachi hidari
+  - Seiken gyaku uchi-uke
+  - Tettsui oi komekami uchi
+
+25: Naar links |N|
+- Zenkutsu dachi hidari
+  - Seiken oi gedan barai
+  - Seiken oi uchi-uke
+  - Shuto gyaku sakotsu oroshi-uchi
+  - ushiro ayumi ashi hidari
+  - Shotei mae mawashi-uke
