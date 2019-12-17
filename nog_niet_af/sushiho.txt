@@ -23,14 +23,14 @@
 - Tsuruashi dachi migi
   - Seiken migi waki kamae # Ja, migi
   - migi chudan yoko geri
-- Kiba dachi |O|
+- Kiba dachi migi |O|
   - Seiken jun chudan tsuki
 
 8: Naar links |W|
 - Tsuruashi dachi hidari # been optrekken, kiba naar voren gericht
   - Seiken migi waki kamae # Ja, migi
   - hidari chudan yoko geri
-- Kiba dachi |W| # naar links neer zetten, kiba naar voren gericht
+- Kiba dachi hidari |W| # naar links neer zetten, kiba naar voren gericht
   - Seiken jun chudan tsuki
 
 9: Naar voren |N|
@@ -50,3 +50,53 @@
 
 12: Draai 180 graden |Z|
 - Kokutsu dachi hidari
+  - Shuto migi waki kamae
+  - Shuto oi chudan kake-uke
+  - Hirate oi osae uke -> Gohon gyaku chudan nukite
+13: Naar voren |Z|
+- Kokutsu dachi migi
+  - Shuto migi waki kamae
+  - Shuto oi chudan kake-uke
+  - Hirate oi osae uke -> Gohon gyaku chudan nukite
+14: Naar voren |Z|
+- Kokutsu dachi hidari
+  - Shuto migi waki kamae
+  - Shuto oi chudan kake-uke
+  - Hirate oi osae uke -> Gohon gyaku chudan nukite
+15: Aansluiten en naar voren |Z|
+- Heisoku dachi |W|
+- Kiba dachi hidari |Z|
+  - Shuto jun gedan morote-uchi
+
+16: Naar achter stappen |Z|
+  - ushiro surikomi ashi hidari # Zet je linkervoet ACHTER de rechtervoet
+- Kiba dachi hidari |Z|
+  - Shuto jun gedan morote-uchi
+- Kiba dachi migi |N| # Niet verplaatsen, alleen draaien!
+  - Tettsui gyaku gedan morote-uchi
+17: Naar achter stappen |N|
+  - ushiro surikomi ashi migi # Zet je rechtervoet ACHTER de linker
+- Kiba dachi migi |N|
+  - Shuto jun gedan morote-uchi
+- Kiba dachi hidari |Z| # Niet verplaatsen, alleen draaien!
+  - Tettsui gyaku gedan morote-uchi
+18: Naar voren |Z|
+- Moroashi dachi migi
+  - Hirate gyaku osae uke -> Uraken oi ganmen oroshi-uchi kiai
+
+19: Draai 180 graden |N|
+- Sanchin dachi hidari
+  - Seiken oi uchi-uke
+  - Empi oi jodan ate
+  - Uraken oi ganmen oroshi-uchi
+  - Shuto gyaku hizo uchi
+20: Naar voren |N|
+- Sanchin dachi migi
+  - Empi oi jodan ate
+  - Uraken oi ganmen oroshi-uchi
+  - Shuto gyaku hizo uchi
+21: Naar voren |N|
+- Sanchin dachi hidari
+  - Empi oi jodan ate
+  - Uraken oi ganmen oroshi-uchi
+  - Shuto gyaku hizo uchi
