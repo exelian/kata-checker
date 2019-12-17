@@ -1,12 +1,12 @@
 1: Naar voren |N|
 - Moroashi dachi migi
-  - Hirate gyaku osae uke -> Uraken oi ganmen uchi
+  - Hirate gyaku osae uke -> Uraken oi ganmen oroshi-uchi
 2: Naar voren |N|
 - Moroashi dachi migi
-  - Hirate gyaku osae uke -> Uraken oi ganmen uchi
+  - Hirate gyaku osae uke -> Uraken oi ganmen oroshi-uchi
 3: Naar voren |N|
 - Moroashi dachi migi
-  - Hirate gyaku osae uke -> Uraken oi ganmen uchi
+  - Hirate gyaku osae uke -> Uraken oi ganmen oroshi-uchi
 4: Naar voren |N|
 - Sanchin dachi hidari
   - Seiken morote chudan uchi-uke
@@ -21,16 +21,16 @@
 
 7: Naar rechts |O|
 - Tsuruashi dachi migi
-  - migi morote-hikite # beiden handen terug trekken onder RECHTER oksel, kagi tsuki no kamae
+  - Seiken migi waki kamae # Ja, migi
   - migi chudan yoko geri
 - Kiba dachi |O|
   - Seiken jun chudan tsuki
 
 8: Naar links |W|
 - Tsuruashi dachi hidari # been optrekken, kiba naar voren gericht
-  - migi morote-hikite # beiden handen terug trekken onder LINKER oksel
+  - Seiken migi waki kamae # Ja, migi
   - hidari chudan yoko geri
-- Kiba dachi # naar links neer zetten, kiba naar voren gericht
+- Kiba dachi |W| # naar links neer zetten, kiba naar voren gericht
   - Seiken jun chudan tsuki
 
 9: Naar voren |N|
@@ -41,3 +41,12 @@
 - Yonjugo kiba dachi migi
   - Empi gyaku jodan ate # Na de empi hand terug trekken voor kracht
   - Empi gyaku ago uchi
+11: Naar voren |N|
+- Mae kiba dachi
+  - Empi migi oroshi-uchi kiai
+- Mami dachi migi
+- Moroashi dachi migi
+  - Shotei morote gedan uke
+
+12: Draai 180 graden |Z|
+- Kokutsu dachi hidari

@@ -43,6 +43,7 @@ def generate_parser_regex():
 
     STANCES = RegExFormat([
         'Zenkutsu',
+        'Mae kiba',
         'Yonjugo kiba',
         'Kiba',
         'Kokutsu',
