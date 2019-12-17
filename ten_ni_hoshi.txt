@@ -3,7 +3,7 @@
   - Shuto oi jodan uke
   - Shuto oi gedan barai
   - Haito oi uchi-uke
-  - Shotei gyaku hitai uchi
+  - Shotei gyaku jodan uchi
 2: Naar voren |W|
 - Zenkutsu dachi migi
   - Shuto oi jodan uke
@@ -27,7 +27,7 @@
   - Shuto oi jodan uke
   - Shuto oi gedan barai
   - Haito oi uchi-uke
-  - Shotei gyaku hitai uchi
+  - Shotei gyaku jodan uchi
 6: Naar voren |O|
 - Zenkutsu dachi hidari
   - Shuto oi jodan uke
@@ -50,6 +50,7 @@
   - Seiken oi gedan barai
   - Seiken oi soto uke
   - Seiken gyaku jodan uke
+  - ushiro ayumi ashi
 - Kokutsu dachi migi
   - Seiken oi gedan barai
   - Seiken oi uchi-uke
@@ -74,19 +75,23 @@
   - migi chudan mae-geri
   - Sokuto migi kansetsu geri
 - Zenkutsu dachi migi
-  - Tettsui komekami uchi kiai
+  - Tettsui gyaku oroshi-uchi kiai
 
 13: Draai 270gr graden |O| # Eigenlijk schuin naar voren
 - Zenkutsu dachi hidari
   - Seiken oi gedan barai
+  - Seiken oi uchi-uke
   - Seiken gyaku jodan tsuki
-  - Seiken oi chudan tsuki -> Seiken gyaku chudan tsuki (nidan) kiai
+- Zenkutsu dachi migi
+  - Seiken gyaku gedan tsuki -> Seiken oi chudan tsuki (nidan) kiai
 
 14: Draai 180gr graden |W| # Eigenlijk schuin naar voren
 - Zenkutsu dachi migi
   - Seiken oi gedan barai
+  - Seiken oi uchi-uke
   - Seiken gyaku jodan tsuki
-  - Seiken oi chudan tsuki -> Seiken gyaku chudan tsuki (nidan) kiai
+- Zenkutsu dachi hidari
+  - Seiken gyaku chudan tsuki -> Seiken oi chudan tsuki (nidan) kiai
 
 15: Draai naar links |Z|
 - Zenkutsu dachi hidari
@@ -109,18 +114,26 @@
 
 20: Draai 270gr graden |O|
 - Zenkutsu dachi hidari
-  - Seiken oi gedan barai
-  - Seiken gyaku jodan tsuki
-  - Seiken oi gedan tsuki -> Seiken gyaku chudan tsuki (nidan) kiai
+  - Seiken oi jodan uke
+  - Seiken gyaku gedan tsuki
+  - Seiken oi jodan tsuki -> Seiken gyaku chudan tsuki (nidan) kiai
 
 21: Draai 180gr graden |W|
 - Zenkutsu dachi migi
-  - Seiken oi gedan barai
-  - Seiken gyaku jodan tsuki
-  - Seiken oi gedan tsuki -> Seiken gyaku chudan tsuki (nidan) kiai
+  - Seiken oi jodan uke
+  - Seiken gyaku gedan tsuki
+  - Seiken oi jodan tsuki -> Seiken gyaku chudan tsuki (nidan) kiai
 
 22: Naar links |Z|
 - Zenkutsu dachi hidari
   - Seiken oi gedan barai
   - Seiken oi uchi-uke
   - Seiken gyaku chudan tsuki
+
+23: Draai 180 graden |N|
+- Zenkutsu dachi migi
+  - Seiken gyaku soto uke
+  - Seiken gyaku jodan tsuki -> Seiken oi gedan tsuki -> Seiken gyaku chudan tsuki (sandan)
+  - migi hikiashi
+- Nekoashi dachi migi
+  - Shotei mae mawashi uke
