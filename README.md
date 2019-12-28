@@ -42,4 +42,4 @@ Most kata described here have defined origins.
 - Chi ni hana
 - Ten ni hoshi
 - Jin ni ai
-- Kaizen
+- Kaizen (Wanshu/Empi)
