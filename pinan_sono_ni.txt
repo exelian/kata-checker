@@ -1,3 +1,8 @@
+# Pinan sono ni (Kyokushinkai)
+# Heian nidan (Shotokan)
+# Pinan shodan (Shuri-te, Itosu Anko)
+# Ontwikkelt als eerste kata van de 5 pinan's.
+
 1: Naar links |W|
 - Kokutsu dachi hidari # morote hikite migi terwijl je in draait
   - Seiken migi morote-hikite
@@ -63,6 +68,7 @@
 11: 45gr naar links |Z|
 - Zenkutsu dachi hidari
   - Seiken gyaku gedan uchi-barai -> Seiken gyaku uchi-uke # gyaku o uchi uke
+=> 10 & 11 hidari komekami uchi: block met shuto mawashi, sakotsu uchi & migi katatedori (hikite, hand draaien!) gedan barai + uchi uke = age ude garami.
 => 11 iemand pakt je rechterarm vast katate dori: gebruik gedan barai + uchi-uke voor kote mawashi.
 12: Vanuit stand |Z|
   - migi chudan mae-geri
@@ -87,6 +93,7 @@
 15: Draai 270gr naar links rugwaards |W|
 - Zenkutsu dachi hidari
   - Seiken oi gedan barai -> Gohon oi jodan nagashi-nukite # Vergeet de hikite niet!
+=> 14 & 15: Waki kamae voor morote-uke = soto uke + katate dori, doorstappen uraken ganmen uchi, boven arm onder zijn arm/oksel=gedan kamae, draaien voor worp.
 
 16: Stap schuin naar voren |NW|
 - Zenkutsu dachi migi

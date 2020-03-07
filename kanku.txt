@@ -1,3 +1,7 @@
+# Kanku (Kyokushin)
+# Kanku dai (Shotokan)
+# Kusanku (Shuri-te)
+
 1: Naar voren |N|
 - Uchi hachiji dachi
   - kanku

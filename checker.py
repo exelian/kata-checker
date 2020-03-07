@@ -85,7 +85,7 @@ def generate_parser_regex():
     BUNKAI = r'^=>(?P<attack>.*?):(?P<uke>(?s:.*))\.'
 
     COUNT_LINE = fr'(?P<step>\d+): (?P<desc>.*) {DIRECTION}'
-    STANCE_LINE = fr'- (?P<stance>{STANCES:X} dachi)\s*({LEFT_RIGHT})?\s*({DIRECTION})?'
+    STANCE_LINE = fr'- (hanmi\s*)?(?P<stance>{STANCES:X} dachi)\s*({LEFT_RIGHT})?\s*({DIRECTION})?'
     TECHNIQUE_LINE = fr'  - (?P<actions>{TECHNIQUE}|{MOROTE}|{FOLLOWUP}|{FOLLOWUP3}|{MOVEMENT})\s*(?P<mod>{TECHNIQUE_MODIFIERS: })'
 
     COMMENT = r'(?:\s*#(?P<comment>.*))?$'

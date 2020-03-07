@@ -1,3 +1,10 @@
+# Gekisai dai (Kyokushinkai)
+# Gekisai dai ichi (Goju-ryu)
+# Fukyugata dai ni (Matsubayashi-ryu)
+# Gekisai (lit. Pulverise) betekend aanvallen en breken. Gemaakt in 1940 door Miyagi Chojun in 
+# opdracht van Hayakawa Gen, gouverneur van Okinawa. Het doel was een simpelere kata voor beginners
+# die de essentie van al het karate op Okinawa omvat.
+
 1: Naar links |W|
 - Sanchin dachi hidari
   - Seiken oi jodan uke ibuki
@@ -38,8 +45,10 @@
   - migi ashi barai
 - Kiba dachi migi |Z|
   - Shuto jun chudan yoko uchi kiai
+=> 8 hidari oi tsuki: hidari mata mae geri, empi ago uchi.
 => 8 tsuki: counter direct met mae geri blokeer stoot met empi, gebruik de uraken om aan te vallen, gyaku tsuki.
 => 8 tsuki: counter direct met mae geri blokeer stoot met empi, gebruik de uraken om tweede stoot te blokkeren, tettsui, gyaku tsuki.
+=> 8: tettsui > gedan barai.
 
 9: Naar voren |Z|
 - Sanchin dachi hidari

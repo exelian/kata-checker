@@ -28,7 +28,7 @@ Most kata described here have defined origins.
 - Taikyoku sono san (Funakoshi Yoshitaka)
 
 ## Goju-ryu (Naha)
-- Gekisai dai (Miyagi Chojun)
+- Gekisai dai (Miyagi Chojun, also Fukyugata Ni)
 - Gekisai sho (Miyagi Chojun)
 - Saifa (Miyagi Chojun?)
 - Sanchin (Higaonna Kanryo)
