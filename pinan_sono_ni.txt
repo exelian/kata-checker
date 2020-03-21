@@ -5,7 +5,7 @@
 
 1: Naar links |W|
 - Kokutsu dachi hidari # morote hikite migi terwijl je in draait
-  - Seiken migi morote-hikite
+  - Seiken migi waki kamae
   - Seiken oi uchi-uke & Seiken gyaku jodan uke (morote)
   - Tettsui gyaku hizo uchi # linkerhand voorbereiden door boven rechterschouder te plaatsen
 - Kiba dachi hidari # met links naar voren stappen zodat je gezicht richting noorden is
@@ -19,11 +19,12 @@
 
 2: Rechterbeen aansluiten en naar rechts draaien |O|
 - Kokutsu dachi migi
-  - Seiken hidari morote-hikite
+  - Seiken hidari waki kamae
   - Seiken oi uchi-uke & Seiken gyaku jodan uke (morote)
   - Tettsui gyaku hizo uchi # linkerhand voorbereiden door boven rechterschouder te plaatsen
 - Kiba dachi migi # met rechts naar voren stappen zodat je gezicht richting noorden is
   - Tettsui jun yoko uchi
+=> tsuki: gebruik voorbereiding voor tettsui als soto uke, katatedori met hidari, gebruik draai naar kiba om de knie opzij te duwen, tai otoshi.
 
 3: Rechterbeen terugtrekken naar |N|
 - Tsuruashi dachi migi
