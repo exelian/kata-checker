@@ -15,10 +15,12 @@
   - Seiken morote chudan uchi-uke
 5: Naar voren |N|
 - Sanchin dachi migi
+  - Haito oi chudan uchi-uke
   - Shuto oi chudan kake-uke
   - Seiken gyaku chudan tsuki -> Seiken oi chudan tsuki (nidan)
 6: Naar voren |N|
 - Sanchin dachi hidari
+  - Haito oi chudan uchi-uke
   - Shuto oi chudan kake-uke
   - Seiken gyaku chudan tsuki -> Seiken oi chudan tsuki (nidan)
 
@@ -28,6 +30,7 @@
   - migi chudan yoko geri
 - Kiba dachi migi |O|
   - Seiken jun chudan tsuki
+=> : hiza geri, tai otoshi.
 
 8: Naar links |W|
 - Tsuruashi dachi hidari # been optrekken, kiba naar voren gericht

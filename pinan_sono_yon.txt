@@ -45,7 +45,7 @@
 => 6 migi mune dori: hikite = kote mawashi, yoko = kansetsu geri, empi ate.
 
 - Zenkutsu dachi hidari |N| # Draai naar links
-  - Shuto oi jodan uke & Shuto gyaku ganmen uchi (morote)
+  - Shuto oi jodan uke & Shuto gyaku jodan uchi
 7: Vanuit stand |N|
   - migi chudan mae-geri
   - yori ashi migi

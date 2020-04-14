@@ -1,0 +1,93 @@
+1: Naar voren |N|
+- Sanchin dachi migi
+  - Seiken morote uchi-uke
+  - Seiken gyaku chudan tsuki # Houd de rechterhand stil net als sanchin
+  - Seiken gyaku uchi uke
+2: Naar voren |N|
+- Sanchin dachi hidari
+  - Seiken gyaku chudan tsuki # Houd de rechterhand stil net als sanchin
+  - Seiken gyaku uchi uke
+3: Naar voren |N|
+- Sanchin dachi migi
+  - Seiken gyaku chudan tsuki # Houd de rechterhand stil net als sanchin
+  - Seiken gyaku uchi uke
+4: Blijf staan |N|
+  - Shotei morote age uke # Breng handen naar elkaar toe, handpalmen naar boven
+  - Shuto oi gedan barai & Haito gyaku uchi-uke
+  - Shotei oi jodan uchi -> Shotei gyaku jodan uchi -> Shotei oi jodan uchi (sandan)
+
+5: Stap naar voren met de tsuru ashi |N|
+  - Hirate morote osae uke
+  - Kakato migi ushiro age geri & Gohon morote age nukite
+- Tsuruashi dachi migi # Hiza geri?
+  - migi yori ashi
+- Sanchin dachi migi
+  - Seiken morote chudan tsuki
+6: Stap naar voren met de tsuru ashi |N|
+  - Hirate morote osae uke
+  - Kakato migi ushiro age geri & Gohon morote age nukite
+- Tsuruashi dachi migi
+  - migi yori ashi
+- Sanchin dachi migi
+  - Seiken morote chudan tsuki
+7: Stap naar voren met de tsuru ashi |N|
+  - Hirate morote osae uke
+  - Kakato migi ushiro age geri & Gohon morote age nukite
+- Tsuruashi dachi migi
+  - migi yori ashi
+- Sanchin dachi migi
+  - Seiken morote chudan tsuki
+
+8: Trap en draai om |N|
+  - morote hikite # trek beide armen terug onder oksel
+  - Yoko migi kansetsu geri # Draai om na de trap
+- Sanchin dachi hidari |Z|
+  - Haito oi uchi-uke  & Shuto gyaku gedan barai
+  - Shuto oi kake-uke
+9: Naar voren |Z|
+- Sanchin dachi migi |Z|
+  - Haito oi uchi-uke  & Shuto gyaku gedan barai
+  - Shuto oi kake-uke
+10: Naar voren |Z|
+- Sanchin dachi hidari |Z|
+  - Haito oi uchi-uke  & Shuto gyaku gedan barai
+  - Shuto oi kake-uke
+
+11: Opzij |W|
+  - Haito oi soto gedan barai -> Shuto oi uchi-uke ? 
+  - migi yori ashi
+- Sanchin dachi migi |W|
+  - Haishu oi soto uke -> Seiken oi jodan tate-tsuki
+  - Seiken gyaku chudan tsuki -> Seiken oi chudan tsuki (nidan)
+12: Trap en draai om |O|
+  - Yoko migi kansetsu geri # Draai om na de trap
+- Zenkutsu dachi hidari |W|
+  - Shuto oi kake-uke & Shuto gyaku gedan barai
+13: Stap twee keer |O|
+- Zenkutsu dachi migi |ZO|
+- Kiba dachi hidari |NO|
+  - Haito jun uchi-uke -> Shuto oi kake-uke
+14: Draai en stoot |NO|
+- Zenkutsu dachi hidari
+  - Seiken gyaku jodan tsuki
+  - Seiken oi chudan tsuki
+  - Seiken gyaku chudan tsuki
+15: Draai terug naar kiba schuin ander kant |NO|
+- Kiba dachi hidari # Gezicht richting |ZO|
+  - Yoko migi geri # |O|
+- Kiba dachi migi |O|
+  - Empi jun ago uchi & Toho gyaku kake-uke kiai
+  - Uraken jun yoko uchi
+  - Seiken jun gedan barai
+  - Seiken gyaku chudan kagi tsuki
+
+16: Trap en draai om |Z|
+  - Yoko migi kansetsu geri # Draai om na de trap
+- Sanchin dachi hidari
+  - Shuto morote kake-uke
+  - morote hikite
+  - migi mae geri
+  - ushiro migi yori ashi
+- Neko ashi dachi hidari
+  - Seiken gyaku shichi tsuri tsuki
+  - Shuto mae mawashi-uke

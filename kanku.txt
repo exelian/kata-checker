@@ -5,7 +5,7 @@
 1: Naar voren |N|
 - Uchi hachiji dachi
   - kanku
-  - Shuto migi gedan uchi & Shotei hidari gedan uchi
+  - Shuto migi gedan uchi & Shotei hidari gedan uchi # migi is shuto, Advanced karate, p. 175
 2: Naar links |W|
 - Kokutsu dachi hidari
   - Shuto mawashi uchi
@@ -35,31 +35,33 @@
 
 9: 180gr draaien |Z|
 - Zenkutsu dachi hidari
-  - Shotei gyaku jodan uke & Shuto oi ganmen uchi (morote)
+  - Shotei gyaku jodan nagashi-uke & Shuto oi ganmen uchi (morote)
 10: Trap + naar voren |Z|
-  - migi chudan mae-geri
+  - migi chudan mae geri
 - Zenkutsu dachi migi
   - Seiken gyaku chudan tsuki -> Seiken oi chudan tsuki (nidan)
 
 11: 180gr draaien |N| # Voorste been verplaatsen
 - Zenkutsu dachi migi
-  - Shotei gyaku jodan uke & Shuto oi ganmen uchi (morote)
+  - Shotei gyaku jodan nagashi-uke & Shuto oi ganmen uchi (morote)
 12: Trap + naar voren |N|
-  - hidari chudan mae-geri
+  - hidari chudan mae geri
 - Zenkutsu dachi hidari
   - Seiken gyaku chudan tsuki -> Seiken oi chudan tsuki (nidan)
 
 13: Aansluiten voor yoko geri |N|
-  - hidari hikiashi & hidari morote-hikite
+  - hidari hikiashi
 - Musubi dachi
-  - migi chudan mae-geri
+  - hidari waki kamae
+  - migi chudan mae geri
   - Yoko migi chudan geri & Uraken yoko uchi
 - Zenkutsu dachi migi |O|
   - Empi gyaku jodan ate & Shotei oi jodan uchi
 14: Aansluiten voor yoko geri |N|
   - hidari hikiashi
 - Musubi dachi
-  - hidari chudan mae-geri
+  - migi waki kamae
+  - hidari chudan mae geri
   - Yoko hidari chudan geri & Uraken yoko uchi
 - Zenkutsu dachi hidari |O|
   - Empi gyaku jodan ate & Shotei oi jodan uchi
@@ -70,7 +72,7 @@
   - Uraken oi ganmen uchi
   - Empi oi jodan ate
   - Empi gyaku jodan ate
-- Kiba dachi
+- Kiba dachi migi # Gezicht zelfde kant als sanchin
   - Empi oi oroshi-uchi kiai
 16: Schuin naar voren |NO|
 - Sanchin dachi hidari
@@ -78,38 +80,43 @@
   - Uraken oi ganmen uchi
   - Empi oi jodan ate
   - Empi gyaku jodan ate
-- Kiba dachi
+- Kiba dachi hidari # Gezicht zelfde kant als sanchin
   - Empi oi oroshi-uchi kiai
 
 17: Naar voren |N|
 - Mami dachi migi
-  - Shotei morote gedan uke
+  - kaishu kamae
 - Moroashi dachi migi
+  - Shotei morote gedan uke
 18: Naar voren |N|
 - Mami dachi migi
-  - Shotei morote gedan uke
+  - kaishu kamae
 - Moroashi dachi migi
+  - Shotei morote gedan uke
 19: Naar voren |N|
 - Mami dachi migi
+  - kaishu kamae
+- Moroashi dachi migi
   - Shotei morote gedan uke
-- Moroashi dachi migi
 20: Naar voren |N|
-  - migi hikite & migi hikiashi
+  - migi waki kamae & Kakato migi age ushiro geri
 - Moroashi dachi migi
-  #- Seiken shiji suri tsuki kiai
+  #- Seiken shichi suri tsuki kiai
 
 21: 180gr draaien |Z|
 - Mami dachi hidari
-  - Shotei morote gedan uke
+  - kaishu kamae
 - Moroashi dachi hidari
+  - Shotei morote gedan uke
 22: Naar voren |Z|
 - Mami dachi hidari
+  - kaishu kamae
+- Moroashi dachi hidari
   - Shotei morote gedan uke
-- Moroashi dachi hidari
 23: Naar voren |Z|
-  - hidari hikite & hidari hikiashi
+  - hidari waki kamae & Kakato hidari age ushiro geri
 - Moroashi dachi hidari
-  #- Seiken Shiji suri tsuki # Doorstappen
+  # - Seiken shichi suri tsuki # Doorstappen
 - Kake dachi migi
   - Seiken yama tsuki kiai
 
@@ -120,7 +127,7 @@
   - migi mikazuki geri # Vanuit stand
 - Tsuruashi dachi migi
   - Empi oi jodan ate & Shotei gyaku jodan uchi
-- Juji dachi
+- Juji dachi migi
   - Seiken juji gedan uke
 # Trap ontwijken door naar de grond te duiken + grond slaan (LOL)
 26: Blijf staan en kom omhoog |N|
@@ -134,33 +141,33 @@
   - Seiken oi uchi-uke & Seiken gyaku gedan barai
   - Seiken oi gedan barai & Seiken gyaku uchi-uke
   - kanku
-  - Shuto oi gedan uchi & Shotei gyaku gedan uchi
+  - Shotei oi gedan uchi & Shuto gyaku gedan uchi # Gyaku is shuto, Advanced karate, p. 175
 28: Draai 270gr rugwaards |O|
 - Kiba dachi # In oostelijk richting
   - Gohon migi yoko chudan nukite
   - Gohon hidari yoko chudan nukite
-  - Kake migi uke
+  - Shuto migi kake-uke
   - Gohon hidari yoko chudan nukite # Naar voren, oostelijk
   - Gohon migi yoko chudan nukite # Naar voren, oostelijk
 29: Draai 180gr rugwaards |W|
 - Kiba dachi # In westlijke richting
   - Gohon hidari yoko chudan nukite
   - Gohon migi yoko chudan nukite
-  - Kake hidari uke
+  - Shuto hidari kake-uke
   - Gohon migi yoko chudan nukite # Naar voren, westlijke
   - Gohon hidari yoko chudan nukite # Naar voren, westlijke
 30: Draai 90gr rugwaards |N|
 - Kiba dachi # In noordelijk richting
   - Gohon migi yoko chudan nukite
   - Gohon hidari yoko chudan nukite
-  - Kake migi uke
+  - Shuto migi kake-uke
   - Gohon hidari yoko chudan nukite # Naar voren, noordelijk
   - Gohon migi yoko chudan nukite # Naar voren, noordelijk
 31: Naar links |N|
 - Kiba dachi # In noordelijke richting
   - Gohon hidari yoko chudan nukite
   - Gohon migi yoko chudan nukite
-  - Kake hidari uke
+  - Shuto hidari kake-uke
   - Gohon migi yoko chudan nukite # Naar voren, noordelijk
   - Gohon hidari yoko chudan nukite # Naar voren, noordelijk
 

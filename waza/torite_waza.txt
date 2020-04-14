@@ -1,5 +1,7 @@
 Katate dori:
-- Polsgreep
+- Polsgreep (rechts op links / vice versa)
+Katate kosa dori:
+- Gekruisde polsgreep (rechts op rechts / vice versa)
 
 Mune dori:
 - Greep naar de kraag (lapel grab)
