@@ -20,12 +20,11 @@
 
 5: Naar links |N|
 - Zenkutsu dachi hidari
-  - Seiken morote uchi-uke
+  - Seiken morote uke
 => 3 t/m 5 oi tsuki migi: blokeer, gedan barai om contact te houden/controleren, uchi-uke om tweede stoot te blokkeren, gebruik gedan barai om de tweede stoot te controleren en uchi om de arm.
 6: Naar voren |N|
 - Zenkutsu dachi migi
-  - Hirate gyaku osae uke
-  - Gohon oi chudan nukite
+  - Hirate gyaku osae uke -> Gohon oi chudan nukite
 => 6 tsuki/katate dori: beweeg osae uke omhog en nukite omlaag om de pols te overstrekken (kote hineri).
 => 6 hidari oi (of migi gyaku) tsuki: Ontvang stoot met osae uke, nukite om de elleboog te overstrekken.
 => 6 hidari gyaku (of migi oi) tsuki: Ontvang stoot met osae uke, nukite om de elleboog te buigen, trek osae uke terug (hikite) en draai in om te werpen.
@@ -42,24 +41,25 @@
 - Musubi dachi |Z| # Handen in je zij, niet voor je kruis
 => 7: tsuki + draai is een nekklem?.
 => 7 oi hidari katatedori: stap naar voren en draai in naar musubi om elleboog te overstrekken ude hishigi.
+=> 7 jodan uke hidari: tettsui wordt geblokeerd, controleer met hikite + stoot, kote mawashi of empi (age) gatame (onderlangs).
 
 8: Vanuit stand |Z|
-  - migi chudan mae-geri
+  - migi chudan mae geri
 - Kiba dachi migi |Z|
   - Empi jun uke # hou je vuisten in de zij!
-  - Uraken jun yoko uchi # let op vuist is NIET tate!
+  - Uraken jun sayu uchi # let op vuist is NIET tate!
 => 8 kata-te dori: knietje, empi om elleboog te overstrekken, overnemen met gyaku, uraken.
 9: Draai je heupen open voor de trap |Z|
-  - hidari chudan mae-geri
+  - hidari chudan mae geri
 - Kiba dachi hidari
   - Empi jun uke # hou je vuisten in de zij!
-  - Uraken jun yoko uchi # let op vuist is NIET tate!
+  - Uraken jun sayu uchi # let op vuist is NIET tate!
 => 9 oi tsuki migi: mae geri, controleer stoot met migi, stap in en overstrek elleboog met empi, uraken, hiza geri.
 10: Draai je heupen open voor de trap |Z|
-  - migi chudan mae-geri
+  - migi chudan mae geri
 - Kiba dachi migi |Z|
   - Empi jun uke # hou je vuisten in de zij!
-  - Uraken jun yoko uchi # let op vuist is NIET tate!
+  - Uraken jun sayu uchi # let op vuist is NIET tate!
 => 10 mune dori: empi uke voor voor kote gaeshi, uraken op schouder gebruiken om omver te duwen.
 11: Zet je arm klaar voor de duw |Z|
   - Shotei gyaku chudan oshite # Duw naar voren
