@@ -1,0 +1,115 @@
+# Tawada no sai sho (Tawata no sai)
+# Taira Shinken Ryukyu hozon
+
+1: Stap naar achter |N|
+- Zenkutsu dachi hidari
+  - gyaku gedan uke & oi jodan tsuki
+
+2: Stap naar voren |N|
+- Nekoashi dachi migi
+  - gyaku soto uke
+
+3: Draai naar links |W|
+- Moroashi dachi hidari
+  - oi jodan oroshi uchi
+- Zenkutsu dachi hidari
+  - oi jodan tsuki
+=> jodan: oroshi om eerst te blokkeren en direct aan te vallen.
+4: Naar voren |W|
+- Moroashi dachi migi
+  - oi jodan oroshi uchi
+- Zenkutsu dachi migi
+  - oi jodan tsuki
+5: Naar voren |W|
+- Nekoashi dachi hidari
+  - oi jodan uke
+6: Draai naar rechts |N|
+- Moroashi dachi migi
+  - oi soto uke
+
+7: Draai naar rechts |O|
+- Moroashi dachi migi
+  - oi jodan oroshi uchi
+- Zenkutsu dachi migi
+  - oi jodan tsuki
+8: Naar voren |O|
+- Moroashi dachi hidari
+  - oi jodan oroshi uchi
+- Zenkutsu dachi hidari
+  - oi jodan tsuki
+9: Naar voren |W|
+- Nekoashi dachi migi
+  - oi jodan uke
+10: Draai naar rechts |N|
+- Nekoashi dachi hidari
+  - oi soto uke
+
+11: Naar voren |N|
+- Nekoashi dachi migi
+  - oi soto uke
+12: Naar achter |N|
+- Nekoashi dachi hidari
+  - oi gedan barai
+13: Naar achter |N|
+- Nekoashi dachi migi
+  - oi gedan barai
+14: Naar achter |N|
+- Nekoashi dachi hidari
+  - oi gedan barai
+
+15: Naar achter |N|
+- Kokutsu dachi migi
+  - Juji gedan kamae
+- Zenkutsu dachi migi
+  - Juji jodan uke
+
+16: Naar voren |N|
+  - yori ashi
+- Kokutsu dachi migi
+  - oi jodan oroshi uchi & gyaku kote uchi
+  - morote mochikae
+=> 15 & 16 jodan: Gebruik juji om te blokkeren, kote uchi voor kake en oroshi om aan te vallen.
+- Zenkutsu dachi migi
+  - oi jodan tsuki kiai
+
+17: Naar voren |N|
+- Moroashi dachi hidari
+  - oi jodan oroshi uchi
+- Zenkutsu dachi hidari
+  - oi jodan tsuki
+18: Naar voren |N|
+- Moroashi dachi migi
+  - oi jodan oroshi uchi
+- Zenkutsu dachi migi
+  - oi jodan tsuki kiai
+19: Naar achter |N|
+- Nekoashi dachi hidari
+  - oi gedan uke
+
+20: Draai naar rechts |O|
+- Moroashi dachi migi
+  - oi jodan oroshi uchi
+- Zenkutsu dachi migi
+  - oi jodan tsuki
+21: Naar voren |O|
+- Moroashi dachi hidari
+  - oi jodan oroshi uchi
+- Zenkutsu dachi hidari
+  - oi jodan tsuki
+21: Naar voren |O|
+- Nekoashi dachi migi
+  - oi gedan uke
+
+22: 180 gr draaien |W|
+- Moroashi dachi hidari
+  - oi jodan oroshi uchi
+- Zenkutsu dachi hidari
+  - oi jodan tsuki
+23: Naar voren |W|
+- Moroashi dachi migi
+  - oi jodan oroshi uchi
+- Zenkutsu dachi migi
+  - oi jodan tsuki
+24: Naar voren |W|
+- Nekoashi dachi hidari
+  - oi gedan uke

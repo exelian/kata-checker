@@ -1,0 +1,220 @@
+# Tawada no sai dai (Tawata no sai)
+# Taira Shinken Ryukyu hozon shinkokai
+
+1: Stap naar voren |N|
+- Zenkutsu dachi hidari
+  - oi kake uke
+
+# 2 t/m 7 = tokui
+2: 3x naar voren |N|
+- Zenkutsu dachi migi
+  - oi jodan barai
+- Zenkutsu dachi hidari
+  - oi jodan barai
+- Zenkutsu dachi migi
+  - oi jodan barai
+3: Blijf staan |N|
+  - oi gedan uke
+  - suri ashi
+  - gyaku chudan tsuki -> oi chudan tsuki
+4: Trek voorste been terug |N|
+- Nekoashi dachi migi
+  - hidari waki kamae (oroshi uke? osae?)
+  - oi kake uke
+- Zenkutsu dachi migi
+  - morote jodan tsuki
+5: Trek voorste been terug |N|
+  - morote mochikae
+- Musubi dachi
+  - juji uke gedan
+  - juji uke jodan
+- Kokutsu dachi migi
+  - oi jodan oroshi uchi & gyaku chudan barai
+6: Draai om |Z|
+- Kokutsu dachi hidari
+  - oi gedan barai & gyaku gedan barai (morote)
+  - morote mochikae
+  - kaishu kamae
+7: Blok en naar voren |Z|
+- Zenkutsu dachi hidari
+  - oi gedan uke
+  - yori ashi
+  - gyaku chudan tsuki -> oi chudan tsuki
+
+8: Achterste voet bijtrekken en rechts uitstappen (voeten O-W) |Z|
+- mae kiba dachi |Z|
+  - hidari gedan uke & migi jodan uke |ZO| # Schuin richting ZO
+9: Stap 45gr naar linksvoor |ZO|
+- Moroashi dachi migi
+  - oi gedan uke
+  - yori ashi
+- Zenkutsu dachi migi
+  - gyaku chudan tsuki -> oi chudan tsuki
+10: Draai 90gr naar rechts |ZW|
+- migi kiba dachi
+  - jun gedan uke & gyaku jodan uke # Schuin richting ZO
+
+# 11 t/m 16 = tokiu
+11: Verzet voorste voet |Z|
+- Zenkutsu dachi migi
+  - oi jodan barai
+- Zenkutsu dachi hidari
+  - oi jodan barai
+- Zenkutsu dachi migi
+  - oi jodan barai
+12: Blijf staan |Z|
+  - oi gedan uke
+  - suri ashi
+  - gyaku chudan tsuki -> oi chudan tsuki
+13: Trek voorste been terug |N|
+- Nekoashi dachi migi
+  - hidari waki kamae (oroshi uke? osae?)
+  - oi kake uke
+- Zenkutsu dachi migi
+  - morote jodan tsuki
+14: Trek voorste been terug |Z|
+  - morote mochikae
+- Musubi dachi
+  - juji uke gedan
+  - juji uke jodan
+- Kokutsu dachi migi
+  - oi jodan oroshi uchi & gyaku chudan barai
+15: Draai om |N|
+- Kokutsu dachi hidari
+  - oi gedan barai & gyaku gedan barai (morote)
+  - morote mochikae
+  - kaishu kamae
+16: Blok en naar voren |N|
+- Zenkutsu dachi hidari
+  - oi gedan uke
+  - yori ashi
+  - gyaku chudan tsuki -> oi chudan tsuki
+
+17: Draai naar rechts |O|
+- Zenkutsu dachi migi
+  - oi jodan barai
+  - hidari hikiashi
+- Nekoashi dachi migi
+- Zenkutsu dachi migi
+  - oi jodan oroshi uchi
+  - oi gedan uke
+  - suri ashi
+  - gyaku chudan tsuki -> oi chudan tsuki
+18: Draai om |W|
+- Zenkutsu dachi hidari
+  - oi jodan barai
+  - hidari hikiashi
+- Nekoashi dachi hidari
+- Zenkutsu dachi hidari
+  - oi jodan oroshi uchi
+  - oi gedan uke
+  - suri ashi
+  - gyaku chudan tsuki -> oi chudan tsuki
+
+# 19 t/m 24 = tokiu
+19: 3x naar voren |N|
+- Zenkutsu dachi migi
+  - oi jodan barai
+- Zenkutsu dachi hidari
+  - oi jodan barai
+- Zenkutsu dachi migi
+  - oi jodan barai
+20: Blijf staan |N|
+  - oi gedan uke
+  - suri ashi
+  - gyaku chudan tsuki -> oi chudan tsuki
+21: Trek voorste been terug |N|
+- Nekoashi dachi migi
+  - hidari waki kamae (oroshi uke? osae?)
+  - oi kake uke
+- Zenkutsu dachi migi
+  - morote jodan tsuki
+22: Trek voorste been terug |N|
+  - morote mochikae
+- Musubi dachi
+  - juji uke gedan
+  - juji uke jodan
+- Kokutsu dachi migi
+  - oi jodan oroshi uchi & gyaku chudan barai
+23: Draai om |Z|
+- Kokutsu dachi hidari
+  - oi gedan barai & gyaku gedan barai (morote)
+  - morote mochikae
+  - kaishu kamae
+24: Blok en naar voren |Z|
+- Zenkutsu dachi hidari
+  - oi gedan uke
+  - yori ashi
+  - gyaku chudan tsuki -> oi chudan tsuki
+
+25: Stap met voorste been naar links |ZO|
+- Zenkutsu gyaku dachi hidari # technieken naar |ZW|
+  - oi jodan yoko uke & gyaku gedan ushiro barai
+26: Trek voorste been terug |Z|
+- Musubi dachi
+- Tsuruashi dachi migi |W|
+  - oi gedan barai
+- Zenkutsu dachi migi |W|
+  - oi gedan uke
+  - suri ashi
+  - gyaku chudan tsuki -> oi chudan tsuki
+27: Verplaats voorste been |ZW|
+- Zenkutsu gyaku dachi migi # technieken naar |ZW|
+  - oi jodan yoko uke & gyaku gedan ushiro barai
+28: Trek voorste been terug |Z|
+- Musubi dachi
+- Tsuruashi dachi hidari |W|
+  - oi gedan barai
+- Zenkutsu dachi hidari |W|
+  - oi gedan uke
+  - suri ashi
+  - gyaku chudan tsuki -> oi chudan tsuki
+
+# 29 t/m 34 = tokiu
+29: Draai naar rechts |Z|
+- Zenkutsu dachi migi
+  - oi jodan barai
+- Zenkutsu dachi hidari
+  - oi jodan barai
+- Zenkutsu dachi migi
+  - oi jodan barai
+30: Blijf staan |Z|
+  - oi gedan uke
+  - suri ashi
+  - gyaku chudan tsuki -> oi chudan tsuki
+31: Trek voorste been terug |N|
+- Nekoashi dachi migi
+  - hidari waki kamae (oroshi uke? osae?)
+  - oi kake uke
+- Zenkutsu dachi migi
+  - morote jodan tsuki
+32: Trek voorste been terug |Z|
+  - morote mochikae
+- Musubi dachi
+  - juji uke gedan
+  - juji uke jodan
+- Kokutsu dachi migi
+  - oi jodan oroshi uchi & gyaku chudan barai
+33: Draai om |N|
+- Kokutsu dachi hidari
+  - oi gedan barai & gyaku gedan barai (morote)
+  - morote mochikae
+  - kaishu kamae
+34: Blok en naar voren |N|
+- Zenkutsu dachi hidari
+  - oi gedan uke
+  - yori ashi
+  - gyaku chudan tsuki -> oi chudan tsuki
+
+35: Verplaats gewicht naar achter |N|
+- Kokutsu dachi hidari
+  - juji uke gedan
+- Zenkutsu dachi hidari
+  - juji uke jodan
+36: Stap naar voren
+- Juji dachi migi
+  - oi jodan oroshi uchi kiai
+37: Zet achterste voet naar acher |N|
+- Nekoashi dachi migi
+  - jodan age barai
+- Kiba dachi hidari |N|

@@ -1,0 +1,123 @@
+# Nicho sai
+# Matayoshi kobudo
+
+1: Naar voren |N|
+- Zenkutsu dachi migi
+  - oi chudan tsuki
+  - hikiashi
+- Nekoashi dachi migi
+  - oi gedan barai
+- Zenkutsu dachi migi
+  - oi nodo tsuki
+  - oi gedan uke
+2: Naar voren
+- Zenkutsu dachi hidari
+  - oi Chudan tsuki
+  - hikiashi
+- Nekoashi dachi hidari
+  - oi Gedan barai
+- Zenkutsu dachi hidari
+  - oi Nodo tsuki
+  - oi Gedan uke
+3: Naar voren
+- Zenkutsu dachi migi
+  - oi Chudan tsuki
+  - hikiashi
+- Nekoashi dachi migi
+  - oi Gedan barai
+- Zenkutsu dachi migi
+  - oi Nodo tsuki
+  - oi Gedan uke
+  - gyaku chudan tsuki -> oi chudan tsuki
+
+4: Naar achter |N|
+  - morote mochikae
+- yonjugo Kiba dachi hidari
+  - morote gedan barai 
+  - juji chudan kamae
+5: Naar voren |N|
+- Sanchin dachi hidari
+  - jodan juji uke
+  - oi chudan harai
+- Sanchin dachi migi
+  - morote jodan mawashi uchi 
+  - morote mochikae
+  - moroto chudan tsuki
+  - oi gedan barai & gyaku hikite
+  - gyaku chudan tsuki -> oi chudan tsuki
+
+6: Achterste voet bijtrekken en draaien |W|
+- Nekoashi dachi hidari
+  - oi gedan uke
+- Zenkutsu dachi hidari
+  - oi jodan uke
+- Zenkutsu dachi migi
+  - oi chudan tsuki
+7: Hoofd combinatie
+  - hikiashi
+- Nekoashi dachi migi
+  - oi gedan barai
+- Zenkutsu dachi migi
+  - oi nodo tsuki
+  - oi gedan uke
+8: Naar voren
+- Zenkutsu dachi hidari
+  - oi Chudan tsuki
+  - hikiashi
+- Nekoashi dachi hidari
+  - oi Gedan barai
+- Zenkutsu dachi hidari
+  - oi Nodo tsuki
+  - oi Gedan uke
+9: Naar voren
+- Zenkutsu dachi migi
+  - oi Chudan tsuki
+  - hikiashi
+- Nekoashi dachi migi
+  - oi Gedan barai
+- Zenkutsu dachi migi
+  - oi Nodo tsuki
+  - oi Gedan uke
+  - gyaku chudan tsuki -> oi chudan tsuki
+
+10: 180 graden draaien |O|
+- Zenkutsu dachi hidari
+  - jodan uke
+- Zenkutsu dachi migi
+  - oi chudan tsuki
+  - hikiashi
+- Nekoashi dachi migi
+  - oi gedan barai
+- Zenkutsu dachi migi
+  - oi nodo tsuki
+  - oi gedan uke
+11: Naar voren
+- Zenkutsu dachi hidari
+  - oi chudan tsuki
+  - hikiashi
+- Nekoashi dachi hidari
+  - oi gedan barai
+- Zenkutsu dachi hidari
+  - oi nodo tsuki
+  - oi gedan uke
+12: Naar voren
+- Zenkutsu dachi migi
+  - oi chudan tsuki
+  - hikiashi
+- Nekoashi dachi migi
+  - oi gedan barai
+- Zenkutsu dachi migi
+  - oi nodo tsuki
+  - oi gedan uke
+  - gyaku chudan tsuki -> oi chudan tsuki
+
+13: 270 graden draaien |Z|
+  - hidari mochikae
+- Tsuruashi dachi hidari
+- Zenkutsu dachi hidari
+  - oi jodan oroshi uchi # gooi
+  - oi gedan uke
+ - Zenkutsu dachi migi
+  - oi chudan tsuki
+  - oi jodan mawashi uchi
+  - oi gedan uke
