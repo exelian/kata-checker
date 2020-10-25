@@ -22,7 +22,7 @@
 2: Naar voren |N|
 - Moroashi dachi migi
   - Hirate gyaku osae uke -> Uraken oi shomen oroshi-uchi
-3: Naar voren |N| # Verschillende variaties doen er slechts 2
+3: Naar voren |N|
 - Moroashi dachi migi
   - Hirate gyaku osae uke -> Uraken oi shomen oroshi-uchi
 4: Naar voren |N|
@@ -148,14 +148,14 @@
   - surikomi ashi migi
 - Kiba dachi hidari |Z|
   - Shuto jun gedan morote-barai
-- Kiba dachi |N| # Blijf op dezelfde plek maar je kijkt nu naar voren
+- Mae Kiba dachi |N| # Blijf op dezelfde plek maar je kijkt nu naar voren
   - Hirate hidari osae uke -> Uraken migi shomen uchi
   - Gohon hidari chudan nukite -> Gohon migi chudan nukite (nidan)
 29: Stap linkervoet voorlangs |O|
   - surikomi ashi hidari
 - Kiba dachi migi |Z|
   - Shuto jun gedan morote-barai
-- Kiba dachi |N| # Blijf op dezelfde plek maar je kijkt nu naar voren
+- Mae Kiba dachi |N| # Blijf op dezelfde plek maar je kijkt nu naar voren
   - Hirate migi osae uke -> Uraken hidari shomen uchi
   - Gohon migi chudan nukite -> Gohon hidari chudan nukite (nidan)
 
