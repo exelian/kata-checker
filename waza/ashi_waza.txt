@@ -3,6 +3,11 @@ Tsugi ashi:
 - Voorste voet stapt naar voren
 - Voor blijft voor
 
+Suri ashi:
+- Achterste voet stapt voor voorste voet
+- Voorste voet stapt naar voren
+- Voor blijft voor
+
 Surikomi ashi:
 - Achterste voet stapt voor voorste voet
 - Voorste voet stapt naar voren

@@ -1,46 +1,58 @@
 # Sushiho (Kyokushinkai)
-# Gojushiho (?)
+# Gojushiho sho (Shotokan)
+# Useishi (Shorin-ryu)
+# Sushiho is combinatie van japanse vorm Gojushiho (54 stappen) en de okanawaanse versie Useishi (54)
+# en betekend grofweg '54 stappen'. Gojushiho is waarschijnlijk ontworpen door Sokon Masumura.
+# Waarschijnlijk heeft Sosai Oyama besloten een oudere naam (Useishi) te gebruiken voor zijn kata
+# omdat deze meer gebaseerd is op de kata zoals deze geoefend werd door Anko Itosu. Verschillende
+# hedendaagse versie zijn te vinden in bv. shidokan, seibukan en chotoku kyan shorin-ryu.
+
+# Verschillende variaties ten opzichte van de voorgaande kata's zijn:
+# - Gebruik van 1 morote uchi uke ipv 2 kakiwake uke in stap 4
+# - Richting van schuin opzij naar vooruit veranderen in stappen 4 t/m 8
+# - Opsplitsen van de nidan tsuki, trap combinatie in stappen 5 t/m 8
+# - Toevoegen van meer herhaling van de combinatie bij stappen 12 t/m 15
+# - Terugstappen ipv draaien bij stap 16
+# - Gebruik van shotei ipv keiko bij stap 22
+# - Gebruik van kakiwake uke ipv empi bij stap 22
 
 1: Naar voren |N|
 - Moroashi dachi migi
-  - Hirate gyaku osae uke -> Uraken oi ganmen oroshi-uchi
+  - Hirate gyaku osae uke -> Uraken oi shomen oroshi-uchi
 2: Naar voren |N|
 - Moroashi dachi migi
-  - Hirate gyaku osae uke -> Uraken oi ganmen oroshi-uchi
-3: Naar voren |N|
+  - Hirate gyaku osae uke -> Uraken oi shomen oroshi-uchi
+3: Naar voren |N| # Verschillende variaties doen er slechts 2
 - Moroashi dachi migi
-  - Hirate gyaku osae uke -> Uraken oi ganmen oroshi-uchi
+  - Hirate gyaku osae uke -> Uraken oi shomen oroshi-uchi
 4: Naar voren |N|
 - Sanchin dachi hidari
   - Seiken morote chudan uchi-uke
 5: Naar voren |N|
 - Sanchin dachi migi
-  - Haito oi chudan uchi-uke
   - Shuto oi chudan kake-uke
   - Seiken gyaku chudan tsuki -> Seiken oi chudan tsuki (nidan)
 6: Naar voren |N|
 - Sanchin dachi hidari
-  - Haito oi chudan uchi-uke
   - Shuto oi chudan kake-uke
   - Seiken gyaku chudan tsuki -> Seiken oi chudan tsuki (nidan)
 
-7: Naar rechts |O|
+7: Naar rechts |N|
 - Tsuruashi dachi migi
   - Seiken migi waki kamae # Ja, migi
   - migi chudan yoko geri
 - Kiba dachi migi |O|
   - Seiken jun chudan tsuki
 => : hiza geri, tai otoshi.
-
-8: Naar links |W|
-- Tsuruashi dachi hidari # been optrekken, kiba naar voren gericht
-  - Seiken migi waki kamae # Ja, migi
+8: Naar links |N|
+- Tsuruashi dachi hidari
+  - Seiken hidari waki kamae # Ja, hidari
   - hidari chudan yoko geri
 - Kiba dachi hidari |W| # naar links neer zetten, kiba naar voren gericht
   - Seiken jun chudan tsuki
 
 9: Naar voren |N|
-- Yonjugo kiba dachi hidari
+- Yonjugo kiba dachi hidari # Verplaats je linkervoet naar voren
   - Empi gyaku jodan ate # Na de empi hand terug trekken voor kracht
   - Empi gyaku ago uchi
 10: Naar voren |N|
@@ -49,8 +61,10 @@
   - Empi gyaku ago uchi
 11: Naar voren |N|
 - Mae kiba dachi
+  - Empi migi jodan ate
   - Empi migi oroshi-uchi kiai
 - Mami dachi migi
+  - kaishu kamae
 - Moroashi dachi migi
   - Shotei morote gedan uke
 
@@ -69,40 +83,125 @@
   - Shuto migi waki kamae
   - Shuto oi chudan kake-uke
   - Hirate oi osae uke -> Gohon gyaku chudan nukite
-15: Aansluiten en naar voren |Z|
+15: Voorste voet aansluiten en naar voren |Z|
 - Heisoku dachi |W|
 - Kiba dachi hidari |Z|
-  - Shuto jun gedan morote-uchi
+  - Shuto jun gedan morote-barai
 
 16: Naar achter stappen |Z|
   - ushiro surikomi ashi hidari # Zet je linkervoet ACHTER de rechtervoet
 - Kiba dachi hidari |Z|
-  - Shuto jun gedan morote-uchi
+  - Shuto jun gedan morote-barai
 - Kiba dachi migi |N| # Niet verplaatsen, alleen draaien!
-  - Tettsui gyaku gedan morote-uchi
+  - Tettsui gyaku gedan morote-barai
 17: Naar achter stappen |N|
   - ushiro surikomi ashi migi # Zet je rechtervoet ACHTER de linker
 - Kiba dachi migi |N|
-  - Shuto jun gedan morote-uchi
+  - Shuto jun gedan morote-barai
 - Kiba dachi hidari |Z| # Niet verplaatsen, alleen draaien!
-  - Tettsui gyaku gedan morote-uchi
+  - Tettsui jun gedan morote-barai
 18: Naar voren |Z|
 - Moroashi dachi migi
-  - Hirate gyaku osae uke -> Uraken oi ganmen oroshi-uchi kiai
+  - Hirate gyaku osae uke -> Uraken oi shomen oroshi-uchi kiai
 
-19: Draai 180 graden |N|
+19: Draai 180 graden |N| # Achterste voet verplaatsen!
 - Sanchin dachi hidari
   - Seiken oi uchi-uke
   - Empi oi jodan ate
-  - Uraken oi ganmen oroshi-uchi
+  - Uraken oi shomen oroshi-uchi
   - Shuto gyaku hizo uchi
 20: Naar voren |N|
 - Sanchin dachi migi
   - Empi oi jodan ate
-  - Uraken oi ganmen oroshi-uchi
+  - Uraken oi shomen oroshi-uchi
   - Shuto gyaku hizo uchi
 21: Naar voren |N|
 - Sanchin dachi hidari
   - Empi oi jodan ate
-  - Uraken oi ganmen oroshi-uchi
+  - Uraken oi shomen oroshi-uchi
   - Shuto gyaku hizo uchi
+
+22: Kamae, trap en stoot |N|
+  - Shotei gyaku jodan age uke
+  - migi mae geri
+- Zenkutsu dachi migi
+  - Seiken gyaku shichi tsuri tsuki
+23: Omdraaien, blokkeren |N|
+- Zenkutsu dachi hidari |ZW| # Long kokutsu |Z|
+  - Seiken juji jodan uke
+- Zenkutsu dachi hidari |Z|
+  - Seiken kakiwake uke kiai
+24: Naar voren |Z|
+- Kokutsu dachi migi
+  - Shuto oi chudan kake-uke
+25: Naar voren |Z|
+- Kokutsu dachi hidari
+  - Shuto oi chudan kake-uke
+26: Naar voren |Z|
+- Kokutsu dachi migi
+  - Shuto oi chudan kake-uke
+27: Rugwaards naar rechts draaien |W|
+- Kokutsu dachi hidari
+  - Shuto oi chudan kake-uke
+
+28: Stap rechtervoet voorlangs |W|
+  - surikomi ashi migi
+- Kiba dachi hidari |Z|
+  - Shuto jun gedan morote-barai
+- Kiba dachi |N| # Blijf op dezelfde plek maar je kijkt nu naar voren
+  - Hirate hidari osae uke -> Uraken migi shomen uchi
+  - Gohon hidari chudan nukite -> Gohon migi chudan nukite (nidan)
+29: Stap linkervoet voorlangs |O|
+  - surikomi ashi hidari
+- Kiba dachi migi |Z|
+  - Shuto jun gedan morote-barai
+- Kiba dachi |N| # Blijf op dezelfde plek maar je kijkt nu naar voren
+  - Hirate migi osae uke -> Uraken hidari shomen uchi
+  - Gohon migi chudan nukite -> Gohon hidari chudan nukite (nidan)
+
+30: Trek rechtervoet terug |N|
+- Kokutsu dachi migi
+  - Seiken oi jodan tsuki
+31: Naar voren |N|
+- Kokutsu dachi hidari
+  - Seiken oi jodan tsuki
+32: Naar voren |N|
+- Kokutsu dachi migi
+  - Seiken oi jodan tsuki
+
+33: Draai naar links |W|
+- Sanchin dachi migi
+  - Uraken morote sayu uchi
+  - Haito morote jodan uchi
+  - Seiken morote chudan tsuki
+  - Seiken juji jodan uke
+  - Seiken kakiwake uke kiai
+34: Draai naar links |Z|
+- Zenkutsu dachi hidari
+  - Seiken oi gedan barai
+  - Seiken gyaku chudan tsuki
+
+35: Naar voren |Z|
+- Mami dachi migi
+  - kaishu kamae
+- Moroashi dachi migi
+  - Shotei morote gedan uke
+36: Naar voren |Z|
+- Mami dachi migi
+  - kaishu kamae
+- Moroashi dachi migi
+  - Shotei morote gedan uke
+37: Naar voren |Z|
+- Mami dachi migi
+  - kaishu kamae
+- Moroashi dachi migi
+  - Shotei morote gedan uke
+
+38: 180 graden draaien |N|
+- Kokutsu dachi hidari
+  - Shuto migi waki kamae
+  - Shuto oi chudan kake-uke
+  - Hirate oi osae uke -> Gohon gyaku chudan nukite
+39: Naar voren |Z|
+- Kokutsu dachi hidari
+  - Hirate oi osae uke -> Gohon gyaku chudan nukite

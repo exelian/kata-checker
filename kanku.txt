@@ -69,6 +69,7 @@
 15: Schuin naar voren |NW|
 - Sanchin dachi migi
   - Seiken oi jodan uke ibuki
+  - Seiken oi soto uke
   - Uraken oi ganmen uchi
   - Empi oi jodan ate
   - Empi gyaku jodan ate
@@ -77,6 +78,7 @@
 16: Schuin naar voren |NO|
 - Sanchin dachi hidari
   - Seiken oi jodan uke ibuki
+  - Seiken oi soto uke
   - Uraken oi ganmen uchi
   - Empi oi jodan ate
   - Empi gyaku jodan ate

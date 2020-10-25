@@ -1,0 +1,13 @@
+# Kyokushin inspired version of passai for Shotokan
+
+1: Stap naar voren |N|
+- Kake dachi migi
+  - morote uke
+2: 180 gr draaien en stap naar achter |Z|
+- Zenkutsu dachi hidari
+  - Seiken oi uchi-uke
+  - Seiken gyaku uchi-uke
+3: 180 gr draaien |N|
+- Zenkutsu dachi migi
+  - Seiken gyaku soto uke
+  - Uraken oi shita tsuki

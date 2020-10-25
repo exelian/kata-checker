@@ -1,3 +1,7 @@
+# Saifa/Saiha (Kyokushinkai)
+# Saifa (Goju-ryu)
+# Saifa betekend Scheuren en vernietigen. Saifa betekend in Fuzhou dialect leeuwmethode
+
 1: Schuin naar voren |NO|
 - Kiba dachi migi
   - tsugi ashi
@@ -36,6 +40,7 @@
 5: Trap & beweeg naar rechts |N|
   - migi chudan mae geri
   - ayumi ashi migi # stap naar rechts met rechts, VERGEET NIET NAAR LINKS TE KIJKEN!
+=> 3 - 5 tsuki/katatedori: uchi uke, stap naar voren en haak links achter de nek en rechts onder arm door, knietje.
 - Nekoashi dachi hidari
   - Shuto oi gedan barai & Haito gyaku uchi-uke (morote) ibuki
 6: Trap en stap naar achter |N|
@@ -47,6 +52,7 @@
   - Tettsui oi chudan ganmen uchi & Shotei gyaku chudan ganmen uchi (morote)
 => 6: Kopstoot, gebruik tettsui om contact te zoeken/houden, evt doorzetten in een polsklem.
 => 4, 5 & 6 migi tsuki: uchi-uke om arm te pakken, trek naar beneden en overstrek elleboog met links, grijp arm met linsk en shotei ago uchi met rechts.
+=> 5 & 6 clinch: knietje, trek tegenstander naar beneden, als hij framed -> tettsui.
 
 7: Verplaats je voorste voet naar links en draai 180 graden |Z|
 - Zenkutsu dachi hidari
@@ -78,5 +84,6 @@
   - Haito oi jodan uchi
   - Gohon gyaku chudan nukite
   - Shuto gyaku mae mawashi uke ibuki
+=> 9 - 11 clinch: shita tsuki=uchi uke, hikite + jodan tsuki, draai + kubi wa.
 => 11 gyaku tsuki zenkutsu dachi migi: stap naar voren en draai in (tenkan) + haito uchi = onder de gyaku tsuki en over de arm (rechte armklem, ude hishigi ude gatame), nukite.
 => 11: mai mawashi uke = rechterhand onder kin, pak geklemde arm met links en draai door.
