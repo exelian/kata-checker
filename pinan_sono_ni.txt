@@ -1,7 +1,9 @@
 # Pinan sono ni (Kyokushinkai)
 # Heian nidan (Shotokan)
-# Pinan shodan (Shuri-te, Itosu Anko)
-# Ontwikkelt als eerste kata van de 5 pinan's.
+# Pinan shodan (Wado-ryu, Shuri-te, Itosu Anko)
+# Ontwikkelt als eerste kata van de 5 pinan's. Funakoshi Gichin heeft tijdens zijn instructie 
+# besloten om deze kata de tweede heian te maken gezien deze op technisch vlak ingewikkelder is
+# dan de destijds tweede kata (bij kyokushinkai pinan sono ichi).
 
 1: Naar links |W|
 - Kokutsu dachi hidari # morote hikite migi terwijl je in draait

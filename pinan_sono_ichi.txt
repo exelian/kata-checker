@@ -1,3 +1,10 @@
+# Pinan sono ichi (Kyokushinkai)
+# Heian shodan (Shotokan)
+# Pinan nidan (Wado-ryu, Shuri-te, Itosu Anko)
+# Oorspronkelijk ontwikkeld als de tweede kata in the Pinan reeks. De naamgeving is door de jaren
+# heen veranderd. In shotokan wordt deze kata als eerste geleerd omdat deze qua technieken 
+# makkelijker is dan de oorspronkelijk eerste kata (bij kyokushinkai Pinan sono ni)
+
 1: Naar links |W|
 - Zenkutsu dachi hidari
   - Seiken oi gedan barai

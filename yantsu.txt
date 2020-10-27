@@ -1,0 +1,67 @@
+# Yantsu (Kyokushin)
+# Ansan (Shitoryu)
+# Yantsu (Okinawaans) of Ansan (Japans) betekend "veilig op drie manieren" (Yan: veilig, vredig; 
+# San: drie). De morote age nukite doet denken aan de opening van seienchin en dient waarschijnlijk
+# voor een soortgelijk doel: het losbreken van een arm-/nekgreep.
+
+1: Vanuit yoi |N|
+- Heiko dachi
+  - Haito morote jodan uchi
+  - Seiken morote jodan tsuki
+  - Uraken migi mawashi uchi
+  - Uraken hidari mawashi uchi
+  - Gohon migi chudan nukite
+  - Gohon hidari chudan nukite
+  - Gohon morote age nukite # Handruggen tegen elkaar!
+  - Shotei morote sayu oshite
+
+2: Naar voren |N|
+- Zenkutsu dachi migi
+  - Shotei gyaku chudan oshite
+  - Seiken oi chudan tsuki
+  - migi ushiro hikiashi & oi hikite
+- Kokutsu dachi migi
+  - Shotei oi gedan uke
+  - Koken oi jodan uke
+  - oi hikite
+  - Shuto oi sakotsu uchikomi
+- Musubi dachi # Houd je rechterhand uitgestrek!
+3: Naar voren |N|
+- Zenkutsu dachi hidari
+  - Shotei gyaku oshite
+  - Seiken oi chudan tsuki
+  - hidari ushiro hikiashi & oi hikite
+- Kokutsu dachi hidari
+  - Shotei oi gedan uke
+  - Koken oi jodan uke
+  - oi hikite
+  - Shuto oi sakotsu uchikomi
+- Musubi dachi |O| # 90gr draaien, houd gewicht op rechterbeen terwijl je draait
+
+4: Stap naar voren |O|
+- Zenkutsu dachi migi
+  - Seiken oi gedan tsuki -> Seiken gyaku jodan tsuki -> Seiken oi chudan tsuki
+  - hidari chudan mae geri # Voet terugzetten
+- Zenkutsu dachi migi
+  - migi ushiro hikiashi
+- Kokutsu dachi migi
+  - Haito oi uchi-uke
+  - oi hikite
+  - Shotei oi gedan uke
+  - Koken oi jodan uke
+  - oi hikite
+  - Shuto oi sakotsu uchikomi
+- Musubi dachi |W| # Verplaats je voorste voet naar links, houd het gewicht op je achterste voet
+5: Naar voren |W|
+- Zenkutsu dachi hidari
+  - Seiken oi gedan tsuki -> Seiken gyaku jodan tsuki -> Seiken oi chudan tsuki
+  - migi chudan mae geri # Voet terugzetten
+- Zenkutsu dachi hidari
+  - hidari ushiro hikiashi
+- Kokutsu dachi hidari
+  - Haito oi uchi-uke
+  - oi hikite
+  - Shotei oi gedan uke
+  - Koken oi jodan uke
+  - oi hikite
+  - Shuto oi sakotsu uchikomi
