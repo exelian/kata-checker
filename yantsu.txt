@@ -13,7 +13,7 @@
   - Gohon migi chudan nukite
   - Gohon hidari chudan nukite
   - Gohon morote age nukite # Handruggen tegen elkaar!
-  - Shotei morote sayu oshite
+  - Shotei morote sayu oshite ibuki
 
 2: Naar voren |N|
 - Zenkutsu dachi migi
@@ -24,7 +24,7 @@
   - Shotei oi gedan uke
   - Koken oi jodan uke
   - oi hikite
-  - Shuto oi sakotsu uchikomi
+  - Shuto oi sakotsu uchikomi ibuki
 - Musubi dachi # Houd je rechterhand uitgestrek!
 3: Naar voren |N|
 - Zenkutsu dachi hidari
@@ -35,12 +35,12 @@
   - Shotei oi gedan uke
   - Koken oi jodan uke
   - oi hikite
-  - Shuto oi sakotsu uchikomi
+  - Shuto oi sakotsu uchikomi ibuki
 - Musubi dachi |O| # 90gr draaien, houd gewicht op rechterbeen terwijl je draait
 
 4: Stap naar voren |O|
 - Zenkutsu dachi migi
-  - Seiken oi gedan tsuki -> Seiken gyaku jodan tsuki -> Seiken oi chudan tsuki
+  - Seiken oi gedan tsuki -> Seiken gyaku jodan tsuki -> Seiken oi chudan tsuki kiai
   - hidari chudan mae geri # Voet terugzetten
 - Zenkutsu dachi migi
   - migi ushiro hikiashi
@@ -50,11 +50,11 @@
   - Shotei oi gedan uke
   - Koken oi jodan uke
   - oi hikite
-  - Shuto oi sakotsu uchikomi
+  - Shuto oi sakotsu uchikomi ibuki
 - Musubi dachi |W| # Verplaats je voorste voet naar links, houd het gewicht op je achterste voet
 5: Naar voren |W|
 - Zenkutsu dachi hidari
-  - Seiken oi gedan tsuki -> Seiken gyaku jodan tsuki -> Seiken oi chudan tsuki
+  - Seiken oi gedan tsuki -> Seiken gyaku jodan tsuki -> Seiken oi chudan tsuki kiai
   - migi chudan mae geri # Voet terugzetten
 - Zenkutsu dachi hidari
   - hidari ushiro hikiashi
@@ -64,4 +64,4 @@
   - Shotei oi gedan uke
   - Koken oi jodan uke
   - oi hikite
-  - Shuto oi sakotsu uchikomi
+  - Shuto oi sakotsu uchikomi ibuki
