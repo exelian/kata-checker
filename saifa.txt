@@ -1,15 +1,16 @@
 # Saifa/Saiha (Kyokushinkai)
 # Saifa (Goju-ryu)
-# Saifa betekend Scheuren en vernietigen. Saifa betekend in Fuzhou dialect leeuwmethode
+# Saifa betekend Scheuren en vernietigen. Saifa betekend in Fuzhou dialect leeuwmethode. Saiha is
+# de veelgebruikte japanse spelling van deze kata, in weze verschilt deze niet qua naam
 
 1: Schuin naar voren |NO|
 - Kiba dachi migi
   - tsugi ashi
 - Musubi dachi |W|
-  - migi morote-hikite
+  - Seiken migi waki kamae
   - Empi migi uke
 - Kiba dachi |N|
-  - Uraken jun yoko uchi & Toho gyaku hikite # katate dori?
+  - Uraken jun yoko uchi & Shuto gyaku kakete # katate dori?
 => 1 katate dori: gebruik de empi om de greep losser te maken/kote mawashi in te zetten, Empi om te counteren.
 => 1 katate dori: trek hand naar je toe en overstrek elleboog van tori met de empi, evt opvolgen met mae geri.
 => 1 katate dori: Stap van de lijn af en trek arm naar je toe, draai arm in om grip losser te maken, shuto kaka uke & uraken ganmen uchi.
@@ -17,18 +18,18 @@
 - Kiba dachi hidari
   - tsugi ashi
 - Musubi dachi |O|
-  - hidari morote-hikite
+  - Seiken hidari waki kamae
   - Empi hidari uke
 - Kiba dachi |N|
-  - Uraken jun yoko uchi & Toho gyaku hikite # katate dori?
+  - Uraken jun yoko uchi & Shuto gyaku kakete
 3: Schuin naar voren |NO|
 - Kiba dachi migi
   - tsugi ashi
 - Musubi dachi |W|
-  - migi morote-hikite
+  - Seiken migi waki kamae
   - Empi migi uke
 - Kiba dachi |N|
-  - Uraken jun yoko uchi & Toho gyaku hikite # katate dori?
+  - Uraken jun yoko uchi & Shuto gyaku kakete
 
 4: Linkervoet aansluiten en naar links stappen |N|
 - Musubi dachi # Vergeet niet je handen klaar te zetten!
