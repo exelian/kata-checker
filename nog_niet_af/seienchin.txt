@@ -3,41 +3,45 @@
 
 => 3 & 4 migi katatedori: naar beneden en omhoog voor kote mawashi & hidari katatedori, gebruik migi om de klem te houden, gedan tettsui uchi + uit balans trekken, uchi uke om de arm de te buigen, kake om het hoofd te pakken, nukite naar hoofd/nek/buik/etc, migi atama osae en werpen.
 
-1: Schuin naar voren |NO|
+1: Schuin naar voren |NW|
 - Heisoku dachi |NW| # Voorbereiding om naar voren te stappen, kamae?
-- Kiba dachi migi |NO|
+- Mae kiba dachi |NW|
   - Shotei morote gedan uke
   - Gohon morote age nukite # Handruggen tegen elkaar!
   - Seiken jun yoko gedan barai & Seiken gyaku yoko gedan barai ibuki
+- Kiba dachi migi |NO| # Blijf op de plaats maar draai naar rechts
   - Haito jun uchi-uke ibuki
   - Shuto jun chudan kake-uke & Gohon gyaku chudan nukite
-2: Schuin naar voren |NW|
+2: Schuin naar voren |NO|
 - Heisoku dachi |NO|
+- Mae kiba dachi |NO|
+  - Shotei morote gedan uke
+  - Gohon morote age nukite # Handruggen tegen elkaar!
+  - Seiken jun yoko gedan barai & Seiken gyaku yoko gedan barai ibuki
 - Kiba dachi hidari |NW|
-  - Shotei morote gedan uke
-  - Gohon morote age nukite # Handruggen tegen elkaar!
-  - Seiken jun yoko gedan barai & Seiken gyaku yoko gedan barai ibuki
   - Haito jun uchi-uke ibuki
   - Shuto jun chudan kake-uke & Gohon gyaku chudan nukite
-3: Schuin naar voren |NO|
+3: Schuin naar voren |NW|
 - Heisoku dachi |NW|
-- Kiba dachi migi |NO|
+- Mae kiba dachi |NW|
   - Shotei morote gedan uke
   - Gohon morote age nukite # Handruggen tegen elkaar!
   - Seiken jun yoko gedan barai & Seiken gyaku yoko gedan barai ibuki
+- Kiba dachi migi |NO|
   - Haito jun uchi-uke ibuki
   - Shuto jun chudan kake-uke & Gohon gyaku chudan nukite
+
 4: Voorste voet terug trekken en recht naar voren |N|
-  - Seiken migi waki kamae & Kakato migi hikiashi # Hak naar achter, benaming?
-  - Seiken migi shichi tsuri tsuki kiai
+  - Seiken migi waki kamae & Hiza migi chudan geri
+  - Seiken migi chudan sasae-tsuki kiai
   - ushiro ayumi ashi migi
 - Zenkutsu dachi hidari |N|
   - Shuto oi jodan uke
-  - Shotei oi jodan uchi & Empi gyaku ago uchi
+  - Shotei oi jodan uchi & Empi gyaku ago age uchi
   - ayumi ashi migi
 
 - Kokutsu dachi migi |NO|
-  - Seiken morote uke ibuki
+  - Seiken morote sasae-uke ibuki
 5: Doorstappen met links |NO|
 - Kiba dachi hidari
   - Seiken jun yoko gedan barai
@@ -45,7 +49,7 @@
 - Kiba dachi migi |NO|
   - Seiken jun yoko gedan barai
 - Kokutsu dachi hidari |NW|
-  - Seiken morote uke ibuki
+  - Seiken morote sasae-uke ibuki
 6: Doorstappen met rechts |NW|
 - Kiba dachi migi
   - Seiken jun yoko gedan barai
@@ -54,20 +58,60 @@
   - Seiken jun yoko gedan barai
   - ushiro ayumi ashi hidari
 - Kiba dachi migi |N|
-  - Shotei jun osae gedan uke & Shotei gyaku jodan nagashi-uke
+  - Shotei jun osae gedan uke & Shotei gyaku jodan nagashi-uke? ibuki
 - Kiba dachi hidari |N|
-  - Shotei jun osae gedan uke & Shotei gyaku jodan nagashi-uke
+  - Shotei jun osae gedan uke & Shotei gyaku jodan nagashi-uke? ibuki
 
 7: Stap naar voren |N|
-  - Kakato migi ushiro age geri ?
 - Mami dachi migi
-  - Shotei gyaku soto uke # Positie vasthouden! Oshite?
-- Fudo dachi migi
+  - Shotei gyaku soto uke # Jihyo-gamae
+- Moroashi dachi migi
   - Seiken oi soto uke
-  - Kakato migi ushiro age geri ?
 - Mami dachi migi
   - Shotei gyaku osae uke # Positie vasthouden! Oshite?
-- Fudo dachi migi
-   - Uraken oi ganmen oroshi-uchi kiai
-- Sanchin dachi hidari
+- Moroashi dachi migi
+   - Uraken oi shomen oroshi-uchi kiai
+
+- Sanchin dachi hidari |ZW| # Stap over en draai naar links, gyaku uchi-uke, oi gedan barai kamae
+  - Seiken oi uchi-uke & Seiken gyaku gedan barai ibuki
 => 7 oi tsuki, gyaku tsuki: Controlleer stoot met shotei, soto uke naar binnen kan elleboog, blok en counter met uraken.
+8: Stap naar voren |ZW|
+- Kiba dachi migi
+  - Seiken jun age tsuki # Empi chudan uchi?
+  - Uraken jun sayu uchi
+  - Seiken jun yoko gedan barai
+  - ushiro ayumi ashi migi
+- Kiba dachi hidari |ZW|
+  - Seiken jun yoko gedan barai
+9: Trek rechtervoet terug |N|
+- Kokutsu dachi migi
+  - Empi oi jodan ate
+  - ushiro ayumi ashi migi
+- Kokutsu dachi hidari
+  - Empi oi jodan ate
+- Sanchin dachi migi |ZO| # Stap over en draai naar rechts, gyaku uchi-uke, oi gedan barai kamae
+  - Seiken oi uchi-uke & Seiken gyaku gedan barai ibuki
+10: Stap naar voren |ZO|
+- Kiba dachi hidari
+  - Seiken jun age tsuki # Empi chudan uchi?
+  - Uraken jun sayu uchi
+  - Seiken jun yoko gedan barai
+  - ushiro ayumi ashi hidari
+- Kiba dachi migi |ZW|
+  - Seiken jun yoko gedan barai
+11: Trek rechtervoet terug |N|
+- Kokutsu dachi hidari
+  - Empi oi jodan ate
+  - ushiro ayumi ashi hidari
+- Kokutsu dachi migi
+  - Empi oi jodan ate
+
+12: Stap naar voren |N|
+- Mami dachi migi
+  - Shotei gyaku osae uke # Jihyo-gamae
+- Moroashi dachi migi
+  - Uraken oi shomen oroshi-uchi
+  - hidari mae tobi geri # Met je achterste been
+- Kokutsu dachi hidari
+  - kaishu kamae
+  - Shotei morote gedan uke ibuki
