@@ -1,6 +1,10 @@
 # Seienchin (Kyokushin, Advanced Karate by Masutatsu Oyama)
 # Seiyunchin (Goju-ryu)
 
+# Seienchin als kata wordt gekarakeriseerd door het gebrek aan trap en stoot
+# technieken. In plaats daarvan wordt er veel gebruik gemaakt van slagen met de
+# onderarm (gedan barai, soto uke, uraken sayu uchi).
+# 
 => 3 & 4 migi katatedori: naar beneden en omhoog voor kote mawashi & hidari katatedori, gebruik migi om de klem te houden, gedan tettsui uchi + uit balans trekken, uchi uke om de arm de te buigen, kake om het hoofd te pakken, nukite naar hoofd/nek/buik/etc, migi atama osae en werpen.
 
 1: Schuin naar voren |NW|
@@ -30,7 +34,6 @@
 - Kiba dachi migi |NO|
   - Haito jun uchi-uke ibuki
   - Shuto jun chudan kake-uke & Gohon gyaku chudan nukite
-
 4: Voorste voet terug trekken en recht naar voren |N|
   - Seiken migi waki kamae & Hiza migi chudan geri
   - Seiken migi chudan sasae-tsuki kiai
@@ -58,15 +61,14 @@
   - Seiken jun yoko gedan barai
   - ushiro ayumi ashi hidari
 - Kiba dachi migi |N|
-  - Shotei jun osae gedan uke & Shotei gyaku jodan nagashi-uke? ibuki
+  - Shotei jun osae gedan uke & Haiwan gyaku jodan nagashi-uke ibuki # Shuto gedan uchi/barai?
 - Kiba dachi hidari |N|
-  - Shotei jun osae gedan uke & Shotei gyaku jodan nagashi-uke? ibuki
+  - Shotei jun osae gedan uke & Haiwan gyaku jodan nagashi-uke ibuki
 
 7: Stap naar voren |N|
 - Mami dachi migi
-  - Shotei gyaku soto uke # Jihyo-gamae
 - Moroashi dachi migi
-  - Seiken oi soto uke
+  - Shotei gyaku soto uke -> Seiken oi soto uke # Jihyo-gamae
 - Mami dachi migi
   - Shotei gyaku osae uke # Positie vasthouden! Oshite?
 - Moroashi dachi migi
