@@ -72,7 +72,7 @@
 - Mami dachi migi
   - Shotei gyaku osae uke # Positie vasthouden! Oshite?
 - Moroashi dachi migi
-   - Uraken oi shomen oroshi-uchi kiai
+  - Uraken oi shomen oroshi-uchi kiai
 
 - Sanchin dachi hidari |ZW| # Stap over en draai naar links, gyaku uchi-uke, oi gedan barai kamae
   - Seiken oi uchi-uke & Seiken gyaku gedan barai ibuki
@@ -113,7 +113,7 @@
   - Shotei gyaku osae uke # Jihyo-gamae
 - Moroashi dachi migi
   - Uraken oi shomen oroshi-uchi
-  - hidari mae tobi geri # Met je achterste been
+  - hidari mae tobi-geri # Met je achterste been
 - Kokutsu dachi hidari
   - kaishu kamae
   - Shotei morote gedan uke ibuki
