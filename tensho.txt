@@ -1,7 +1,7 @@
 1: Naar voren |N|
 - Sanchin dachi migi
   - Seiken oi uchi-uke ibuki
-  - Kake oi hikite # Inademen
+  - oi hikite # Inademen
   - Shuto oi sakotsu uchikomi ibuki
   - Shuto oi hizo uchi
   - Shotei oi hikite # Inademen
@@ -14,7 +14,7 @@
 2: Naar voren |N|
 - Sanchin dachi hidari
   - Seiken oi uchi-uke ibuki
-  - Kake oi hikite # Inademen
+  - oi hikite # Inademen
   - Shuto oi sakotsu uchikomi ibuki
   - Shuto oi hizo uchi
   - Shotei oi hikite # Inademen
@@ -27,7 +27,7 @@
 3: Naar voren |N|
 - Sanchin dachi migi
   - Seiken morote uchi-uke ibuki
-  - Kake morote hikite # Inademen
+  - morote hikite # Inademen
   - Shuto morote sakotsu uchikomi ibuki
   - Shuto morote hizo uchi
   - Shotei morote hikite # Inademen

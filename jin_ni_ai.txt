@@ -20,7 +20,7 @@
   - Haito gyaku jodan uchi-uchi
 5: Naar voren |W|
 - Zenkutsu dachi migi
-  - Haito gyaku jodan soto-uchi
+  - Haito gyaku jodan soto uchi
   - Empi oi jodan ate & Shotei gyaku jodan uchi (morote)
   - Seiken yama tsuki # gyaku boven!
 
@@ -46,7 +46,7 @@
   - Haito gyaku jodan uchi-uchi
 10: Naar voren |O|
 - Zenkutsu dachi hidari
-  - Haito gyaku jodan soto-uchi
+  - Haito gyaku jodan soto uchi
   - Empi oi jodan ate & Shotei gyaku jodan uchi (morote)
   - Seiken yama tsuki # gyaku boven!
 
@@ -76,7 +76,7 @@
   - Haito oi uchi-uke & Shuto gyaku gedan barai (morote)
 16: Naar voren |N|
   - migi jodan mae-geri
-  - Hirate gyaku osai uke -> Nukite oi chudan
+  - Hirate gyaku osae uke -> Gohon oi chudan nukite
 
 17: Schuin naar voren |NO|
 - Zenkutsu dachi hidari
