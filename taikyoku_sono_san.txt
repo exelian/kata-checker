@@ -1,13 +1,13 @@
 1: Naar links |W|
 - Kokutsu dachi hidari
-  - Seiken oi uchi uke
+  - Seiken oi uchi-uke
 2: Naar voren |W|
 - Zenkutsu dachi migi
   - Seiken oi chudan tsuki
 
 3: 180gr draaien |O|
 - Kokutsu dachi migi
-  - Seiken oi uchi uke
+  - Seiken oi uchi-uke
 4: Naar voren |W|
 - Zenkutsu dachi hidari
   - Seiken oi chudan tsuki
@@ -27,14 +27,14 @@
 
 9: 270gr rugwaards draaien |W|
 - Kokutsu dachi hidari
-  - Seiken oi uchi uke
+  - Seiken oi uchi-uke
 10: Naar voren |W|
 - Zenkutsu dachi migi
   - Seiken oi chudan tsuki
 
 11: 180gr draaien |O|
 - Kokutsu dachi migi
-  - Seiken oi uchi uke
+  - Seiken oi uchi-uke
 12: Naar voren |O|
 - Zenkutsu dachi hidari
   - Seiken oi chudan tsuki
@@ -54,14 +54,14 @@
 
 17: 270gr rugwaards draaien |W|
 - Kokutsu dachi hidari
-  - Seiken oi uchi uke
+  - Seiken oi uchi-uke
 18: Naar voren |W|
 - Zenkutsu dachi migi
   - Seiken oi chudan tsuki
 
 19: 180gr draaien |O|
 - Kokutsu dachi migi
-  - Seiken oi uchi uke
+  - Seiken oi uchi-uke
 20: Naar voren |O|
 - Zenkutsu dachi hidari
   - Seiken oi chudan tsuki
