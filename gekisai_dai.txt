@@ -28,7 +28,7 @@
 5: Rechts sluit aan en stapt naar voren |N|
 - Sanchin dachi migi
   - Seiken oi uchi-uke ibuki
-=> 3 t/m 5 jodan tsuki: probeer techniek over te nemen ala 1 & 2, blokeer met counter met gedan barai en creeer ruimte door in kiba te draaien, draai direct naar sanchin kamae (uchi uke) en mae geri. 
+=> 3 t/m 5 jodan tsuki: probeer techniek over te nemen ala 1 & 2, blokeer met counter met gedan barai en creeer ruimte door in kiba te draaien, draai direct naar sanchin kamae (uchi uke) en mae geri.
 6: Naar voren |N|
 - Sanchin dachi hidari
   - Seiken oi uchi-uke ibuki
@@ -72,12 +72,12 @@
 - Kiba dachi hidari |Z|
   - Shuto jun chudan yoko uchi kiai
 
-12: Direct doorstappen |N|
+13: Direct doorstappen |N|
   - ayumi ashi
 - Zenkutsu dachi migi
   - Seiken yama tsuki
 - Musubi dachi # Voorste been terugtrekken
   - migi hikite & hidari hikite
-13: Naar voren |N|
+14: Naar voren |N|
 - Zenkutsu dachi hidari
   - Seiken yama tsuki
