@@ -13,16 +13,17 @@ def main():
 
         for i, l in enumerate(f):
             m = MATCHER.match(l.strip('\n'))
+
+            if not m:
+                print(i, l, m)
+                break
+
             if m.group('step') is not None:
                 this_step = int(m.group('step'))
                 if this_step != (last_step + 1):
                     print('#{} Step count should always increment by 1 - {}'.format(i, l))
                     break
                 last_step = this_step
-
-            if not m:
-                print(i, l, m)
-                break
 
 if __name__ == '__main__':
     main()
