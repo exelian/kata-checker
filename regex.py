@@ -17,11 +17,12 @@ KEYWORD_CLASSES = {
 
 
 class RegExFormat(object):
-    def __init__(self, args):
+    def __init__(self, args, allow_empty=False):
+        self.allow_empty = allow_empty
         self.items = args
 
     def __format__(self, spec):
-        extra = [''] if ' ' in spec else []
+        extra = [''] if self.allow_empty else []
         joined = '|'.join(self.items + extra)
 
         if 'X' in spec:
@@ -65,11 +66,11 @@ def generate_parser_regex():
         'Shiko'
     ])
 
-    WEAPON = RegExFormat(output['WEAPON'])
-    HANDEDNESS = RegExFormat(output['HANDEDNESS'])
-    TARGET = RegExFormat(output['TARGET'])
+    WEAPON = RegExFormat(output['WEAPON'], allow_empty=True)
+    HANDEDNESS = RegExFormat(output['HANDEDNESS'], allow_empty=True)
+    TARGET = RegExFormat(output['TARGET'], allow_empty=True)
     WAZA = RegExFormat(output['WAZA'])
-    TECHNIQUE_MODIFIERS = RegExFormat(output['TECHNIQUE_MODIFIERS'])
+    TECHNIQUE_MODIFIERS = RegExFormat(output['TECHNIQUE_MODIFIERS'], allow_empty=True)
     MOVEMENT_TYPE = RegExFormat(['tenkan', 'tenshin', 'yori ashi', 'tsugi ashi', 'surikomi ashi', 'ayumi ashi', 'tobi'])
     LEFT_RIGHT = RegExFormat(['migi', 'hidari'])
     MOVEMENT = fr'(?:(mae|ushiro)\s)?({MOVEMENT_TYPE})\s?({LEFT_RIGHT})?'
@@ -79,7 +80,7 @@ def generate_parser_regex():
 
     WAZA_PREFIX = RegExFormat(output['WAZA_PREFIX'])
     WAZA_SUFFFIX = RegExFormat(['komi'])
-    TECHNIQUE = fr'({WEAPON: })?\s?({HANDEDNESS: })\s?(?:({TARGET: })\s)*(?:{WAZA_PREFIX})?({WAZA})\s?({WAZA_SUFFFIX})?'
+    TECHNIQUE = fr'({WEAPON})?\s?({HANDEDNESS})\s?(?:({TARGET})\s)*(?:{WAZA_PREFIX})?({WAZA})\s?({WAZA_SUFFFIX})?'
     MOROTE = fr'{TECHNIQUE} & {TECHNIQUE}\s*(\(morote\))?'
     FOLLOWUP = fr'{TECHNIQUE} -> {TECHNIQUE}\s*(\(nidan\))?'
     FOLLOWUP3 = fr'{TECHNIQUE} -> {TECHNIQUE} -> {TECHNIQUE}\s*(\(sandan\))?'
@@ -88,7 +89,7 @@ def generate_parser_regex():
 
     COUNT_LINE = fr'(?P<step>\d+): (?P<desc>.*) {DIRECTION}'
     STANCE_LINE = fr'- (hanmi\s*)?(?P<stance>{STANCES:X} dachi)\s*({LEFT_RIGHT})?\s*({DIRECTION})?'
-    TECHNIQUE_LINE = fr'  - (?P<actions>{TECHNIQUE}|{MOROTE}|{FOLLOWUP}|{FOLLOWUP3}|{MOVEMENT})\s*(?P<mod>{TECHNIQUE_MODIFIERS: })'
+    TECHNIQUE_LINE = fr'  - (?P<actions>{TECHNIQUE}|{MOROTE}|{FOLLOWUP}|{FOLLOWUP3}|{MOVEMENT})\s*(?P<mod>{TECHNIQUE_MODIFIERS})'
 
     COMMENT = r'(?:\s*#(?P<comment>.*))?$'
     LINE = fr'^({COUNT_LINE}|{STANCE_LINE}|{TECHNIQUE_LINE}|{BUNKAI}|){COMMENT}'
