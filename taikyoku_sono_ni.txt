@@ -1,67 +1,67 @@
-1: Naar links (W)
+1: Naar links |W|
 - Zenkutsu dachi hidari
   - Seiken oi gedan barai
-2: Naar voren (W)
+2: Naar voren |W|
 - Zenkutsu dachi migi
   - Seiken oi jodan tsuki
 
-3: 180gr draaien (O)
+3: 180gr draaien |O|
 - Zenkutsu dachi migi
   - Seiken oi gedan barai
-4: Naar voren (W)
+4: Naar voren |W|
 - Zenkutsu dachi hidari
   - Seiken oi jodan tsuki
 
-5: Naar links (N)
+5: Naar links |N|
 - Zenkutsu dachi hidari
   - Seiken oi gedan barai
-6: Naar voren (N)
+6: Naar voren |N|
 - Zenkutsu dachi migi
   - Seiken oi jodan tsuki
-7: Naar voren (N)
+7: Naar voren |N|
 - Zenkutsu dachi hidari
   - Seiken oi jodan tsuki
-8: Naar voren (N)
+8: Naar voren |N|
 - Zenkutsu dachi migi
   - Seiken oi jodan tsuki kiai
 
-9: 270gr rugwaards draaien (W)
+9: 270gr rugwaards draaien |W|
 - Zenkutsu dachi hidari
   - Seiken oi gedan barai
-10: Naar voren (W)
+10: Naar voren |W|
 - Zenkutsu dachi migi
   - Seiken oi jodan tsuki
 
-11: 180gr draaien (O)
+11: 180gr draaien |O|
 - Zenkutsu dachi migi
   - Seiken oi gedan barai
-12: Naar voren (O)
+12: Naar voren |O|
 - Zenkutsu dachi hidari
   - Seiken oi jodan tsuki
 
-13: Naar links (Z)
+13: Naar links |Z|
 - Zenkutsu dachi hidari
   - Seiken oi gedan barai
-14: Naar voren (Z)
+14: Naar voren |Z|
 - Zenkutsu dachi migi
   - Seiken oi jodan tsuki
-15: Naar voren (Z)
+15: Naar voren |Z|
 - Zenkutsu dachi hidari
   - Seiken oi jodan tsuki
-16: Naar voren (Z)
+16: Naar voren |Z|
 - Zenkutsu dachi migi
   - Seiken oi jodan tsuki kiai
 
-17: 270gr rugwaards draaien (W)
+17: 270gr rugwaards draaien |W|
 - Zenkutsu dachi hidari
   - Seiken oi gedan barai
-18: Naar voren (W)
+18: Naar voren |W|
 - Zenkutsu dachi migi
   - Seiken oi jodan tsuki
 
-19: 180gr draaien (O)
+19: 180gr draaien |O|
 - Zenkutsu dachi migi
   - Seiken oi gedan barai
-20: Naar voren (O)
+20: Naar voren |O|
 - Zenkutsu dachi hidari
   - Seiken oi jodan tsuki
