@@ -81,15 +81,15 @@ def generate_parser_regex():
     WAZA_PREFIX = RegExFormat(output['WAZA_PREFIX'])
     WAZA_SUFFFIX = RegExFormat(['komi'])
     TECHNIQUE = fr'({WEAPON})?\s?({HANDEDNESS})\s?(?:({TARGET})\s)*(?:{WAZA_PREFIX})?({WAZA})\s?({WAZA_SUFFFIX})?'
-    MOROTE = fr'{TECHNIQUE} & {TECHNIQUE}\s*(\(morote\))?'
-    FOLLOWUP = fr'{TECHNIQUE} -> {TECHNIQUE}\s*(\(nidan\))?'
-    FOLLOWUP3 = fr'{TECHNIQUE} -> {TECHNIQUE} -> {TECHNIQUE}\s*(\(sandan\))?'
+    MOROTE = fr'(?P<technique2>{TECHNIQUE}) & (?P<technique3>{TECHNIQUE})\s*(\(morote\))?'
+    FOLLOWUP = fr'(?P<technique4>{TECHNIQUE}) -> (?P<technique5>{TECHNIQUE})\s*(\(nidan\))?'
+    FOLLOWUP3 = fr'(?P<technique6>{TECHNIQUE}) -> (?P<technique7>{TECHNIQUE}) -> (?P<technique8>{TECHNIQUE})\s*(\(sandan\))?'
 
     BUNKAI = r'^=>(?P<attack>.*?):(?P<uke>(?s:.*))\.'
 
     COUNT_LINE = fr'(?P<step>\d+): (?P<desc>.*) {DIRECTION}'
     STANCE_LINE = fr'- (hanmi\s*)?(?P<stance>{STANCES:X} dachi)\s*({LEFT_RIGHT})?\s*({DIRECTION})?'
-    TECHNIQUE_LINE = fr'  - (?P<actions>{TECHNIQUE}|{MOROTE}|{FOLLOWUP}|{FOLLOWUP3}|{MOVEMENT})\s*(?P<mod>{TECHNIQUE_MODIFIERS})'
+    TECHNIQUE_LINE = fr'  - (?P<actions>(?P<technique1>{TECHNIQUE})|{MOROTE}|{FOLLOWUP}|{FOLLOWUP3}|{MOVEMENT})\s*(?P<mod>{TECHNIQUE_MODIFIERS})'
 
     COMMENT = r'(?:\s*#(?P<comment>.*))?$'
     LINE = fr'^({COUNT_LINE}|{STANCE_LINE}|{TECHNIQUE_LINE}|{BUNKAI}|){COMMENT}'
