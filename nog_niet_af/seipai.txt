@@ -1,3 +1,6 @@
+# Seipai (Kyokushin)
+# Seipai (Goju ryu)
+
 => 2 & 3 katate dori: trek arm terug voor tsiji tsuri tsuki, gebruik de stoot om de tegestanderspols beet te pakken, hikite + empi om los te breken.
 
 1: Stap naar voren met rechts |N|
@@ -5,7 +8,7 @@
   - Haishu jun chudan yoko uke
 2: Stap naar voren met links |N|
 - Zenkutsu dachi hidari
-  - Seiken hidari shichi tsuri tsuki kiai ?
+  - Seiken hidari sasae-tsuki kiai
 3: Stap naar voren met rechts |N|
 - Kiba dachi migi
   - Empi jun jodan ate
