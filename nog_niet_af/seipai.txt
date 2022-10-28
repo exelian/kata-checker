@@ -8,66 +8,97 @@
   - Haishu jun chudan yoko uke
 2: Stap naar voren met links |N|
 - Zenkutsu dachi hidari
-  - Seiken hidari sasae-tsuki kiai
+  - Seiken hidari chudan sasae-tsuki
 3: Stap naar voren met rechts |N|
 - Kiba dachi migi
-  - Empi jun jodan ate
+  - Empi jun jodan ate kiai # Bedek rechtervuist met linkerhand, lijkt op saifa
 
 4: Trek voorste been terug, trap en zet been naar achter neer |N|
-- Tsuru achi dachi migi# kamae?
-  - Yoko migi chudan geri
+- Tsuruashi dachi migi # kamae?
+  - migi chudan yoko geri
 - Kiba dachi hidari |N|
   - Haito migi mae uchi-uke & Shuto hidari gedan barai ibuki
 5: Trek voorste been terug, trap en zet terug |N|
-- Tsuru achi dachi hidari # kamae?
-  - Yoko hidari chudan geri
+- Tsuruashi dachi hidari # kamae?
+  - hidari chudan yoko geri
 - Kiba dachi hidari |N|
   - Haito hidari mae uchi-uke & Shuto migi gedan barai ibuki
-
 6: Draai naar links |N|
 - Zenkutsu dachi hidari
   - Shuto oi jodan uke & Shuto gyaku jodan uchi
-7: Gesprongen trap en land direct in kiba dachi
+
+7: Gesprongen trap en land direct in kiba dachi |N|
   - hidari mae tobi-geri
 - Kiba dachi hidari |N|
-  - Empi jun jodan ate
+  - Empi jun jodan ate kiai
 8: Draai naar rechts |Z|
 - Zenkutsu dachi migi
   - Seiken morote uke
-
 9: Trek voorste been terug en stap naar links |O|
 - Sanchin dachi migi |O|
   - Seiken gyaku chudan yoko tsuki # stoot opzij |N|
+=> 4 t/m 6 migi oi tsuki: Katate dori, shuto gedan uchi, gebruik haito + hikite om rechterarm te controleren en slag naar de nek.
+=> 7 & 8 migi oi tsuki: Alternatief voor stap 6 als haito/hikite niet lukt;  Katate dori, shuto gedan uchi, 2 knietjes, empi jodan ate.
+=> 9 migi oi tsuki: Alternatief voor stap 6 als haito/hikite niet lukt;  ude hishigi hara gatame.
+
 10: Draai naar links en verplaats rechtervoet |N|
 - Kokutsu dachi migi
-  - Hirate gyaku osae uke & Uraken oi jodan oroshi-uchi
+  - Hirate gyaku osae uke & Uraken oi jodan oroshi-uchi # Einde van de bunkai?
   - Shuto oi kake-uke
 - Zenkutsu dachi migi
-  - Seiken oi chudan tsuki
-  
-11: Verplaats voorste been naar achter
-- Kiba dachi # oostelijke richten
+  - Seiken oi chudan tsuki kiai
+
+11: Verplaats voorste been naar achter |O|
+- Kiba dachi
   - Shuto migi gedan uchi
-  
-- morote age nukite
-- yoko geri
-- mae geri
-- morote gedan tsuki
+12: Verplaats gewicht naar links, trappen en plaats rechterbeen terug |O|
+- Tsuruashi dachi migi
+  - kaishu kamae
+  - migi chudan yoko geri
+  - migi mae geri
+- Kiba dachi
+  - Seiken morote gedan tsuki
+13: Verplaats gewicht naar rechts en draai 180 graden |W|
+- Tsuruashi dachi hidari
+  - kaishu kamae
+  - hidari chudan yoko geri
+  - hidari mae geri
+- Kiba dachi
+  - Seiken morote gedan tsuki
+=> 11 & 12: Shuto slag naar de nek, mae hadaka jime, gebruik verplaatsing voor ashi barai, knietje en/of trap naar achterste been, trek naar beneden+morote gedan tsuki.
 
-- morote age nukite
-- yoko geri
-- mae geri
-- morote gedan tsuki
+14: Draai naar links |Z|
+- Zenkutsu dachi hidari
+  - Seiken oi gedan barai
+15: Veeg, draai 180 graden en stap |N|
+  - migi ashi barai
+- Kake dachi migi
+  - Seiken yama tsuki
+16: Draai 180 graden en slag |Z|
+- Kokutsu dachi hidari
+  - Shuto mawashi uke # kort, zonder lage blokkering, net als gekisai sho
+17: Blijf in deze stand |Z|
+  - Seiken oi gedan barai
 
-- gedan barai
-- yama tsuki 
-- shuto sakotsu uchi
-- Gedan barai
-- uchi-uke
-- uchi-uke gedan barai
-- uchi-uke gedan barai
-
-- uchi uke
-- kanku
-- shichi tsuri tsuki
-
+18: Blijf in deze stand |Z|
+  - Seiken oi uchi-uke
+  - Seiken oi gedan barai & Seiken gyaku uchi-uke (morote)
+  - Seiken oi uchi-uke & Seiken gyaku gedan barai (morote)
+19: Zet voorste voet neer en trap + blokeer |Z|
+  - migi mae geri
+- Zenkutsu dachi migi
+  - Seiken oi uchi-uke
+20: Draai 180 graden op je standbeen |N|
+  - tenkan
+- Kokutsu dachi migi
+  - Haito oi jodan uchi
+  - Gohon gyaku chudan nukite
+  - Shuto gyaku mae mawashi uke ibuki # Alleen blokkering, stop als beide handen teruggetrokken zijn
+  - ushiro ayumi ashi migi
+- Kokutsu dachi hidari
+  - kanku
+  - Shuto migi gedan uchi & Shotei hidari gedan uchi
+  - ushiro ayumi ashi hidari
+- Kokutsu dachi migi
+  - migi waki kamae
+  - Seiken hidari gedan sasae-tsuki
