@@ -43,7 +43,7 @@
   - migi chudan yoko geri
 - Kiba dachi migi |O|
   - Seiken jun chudan tsuki
-=> : hiza geri, tai otoshi.
+=> 7: hiza geri, tai otoshi.
 8: Naar links |N|
 - Tsuruashi dachi hidari
   - Seiken hidari waki kamae # Ja, hidari
@@ -67,6 +67,7 @@
   - kaishu kamae
 - Moroashi dachi migi
   - Shotei morote gedan uke
+=> 11: De kaishu kamae+mami dachi + shotei kunnen als ko uchi gari + osu worden gezien.
 
 12: Draai 180 graden |Z|
 - Kokutsu dachi hidari
@@ -87,8 +88,8 @@
 - Heisoku dachi |W|
 - Kiba dachi hidari |Z|
   - Shuto jun gedan morote-barai
-=> 14 & 15 vanuit clinch -> controleer linkerarm, pak (achter)hoofd met links, trek naar je toe, pak kin met rechts, veeg voorste voet en werp.
-=> 14 & 15 vanuit clinch -> controleer linkerarm, hidari kanuki gatame, migi shotei ago uchi, ashi barai + worp.
+=> 14 & 15 vanuit clinch: controleer linkerarm, pak (achter)hoofd met links, trek naar je toe, pak kin met rechts, veeg voorste voet en werp.
+=> 14 & 15 vanuit clinch: controleer linkerarm, hidari kanuki gatame, migi shotei ago uchi, ashi barai + worp.
 
 16: Naar achter stappen |Z|
   - ushiro surikomi ashi hidari # Zet je linkervoet ACHTER de rechtervoet
@@ -122,6 +123,11 @@
   - Empi oi jodan ate
   - Uraken oi shomen oroshi-uchi
   - Shuto gyaku hizo uchi
+=> 19 & 20 vanuit clinch/katate kosa door: uchi uke om links ruimte te maken/arm los te wrikken,
+   empi naar het gezicht of om slag met rechts te blokkeren,
+   uraken naar het gezicht, wordt (mogelijke) geblokkeerd met rechts,
+   als reactie blok verwijderen met hikite en slag naar het kruis,
+   doorstappen en empi gebruiken voor een empi gatame.
 
 22: Kamae, trap en stoot |N|
   - Shotei gyaku jodan age uke

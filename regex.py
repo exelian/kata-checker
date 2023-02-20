@@ -41,6 +41,19 @@ def parse_xml_file(filename):
         if tag.attrib['name'].startswith('Keywords')
     }
 
+def generate_technique_string():
+    output = parse_xml_file(LANGUAGE_FILE)
+    WEAPON = RegExFormat(output['WEAPON'], allow_empty=True)
+    HANDEDNESS = RegExFormat(output['HANDEDNESS'], allow_empty=True)
+    TARGET = RegExFormat(output['TARGET'], allow_empty=True)
+
+    WAZA = RegExFormat(output['WAZA'])
+    WAZA_PREFIX = RegExFormat(output['WAZA_PREFIX'])
+    WAZA_SUFFFIX = RegExFormat(['komi'])
+
+    TECHNIQUE = fr'({WEAPON})?\s?({HANDEDNESS})\s?(?:({TARGET})\s)*(?:{WAZA_PREFIX})?({WAZA})\s?({WAZA_SUFFFIX})?'
+    return TECHNIQUE
+
 def generate_parser_regex():
     output = parse_xml_file(LANGUAGE_FILE)
 
@@ -66,10 +79,7 @@ def generate_parser_regex():
         'Shiko'
     ])
 
-    WEAPON = RegExFormat(output['WEAPON'], allow_empty=True)
-    HANDEDNESS = RegExFormat(output['HANDEDNESS'], allow_empty=True)
-    TARGET = RegExFormat(output['TARGET'], allow_empty=True)
-    WAZA = RegExFormat(output['WAZA'])
+    TECHNIQUE = generate_technique_string()
     TECHNIQUE_MODIFIERS = RegExFormat(output['TECHNIQUE_MODIFIERS'], allow_empty=True)
     MOVEMENT_TYPE = RegExFormat(['tenkan', 'tenshin', 'yori ashi', 'tsugi ashi', 'surikomi ashi', 'ayumi ashi', 'tobi'])
     LEFT_RIGHT = RegExFormat(['migi', 'hidari'])
@@ -78,14 +88,14 @@ def generate_parser_regex():
     DIRECTIONS = RegExFormat(['N', 'NO', 'O', 'ZO', 'Z', 'ZW', 'W', 'NW'])
     DIRECTION = fr'(?:\|(?:{DIRECTIONS})\|)'
 
-    WAZA_PREFIX = RegExFormat(output['WAZA_PREFIX'])
-    WAZA_SUFFFIX = RegExFormat(['komi'])
-    TECHNIQUE = fr'({WEAPON})?\s?({HANDEDNESS})\s?(?:({TARGET})\s)*(?:{WAZA_PREFIX})?({WAZA})\s?({WAZA_SUFFFIX})?'
     MOROTE = fr'(?P<technique2>{TECHNIQUE}) & (?P<technique3>{TECHNIQUE})\s*(\(morote\))?'
     FOLLOWUP = fr'(?P<technique4>{TECHNIQUE}) -> (?P<technique5>{TECHNIQUE})\s*(\(nidan\))?'
     FOLLOWUP3 = fr'(?P<technique6>{TECHNIQUE}) -> (?P<technique7>{TECHNIQUE}) -> (?P<technique8>{TECHNIQUE})\s*(\(sandan\))?'
 
-    BUNKAI = r'^=>(?P<attack>.*?):(?P<uke>(?s:.*))\.'
+    BUNKAI_UKE = r'[^\.]*(,|\.)'
+    BUNKAI_SINGLE = fr'^=>(?P<attack>.*?): (?P<uke1>{BUNKAI_UKE})'
+    BUNKAI_MULTI = fr'   (?P<uke2>{BUNKAI_UKE})'
+    BUNKAI = fr'({BUNKAI_SINGLE}|{BUNKAI_MULTI})'
 
     COUNT_LINE = fr'(?P<step>\d+): (?P<desc>.*) {DIRECTION}'
     STANCE_LINE = fr'- (hanmi\s*)?(?P<stance>{STANCES:X} dachi)\s*({LEFT_RIGHT})?\s*({DIRECTION})?'

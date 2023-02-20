@@ -5,6 +5,10 @@
 # opdracht van Hayakawa Gen, gouverneur van Okinawa. Het doel was een simpelere kata voor beginners
 # die de essentie van al het karate op Okinawa omvat.
 
+# In Goju-ryu wordt rechts naar rechtsachter verplaatst ipv links naar linksvoor. Dit heeft als
+# effect dat beide kanten symmetrisch zijn. Daarnaast wordt de intentie duidelijker: je stapt
+# buiten een techniek langs en neemt deze over. Waarschijnlijk wordt in kyokushin met links 
+# uitgestapt vanwege conventie.
 1: Naar links |W|
 - Sanchin dachi hidari
   - Seiken oi jodan uke ibuki
@@ -13,7 +17,8 @@
   - Seiken oi jodan tsuki
 - Kiba dachi hidari |W|
   - Seiken jun yoko gedan barai
-=> 1 & 2 jodan tsuki: blokeer en grijp hand van tori, stap om de techniek heen & jodan tsuki, stap terug naar kiba en trek de hand van tori mee.
+=> 1 & 2 jodan tsuki: blokeer en grijp hand van tori, stap om de techniek heen & jodan tsuki.
+=> 2: Na de stoot, grijp tori bij de kraag of neem de arm over, trek naar beneden en val hoofd aan met tettsui.
 
 3: Links sluit aan bij rechts en stapt terug naar achter |O|
 - Sanchin dachi migi
@@ -25,6 +30,9 @@
   - Seiken jun yoko gedan barai
 => 4 counter met links na jodan tsuki: blokeer jodan met de gedan kamae, tettsui gedan uchi.
 
+# In Goju-ryu sluit links aan en stapt naar voren en er worden maar 2 uchi-uke gedaan.
+# De lange combinatie moet niet beschouwd worden als 1 serie opvolgende technieken, maar als een 
+# reeks aan variaties/opties die nuttig kunnen zijn.
 5: Rechts sluit aan en stapt naar voren |N|
 - Sanchin dachi migi
   - Seiken oi uchi-uke ibuki
