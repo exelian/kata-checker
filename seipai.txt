@@ -17,12 +17,12 @@
 - Tsuruashi dachi migi # kamae?
   - migi chudan yoko geri
 - Kiba dachi hidari |N|
-  - Haito migi mae uchi-uke & Shuto hidari gedan barai ibuki
+  - Haito migi mae uchi-uke & Shuto hidari gedan barai (morote) ibuki
 5: Trek voorste been terug, trap en zet terug |N|
 - Tsuruashi dachi hidari # kamae?
   - hidari chudan yoko geri
 - Kiba dachi hidari |N|
-  - Haito hidari mae uchi-uke & Shuto migi gedan barai ibuki
+  - Haito hidari mae uchi-uke & Shuto migi gedan barai (morote) ibuki
 => 4 & 5 oi tsuki migi: haito uchi-uke, shuto gedan uchi, ude gatame (controlleer pols met rechts, verstrekking met links).
 6: Draai naar links |N|
 - Zenkutsu dachi hidari
@@ -31,7 +31,7 @@
 7: Gesprongen trap en land direct in kiba dachi |N|
   - hidari mae tobi-geri
 - Kiba dachi hidari |N|
-  - Empi jun jodan ate kiai
+  - Empi jun jodan ate kiai # Bedek linkervuist met rechterhand, lijkt op saifa
 8: Draai naar rechts |Z|
 - Zenkutsu dachi migi
   - Seiken morote uke
@@ -52,7 +52,7 @@
 
 11: Verplaats voorste been naar achter |O|
 - Kiba dachi
-  - Shuto migi gedan uchi
+  - Shuto migi gedan uchi # Grote ronde beweging, o-uchi
 12: Verplaats gewicht naar links, trappen en plaats rechterbeen terug |O|
 - Tsuruashi dachi migi
   - kaishu kamae
