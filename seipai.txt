@@ -57,14 +57,14 @@
 - Tsuruashi dachi migi
   - kaishu kamae
   - migi chudan yoko geri
-  - migi mae geri
+  - migi chudan mae-geri
 - Kiba dachi
   - Seiken morote gedan tsuki
 13: Verplaats gewicht naar rechts en draai 180 graden |W|
 - Tsuruashi dachi hidari
   - kaishu kamae
   - hidari chudan yoko geri
-  - hidari mae geri
+  - hidari chudan mae-geri
 - Kiba dachi
   - Seiken morote gedan tsuki
 => 11 & 12: Shuto slag naar de nek, mae hadaka jime, gebruik verplaatsing voor ashi barai, knietje en/of trap naar achterste been, trek naar beneden+morote gedan tsuki.
@@ -87,7 +87,7 @@
   - Seiken oi gedan barai & Seiken gyaku uchi-uke (morote)
   - Seiken oi uchi-uke & Seiken gyaku gedan barai (morote)
 19: Zet voorste voet neer en trap + blokeer |Z|
-  - migi mae geri
+  - migi chudan mae-geri
 - Zenkutsu dachi migi
   - Seiken oi uchi-uke
 20: Draai 180 graden op je standbeen |N|

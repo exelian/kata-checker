@@ -35,7 +35,7 @@
 
 6: Trappen en doorstappen |N|
 - Moroashi dachi migi
-  - hidari mae geri
+  - hidari chudan mae-geri
 - Zenkutsu dachi hidari
   - Seiken oi jodan uke
   - Seiken gyaku chudan tsuki kiai
@@ -64,7 +64,7 @@
   - Seiken gyaku chudan tsuki
 
 10: Trappen en recht naar voren |ZO|
-  - migi mae geri
+  - migi chudan mae-geri
 - Kake dachi migi |Z|
   - Seiken yama tsuki kiai
 

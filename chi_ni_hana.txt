@@ -63,15 +63,15 @@
 - Kokutsu dachi migi
   - Shuto mawashi uke
 11: Naar voren |N|
-  - migi chudan mae geri
+  - migi chudan mae-geri
 - Kokutsu dachi hidari
   - Shuto mawashi uke
 12: Naar voren |N|
-  - hidari chudan mae geri
+  - hidari chudan mae-geri
 - Zenkutsu dachi hidari
   - Haito oi uchi-uke
   - Shuto gyaku jodan uchi
-  - migi jodan mae geri
+  - migi jodan mae-geri
   - yori ashi migi
 - Kake dachi migi
   - Uraken jun yoko uchi kiai

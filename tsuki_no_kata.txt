@@ -39,7 +39,7 @@
   - Seiken oi uchi-uke & Seiken gyaku gedan barai (morote) ibuki
 
 12: Trappen, opzij draaien, stoten doorstappen, omdraaien |O|
-  - migi mae geri # Naar rechts draaien
+  - migi chudan mae-geri # Naar rechts draaien
 - Kiba dachi migi
   - Seiken jun chudan tsuki
 - Kiba dachi hidari # Doorstappen

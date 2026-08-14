@@ -45,7 +45,7 @@
   - Seiken oi uchi-uke ibuki
 8: Kamae, trappen en doorstappen |N|
 - Moroashi dachi migi
-  - hidari chudan mae geri
+  - hidari chudan mae-geri
 - Zenkutsu dachi hidari
   - Empi oi ago uchi
   - Uraken oi ganmen uchi # Oroshi
@@ -70,7 +70,7 @@
   - Seiken oi uchi-uke ibuki
 12: Kamae, trappen en doorstappen |N|
 - Moroashi dachi hidari
-  - hidari chudan mae geri
+  - hidari chudan mae-geri
 - Zenkutsu dachi migi
   - Empi oi ago uchi
   - Uraken oi ganmen uchi # Oroshi

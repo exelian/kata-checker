@@ -37,7 +37,7 @@
 - Zenkutsu dachi hidari
   - Shotei gyaku jodan nagashi-uke & Shuto oi ganmen uchi (morote)
 10: Trap + naar voren |Z|
-  - migi chudan mae geri
+  - migi chudan mae-geri
 - Zenkutsu dachi migi
   - Seiken gyaku chudan tsuki -> Seiken oi chudan tsuki (nidan)
 
@@ -45,7 +45,7 @@
 - Zenkutsu dachi migi
   - Shotei gyaku jodan nagashi-uke & Shuto oi ganmen uchi (morote)
 12: Trap + naar voren |N|
-  - hidari chudan mae geri
+  - hidari chudan mae-geri
 - Zenkutsu dachi hidari
   - Seiken gyaku chudan tsuki -> Seiken oi chudan tsuki (nidan)
 
@@ -53,7 +53,7 @@
   - hidari hikiashi
 - Musubi dachi
   - hidari waki kamae
-  - migi chudan mae geri
+  - migi chudan mae-geri
   - Yoko migi chudan geri & Uraken yoko uchi
 - Zenkutsu dachi migi |O|
   - Empi gyaku jodan ate & Shotei oi jodan uchi
@@ -61,7 +61,7 @@
   - hidari hikiashi
 - Musubi dachi
   - migi waki kamae
-  - hidari chudan mae geri
+  - hidari chudan mae-geri
   - Yoko hidari chudan geri & Uraken yoko uchi
 - Zenkutsu dachi hidari |O|
   - Empi gyaku jodan ate & Shotei oi jodan uchi

@@ -41,7 +41,7 @@
 4: Stap naar voren |O|
 - Zenkutsu dachi migi
   - Seiken oi gedan tsuki -> Seiken gyaku jodan tsuki -> Seiken oi chudan tsuki kiai
-  - hidari chudan mae geri # Voet terugzetten
+  - hidari chudan mae-geri # Voet terugzetten
 - Zenkutsu dachi migi
   - migi ushiro hikiashi
 - Kokutsu dachi migi
@@ -55,7 +55,7 @@
 5: Naar voren |W|
 - Zenkutsu dachi hidari
   - Seiken oi gedan tsuki -> Seiken gyaku jodan tsuki -> Seiken oi chudan tsuki kiai
-  - migi chudan mae geri # Voet terugzetten
+  - migi chudan mae-geri # Voet terugzetten
 - Zenkutsu dachi hidari
   - hidari ushiro hikiashi
 - Kokutsu dachi hidari

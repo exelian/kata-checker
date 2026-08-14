@@ -28,8 +28,8 @@
   - Seiken oi uchi-uke
 
 6: Trappen en naar voren |N|
-  - hidari mae geri # terugzetten
-  - migi mae geri
+  - hidari chudan mae-geri # terugzetten
+  - migi chudan mae-geri
 - Zenkutsu dachi migi |N|
   - Seiken oi jodan tsuki # kizami?
   - Seiken gyaku chudan tsuki
