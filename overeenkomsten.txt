@@ -1,0 +1,27 @@
+# Overeenkomsten tussen kata
+# Verzameling van technieken/sequenties die in meerdere kata terugkomen, met korte analyse.
+#
+# Format per overeenkomst:
+#   @ Korte naam van het patroon
+#   - <kata> stap <nr>: <techniek(en)>
+#   - <kata> stap <nr>: <techniek(en)>
+#   => Overeenkomsten/verschillen
+
+@ Veeg gevolgd door neerwaartse afmakende slag
+- Gekisai dai stap 8: migi ashi barai, gevolgd door Shuto jun chudan yoko uchi
+- Saifa stap 8: migi ashi barai, gevolgd door Tettsui oi ganmen oroshi-uchi
+=> Zelfde structuur (veeg + afmaker). Verschil in afmaker: shuto (horizontaal, chudan) vs
+   tettsui (neerwaarts, ganmen).
+
+@ Gewichtverplaatsing + gyaku uchi-uke gevolgd door trap
+- Saifa stap 4-5: ayumi ashi + Haito gyaku uchi-uke, dan mae-geri + ayumi ashi + zelfde uchi-uke
+- Pinan sono ni stap 11-12: Zenkutsu dachi + Seiken gyaku uchi-uke, dan mae-geri + ayumi ashi +
+  zelfde uchi-uke
+=> Zelfde concept. Verschil: pinan sono ni heeft een gyaku chudan tsuki tussen de trap en de
+   laatste uchi-uke, saifa niet.
+
+@ Slotcombinatie Haito uchi -> Gohon nukite -> Shuto mawashi uke
+- Saifa stap 11: Haito oi jodan uchi, Gohon gyaku chudan nukite, Shuto gyaku mae mawashi uke ibuki
+- Gekisai sho stap 12: zelfde combo, zelfde volgorde
+- Seipai stap 20: zelfde combo, zelfde volgorde
+=> Identiek in alle 3, telkens als slot van de kata, vanuit Kokutsu dachi.
