@@ -10,10 +10,15 @@
   - Seiken migi waki kamae
   - Empi migi uke
 - Kiba dachi |N|
-  - Uraken jun yoko uchi & Shuto gyaku kakete # katate dori?
-=> 1 katate dori: gebruik de empi om de greep losser te maken/kote mawashi in te zetten, Empi om te counteren.
-=> 1 katate dori: trek hand naar je toe en overstrek elleboog van tori met de empi, evt opvolgen met mae geri.
-=> 1 katate dori: Stap van de lijn af en trek arm naar je toe, draai arm in om grip losser te maken, shuto kaka uke & uraken ganmen uchi.
+  - Uraken jun yoko uchi & Shuto gyaku kakete
+=> [1] katate dori.
+   AANVAL katate dori
+   CONTROLE waki kamae hand tegen eigen arm duwen
+   CONTROLE Empi uke beide handen omhoog bewegen zodat de pols tussen duim en wijsvinger komt
+   CONTROLE gykaku kakete arm naar achter trekken
+   CONTROLE overstrek de arm met je elleboog
+   AFWERKING Empi otoshi uchi
+
 2: Schuin naar voren |NW|
 - Kiba dachi hidari
   - tsugi ashi
@@ -42,7 +47,6 @@
   - migi chudan mae-geri
   - ayumi ashi migi # stap naar rechts met rechts, VERGEET NIET NAAR LINKS TE KIJKEN!
 => 3 - 5 tsuki/katatedori: uchi uke, stap naar voren en haak links achter de nek en rechts onder arm door, knietje.
-=> 4 & 5 Katate kosa dori: Blokkeer bovenarm met rechts en strek de arm van tori, beweeg naar links en gebruik de uchi uke om de pols aan te vallen, grijp met rechts de schouder en geef een knietje.
 - Nekoashi dachi hidari
   - Shuto oi gedan barai & Haito gyaku uchi-uke (morote) ibuki
 6: Trap en stap naar achter |N|
@@ -52,9 +56,9 @@
   - hidari hikite & migi hikite (morote)
   - Seiken morote chudan tsuki
   - Tettsui oi chudan ganmen uchi & Shotei gyaku chudan ganmen uchi (morote)
-=> 6: Kopstoot, gebruik tettsui om contact te zoeken/houden, evt doorzetten in een polsklem.
-=> 4, 5 & 6 migi tsuki: uchi-uke om arm te pakken, trek naar beneden en overstrek elleboog met links, grijp arm met linsk en shotei ago uchi met rechts.
+=> 4, 5 & 6 migi tsuki: uchi-uke om arm te pakken, trek naar beneden en overstrek elleboog met links, grijp arm met links en shotei ago uchi met rechts.
 => 5 & 6 clinch: knietje, trek tegenstander naar beneden, als hij framed -> tettsui.
+=> 1, 5 & 6 katatedori: zie bunkai 1, knietje, ga achter je tegenstander staan, trek tegenstander van achter naar beneden, tettsui.
 
 7: Verplaats je voorste voet naar links en draai 180 graden |Z|
 - Zenkutsu dachi hidari
@@ -62,6 +66,18 @@
   - hidari hikite & migi hikite (morote)
   - Seiken morote chudan tsuki
   - Tettsui oi chudan ganmen uchi & Shotei gyaku chudan ganmen uchi (morote)
+=> [4,5,7] katate kosa dori.
+   AANVAL     katate kosa dori
+   CONTROLE   bovenarm controlleren met uchi-uke
+   CONTROLE   arm strekken met gedan barai
+   POSITIE    naar links bewegen
+   INGANG     uchi uke om de pols te buigen 
+   CONTROLE   schouder pakken met gedan barai
+   ACTIE      Hiza geri
+   POSITIE    achter tegenstander komen
+   CONTROLE   schouders pakken het morote Haito
+   NEERHALEN  naar de grond trekken met morote tsuki
+   AFWERKING  Tettsui ganmen
 
 8: Veeg en draai 180 graden |N|
   - migi ashi barai
