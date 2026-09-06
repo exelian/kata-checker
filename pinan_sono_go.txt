@@ -8,8 +8,13 @@
   - Seiken gyaku chudan tsuki
   - hidari hikiashi & Seiken migi morote-hikite
 - Musubi dachi |N|
-=> chudan oi tsuki hidari: blokeer met uchi uke, controleer geblokkeerde hand, stoot, rechterhand op achterhoofd & linkerhand op kin, gecontrolleerd gooien/naar de grond brengen.
-=> chudan oi tsuki migi: uchi uke, tsuki, katate dori met migi, gebruik waki kamae voor een ude hishigi.
+=> [1] chudan tsuki.
+   AANVAL     chudan tsuki
+   INGANG     uchi uke
+   ACTIE      gyaku tsuki, kan ook gebruikt worden om een stoot op afstand te houden
+   CONTROLE   pak met rechts de arm/pak
+   CONTROLE   controleer met links het hoofd/de nek
+   NEERHALEN  verplaats en draai om
 
 2: Naar rechts |O|
 - Kokutsu dachi migi
@@ -30,24 +35,37 @@
 - Zenkutsu dachi migi # Doorstappen
   - Shotei oi chudan oshite # duw de tori of controleer zijn verdediging door te duwen
   - Seiken oi chudan tsuki kiai
-=> 4 katate dori: gyaku hand onder de hand van tegenstand, naar het lichaam brengen voor kote hineri.
-=> 4 mae geri & tsuki jodan migi: blokeer aanvalen, draai linkerhand palm naar boven en pak geblokeerde arm, trek en draai arm naar beneden terwijl je instapt, stoot naar het hoofd.
-=> 4 jodan tsuki: blokeer tsuki met 2de juji uke, gebruik de gyaku hand om de arm naar beneden te begeleiden icm oi shotei jodan uchi, volg op met ganmen tsuki.
-=> 4 jodan tsuki: juji uke, kote mawashi/gaeshi, shotei voor ude hishigi, evt tsuki.
+=> [4] vanuit clinch.
+   AANVAL     katate dori
+   INGANG     juji uke gedan om je rechterhand onder zijn pols te plaatsen
+   CONTROLE   juji uke jodan = kote hineri, pols overstrekken (dichtbij je lichaam)
+   CONTROLE   tensho = arm controleren met rechts
+   CONTROLE   shotei + hikite = ude hishigi, armbar
+   AFWERKING  jodan tsuki
+
 
 5: Naar achter |Z|
   - Haishu chudan uke # je staat nog richting |N|, maar de blok is naar achter richting |Z|
   - mikazuki geri
 => 4 & 5: Terwijl je bij 4 nog de hand vast houd, met de mikazuki geri over de arm heenstappen, arm naar boven trekken en klemmen/breken.
-=> 5 mae geri: blokeer de trap met mikazuki.
 - Kiba dachi migi |Z| # je hoofd wijst richting |O|
   - Seiken jun yoko gedan barai # |Z|
   - Haishu gyaku chudan uke # |N|
+=> [5] oi tsuki hidari: blokkeer en tani otoshi.
+   AANVAL     oi tsuki hidari
+   INGANG     haishu uke om de stoot te blokkeren
+   POSITIE    positioneer jou been achter zijn been (mikazuki, hoeft niet hoog)
+   NEERHALEN  tani otoshi
+=> [5] oi tsuki migi: blokkeer en werp.
+   AANVAL     oi tsuki migi
+   INGANG     haishu uke om de stoot te blokkeren
+   POSITIE    stap over zijn been heen zodat je aan de buitenkant staat
+   NEERHALEN  gedan barai op de schouder duwn om tori om te gooien
 
 6: Naar links |N|
   - mikazuki geri
-  - Empi oi jodan ate # migi
 - Tsuruashi dachi migi
+  - Empi oi jodan ate # migi
 - Kake dachi migi # stap door naar voren
   - Uraken jun yoko uchi # morote uchi uke?
 - Kokutsu dachi hidari |Z| # Draai je om terwijl je opstoot
@@ -63,6 +81,11 @@
   - Seiken juji gedan uke
 - Zenkutsu dachi migi
   - Seiken morote uchi-uke kiai
+=> [7] vanuit clinch.
+   POSITIE    naar beneden zakken
+   CONTROLE   hiel/enkel pakken met links
+   BALANS     gedan duwen met rechts
+   NEERHALEN  omver duwen met morote uke terwijl je de enkel vasthoud
 
 8: Achterste voet verplaatsen |NW|
 - Zenkutsu dachi hidari

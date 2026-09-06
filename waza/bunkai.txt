@@ -1,0 +1,61 @@
+=> [stappen] aanval / situatie
+   AANVAL     ...
+   INGANG     ...
+   CONTROLE   ...
+   POSITIE    ...
+   BALANS     ...
+   ACTIE      ...
+   REACTIE    ...
+   NEERHALEN  ...
+   AFWERKING  ...
+   NOTITIE    ...
+
+| Keyword     | Gebruik wanneer...                                                                                |
+| ----------- | ------------------------------------------------------------------------------------------------- |
+| `AANVAL`    | Je benoemt wat uke/tori doet. Alleen gebruiken als de aanval relevant is voor de toepassing.      |
+| `INGANG`    | Je beschrijft **hoe jij contact maakt of de aanval binnengaat**.                                  |
+| `CONTROLE`  | Je beschrijft hoe je een lichaamsdeel, positie of beweging van de tegenstander beheerst.          |
+| `POSITIE`   | Je beschrijft **waar jij ten opzichte van de tegenstander terechtkomt**.                          |
+| `BALANS`    | Je beschrijft expliciet hoe je de balans van de tegenstander verstoort.                           |
+| `ACTIE`     | Een actieve handeling die geen controle, positie of neerhaling is: knie, slag, trap, etc.         |
+| `REACTIE`   | Wat de tegenstander doet als gevolg van jouw actie.                                               |
+| `NEERHALEN` | Het daadwerkelijk naar de grond brengen van de tegenstander.                                      |
+| `AFWERKING` | De laatste handeling waarmee je de toepassing beëindigt.                                          |
+| `NOTITIE`   | Een opmerking, onzekerheid of alternatieve gedachte die niet onderdeel is van de toepassing zelf. |
+
+
+Is dit wat uke doet?
+    ↓ ja
+AANVAL / REACTIE
+
+Is dit hoe ik contact maak?
+    ↓ ja
+INGANG
+
+Beheers ik hiermee een lichaamsdeel of beweging?
+    ↓ ja
+CONTROLE
+
+Verander ik mijn positie ten opzichte van uke?
+    ↓ ja
+POSITIE
+
+Breng ik uke uit balans?
+    ↓ ja
+BALANS
+
+Breng ik uke naar de grond?
+    ↓ ja
+NEERHALEN
+
+Is dit mijn laatste aanval/handeling?
+    ↓ ja
+AFWERKING
+
+Is het een andere actieve handeling?
+    ↓ ja
+ACTIE
+
+Is het alleen een gedachte, alternatief of onzekerheid?
+    ↓ ja
+NOTITIE

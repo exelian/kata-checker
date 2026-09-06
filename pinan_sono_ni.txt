@@ -64,8 +64,20 @@
 11: 45gr naar links |Z|
 - Zenkutsu dachi hidari
   - Seiken gyaku gedan uchi-barai -> Seiken gyaku uchi-uke # gyaku o uchi uke
-=> 10 & 11 hidari komekami uchi: block met shuto mawashi, sakotsu uchi & migi katatedori (hikite, hand draaien!) gedan barai + uchi uke = age ude garami.
-=> 11 iemand pakt je rechterarm vast katate dori: gebruik gedan barai + uchi-uke voor kote mawashi.
+=> [11a] iemand pakt je rechterarm vast (gekruist).
+   AANVAL     katate kosa dori migi
+   INGANG     gedan barai, uchi-uke om een kote mawashi uit te voeren
+   POSITIE    Ga half achter tori staan en neem ruimte voor de trap
+   ACTIE      mae geri
+   AFWERKING jodan tsuki
+=> [11b] iemand pakt je linkerarm vast (gekruist).
+   AANVAL     katate kosa dori hidari
+   INGANG     gedan barai met de linkerarm; gebruik van de bovenarm + positiewijziging om ruimte onder tori's arm te creëren
+   POSITIE    stap opzij zodat je ruimte creeert voor de uchi-uke
+   CONTROLE   uchi uke om tori bij de nek te pakken
+   ACTIE      mae geri
+   AFWERKING jodan tsuki
+
 12: Vanuit stand |Z|
   - migi chudan mae-geri
   - ayumi ashi
