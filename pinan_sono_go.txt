@@ -41,7 +41,8 @@
    CONTROLE   juji uke jodan = kote hineri, pols overstrekken (dichtbij je lichaam)
    CONTROLE   tensho = arm controleren met rechts
    CONTROLE   shotei + hikite = ude hishigi, armbar
-   AFWERKING  jodan tsuki
+   REACTIE    armbar lukt niet, tori beweegt naar achter -> [5]
+   AFWERKING  armbar lukt wel: controleer de elleboog met links en jodan tsuki
 
 
 5: Naar achter |Z|
@@ -51,15 +52,12 @@
 - Kiba dachi migi |Z| # je hoofd wijst richting |O|
   - Seiken jun yoko gedan barai # |Z|
   - Haishu gyaku chudan uke # |N|
-=> [5] oi tsuki hidari: blokkeer en tani otoshi.
-   AANVAL     oi tsuki hidari
-   INGANG     haishu uke om de stoot te blokkeren
-   POSITIE    positioneer jou been achter zijn been (mikazuki, hoeft niet hoog)
-   NEERHALEN  tani otoshi
 => [5] oi tsuki migi: blokkeer en werp.
-   AANVAL     oi tsuki migi
-   INGANG     haishu uke om de stoot te blokkeren
+   AANVAL     oi tsuki migi OF vervolg van [4]
+   INGANG     haishu uke om de stoot te blokkeren of arm controle
    POSITIE    stap over zijn been heen zodat je aan de buitenkant staat
+   REACTIE    tori beweegt naar je toe voor een bearhub -> [6]
+   REACTIE    tori beweegt van je af -> [7]
    NEERHALEN  gedan barai op de schouder duwn om tori om te gooien
 
 6: Naar links |N|
@@ -70,10 +68,15 @@
   - Uraken jun yoko uchi # morote uchi uke?
 - Kokutsu dachi hidari |Z| # Draai je om terwijl je opstoot
   - Seiken jun age tsuki kiai
-=> 5 & 6 oi tsuki migi: blokkeer met haishu, mikazuki naar hoofd/lichaam, empi naar lichaam, rechterarm onder zijn (rechter) arm door, gebruik links zijn arm omhoog te buigen (bij de elleboog), klem met rechts door zijn pols vast te pakken, ga licht omhoog om uit balans te brengen, draai naar kakedachi om te werpen.
-=> 6 oi tsuki migi: haishu uke, mikazuki geri naar achterste bijbeen, empi.
-=> 6 tsuki zenkutsu dachi hidari: haishu uke, mikazuki naar voorste knie, tai otoshi.
-=> 6 vanuit clinch: controleer rechts met haishu, empi, seoi nage.
+=> [6] vanuit clinch: tegenstander probeer naar binnen/achter je te komen.
+   AANVAL     oi tsuki migi OF vervolg van [4] / [5]
+   INGANG     haishu uke om de stoot te blokkeren of arm controle
+   REACTIE    tegenstander probeer naar binnen te duiken
+   REACTIE    bearhug lukt -> [7, 8]
+   ACTIE      empi uchi als aanval en om ruimte te creeeren
+   ACTIE      uraken om mijn onderarm onder zijn oksel te plaatsen
+   POSITIE    draai in en gebruik de age tsuki om hem op te tillen
+   NEERHALEN  seoi nage (zie ook tana otoshi uit karatedo kyohan)
 
 7: Sprong naar voren |Z|
   - tobi
@@ -81,7 +84,7 @@
   - Seiken juji gedan uke
 - Zenkutsu dachi migi
   - Seiken morote uchi-uke kiai
-=> [7] vanuit clinch.
+=> [7a] als de tegenstander wegbeweegt.
    POSITIE    naar beneden zakken
    CONTROLE   hiel/enkel pakken met links
    BALANS     gedan duwen met rechts
@@ -96,8 +99,15 @@
   - hidari hikiashi
 - Musubi dachi |N|
   - joge kamae # Houd de hand positie vast
-=> 7 oi tsuki migi: block met waki no kamae, uraken kubi uchi & hidari katatedori, trek met links naar beneden en gebruik rechts om het hoofd naar beneden te duwen.
-=> 8 jodan tsuki: Gebruik de hikiashi voor een veeg ipv tai otoshi.
+=> [7, 8] vanuit bearhub. (de opzet voor eerste beweging = bubushi: monkey steals the fruit)
+   AANVAL     bearhug
+   POSITIE    naar beneden zakken met armen bij elkaar zo dat je meer ruimte hebt
+   CONTROLE   plaats je rechterarm tussen je lichaam en zijn armen, linkerarm over zijn linkerarm
+   POSITIE    stap explosief naar voren en creeer ruimte met morote uke
+   POSITIE    plaats je acterste (linker) been achter zijn been
+   ACTIE      slag naar het kruis en rechter arm omhoog om nog meer ruimte te maken, evt klaarstaan voor aanval
+   POSITIE    shotei gedan uchi, beweeg dichterbij zodat je in controle bent, evt blok met rechts
+   NEERHALEN  tani otoshi, over je linker been heen werpen, alternatief: ashi barai
 
 9: Rechtervoet schuin verplaatsen |NO|
 - Zenkutsu dachi migi
@@ -105,5 +115,3 @@
 - Kiba dachi migi |NO| # Draai op je hiel, niet de bal van je voet
   - Shotei jun gedan osae uke & gyaku hikite
   - joge kamae
-=> 9 bear hug: de opzet voor eerste beweging = bubushi: monkey steals the fruit, tegenstander grijpt gedan, trek weg en doe de gedan uchi.
-=> 9 jodan tsuki: blokeer en slag naar tanden, kote gaeshi/mawashi en veeg met voorste been .
