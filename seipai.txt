@@ -9,21 +9,18 @@
 2: Stap naar voren met links |N|
 - Zenkutsu dachi hidari
   - Seiken hidari chudan sasae-tsuki
-=> [1, 2] katate dori migi.
+3: Stap naar voren met rechts |N|
+- Kiba dachi migi
+  - Empi jun jodan ate kiai # Bedek rechtervuist met linkerhand, lijkt op saifa
+=> [1, 2, 3] katate dori migi.
    AANVAL    katate dori migi
    INGANG    Stap naar voren in kiba en gebruik haishu om het hoofd nek te controleren
    ACTIE     Stap naar voren en stoot naar het hoofd
    CONTROLE  Plaats de rechterhand op de kin en de linker het achterhoofd
-   AFWERKING Zie [3]
-3: Stap naar voren met rechts |N|
-- Kiba dachi migi
-  - Empi jun jodan ate kiai # Bedek rechtervuist met linkerhand, lijkt op saifa
-=> [3a] Vanaf stap 2.
-   AFWERKING Stap naar voren voor een nek crank
-=> [3b] Vanaf stap 2.
    BALANS    Stap met rechts achter zijn voorste been
    CONTROLE  Rechterhand op de kin, linkerhand op onderrug of achterhoofd
    NEERHALEN werp met een kubi wa
+   NOTITIE   Is de yoko geri om aan te geven dat je kracht moet zetten?
 
 4: Trek voorste been terug, trap en zet been naar achter neer |N|
 - Tsuruashi dachi migi # kamae?
@@ -39,11 +36,20 @@
 6: Draai naar links |N|
 - Zenkutsu dachi hidari
   - Shuto gyaku jodan uchi
-
 7: Gesprongen trap en land direct in kiba dachi |N|
   - hidari mae tobi-geri
 - Kiba dachi hidari |N|
   - Empi jun jodan ate kiai # Bedek linkervuist met rechterhand, lijkt op saifa
+=> [4, 5, 6, 7] kagi tsuki migi.
+   AANVAL    kagi tsuki migi + eventuel katate dori
+   CONTROLE  Blokkeer stoot met rechts
+     CONTROLE  Katate dori: beweeg links naar beneden om de structuur de verzwakken
+     ACTIE     Alleen kagi: shuto gedan uchi + blok
+   CONTROLE  Links draaiend omhoog en maakt ruimte met rechts
+   INGANG    Hikite om te controleren en shuto kubi uchi
+   ACTIE     Houd hoofd vast -> knietje
+   AFWERKING Nek crank
+
 8: Draai naar rechts |Z|
 - Zenkutsu dachi migi
   - Seiken morote uke
