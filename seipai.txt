@@ -49,43 +49,28 @@
    INGANG    Hikite om te controleren en shuto kubi uchi
    ACTIE     Houd hoofd vast -> knietje
    AFWERKING Nek crank
+   NOTITIE   Vergelijkbare optie voor aanvallen als kata dori, mune dori, of iemand die je nek beetpakt
 
 8: Draai naar rechts |Z|
 - Zenkutsu dachi migi
   - Seiken morote uke
-=> [7,8] katate dori.
-   AANVAL   katate dori
-   CONTROLE Probeer arm te overstrekken, net als saifa (zie ook 10)
-   REACTIE  Tori beweegt naar je toe of buigt arm
-   INGANG   Plaats je linkerarm OM de arm van tori heen
-   CONTROLE Plaats je onderarm onder de bovenarm, net achter de elleboog, controleer de pols met rechts
-   BALANS   Verplaats je gewicht naar zenkutsu om de arm te kunnen overstrekken
-   CONTROLE gebruik je onderarm en polscontrole als hefboom voor de elleboog overstrekking
 9: Trek voorste been terug en stap naar links |O|
 - Sanchin dachi migi |O|
   - Seiken gyaku chudan yoko tsuki # stoot opzij |N|
-=> 4 t/m 6 migi oi tsuki: Katate dori, shuto gedan uchi, gebruik haito + hikite om rechterarm te controleren en slag naar de nek.
-=> 7: tai otoshi?.
-=> 7 & 8 migi oi tsuki: Alternatief voor stap 6 als haito/hikite niet lukt;  Katate dori, shuto gedan uchi, 2 knietjes, empi jodan ate.
-=> 9 migi oi tsuki: Alternatief voor stap 6 als haito/hikite niet lukt;  ude hishigi suigetsu gatame.
-
 10: Draai naar links en verplaats rechtervoet |N|
 - Kokutsu dachi migi
   - Hirate gyaku osae uke & Uraken oi jodan oroshi-uchi # Einde van de bunkai?
   - Shuto oi kake-uke
 - Zenkutsu dachi migi
   - Seiken oi chudan tsuki kiai
-=> [7,9,10] katate dori.
-   AANVAL    katate dori
-   CONTROLE  hand tegen eigen arm duwen
-   CONTROLE  beide handen omhoog bewegen zodat de pols tussen duim en wijsvinger komt
-   BALANS    gykaku kakete arm naar achter trekken
-   CONTROLE  overstrek de arm met je elleboog
-   REACTIE   tori buigt arm of beweegt naar je toe zie 8
+=> [8,9,10] mune dori migi.
+   AANVAL    mune dori migi
+   CONTROLE  hand tegen borstkas aanduwn
+   CONTROLE  uchi uke om de elleboog te buigen en de nek bloot te stellen
    CONTROLE  Controleer de arm met rechts
    INGANG    Gebruik de jun tsuki om een ude hishigi suigestu gatame in te zetten (overstrekken over de plexus)
    AANVAL    Arm breuk?
-   CONTROLE  Osae uke: pak de schouder met links
+   CONTROLE  Osae uke = pak de schouder met links
    POSITIE   Draai 90 graden zodat je het hoofd kan aanvallen
    AANVAL    Verplaats je gewicht naar voren en uraken (of onderarm) naar het hoofd
    CONTROLE  Trek het hoofd naar je toe met hikite
