@@ -13,14 +13,19 @@
 - Kiba dachi migi
   - Empi jun jodan ate kiai # Bedek rechtervuist met linkerhand, lijkt op saifa
 => [1, 2, 3] katate dori migi.
-   AANVAL    katate dori migi
+   AANVAL    katate/mune dori migi
    INGANG    Stap naar voren in kiba en gebruik haishu om het hoofd nek te controleren
    ACTIE     Stap naar voren en stoot naar het hoofd
    CONTROLE  Plaats de rechterhand op de kin en de linker het achterhoofd
    BALANS    Stap met rechts achter zijn voorste been
+   NOTITIE   Zie alternatief [3b] vanaf hier
    CONTROLE  Rechterhand op de kin, linkerhand op onderrug of achterhoofd
    NEERHALEN werp met een kubi wa
    NOTITIE   Is de yoko geri om aan te geven dat je kracht moet zetten?
+=> [3b] vervolg.
+   CONTROLE  Rechterhand op achterhoofd, linkerhand op kin (de handen zijn ondersom)
+   BALANS    Stap naar achter en breng het hoofd naar beneden met een draai (voor je buik langs)
+   NEERHALEN Yoko geri om postuur te verbreken
 
 4: Trek voorste been terug, trap en zet been naar achter neer |N|
 - Tsuruashi dachi migi # kamae?
