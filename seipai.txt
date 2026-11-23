@@ -94,11 +94,19 @@
   - hidari chudan mae-geri
 - Kiba dachi
   - Seiken morote gedan tsuki
-=> 11 & 12: Shuto slag naar de nek, mae kubi jime, gebruik verplaatsing voor ashi barai, knietje en/of trap naar achterste been, trek naar beneden+morote gedan tsuki.
-
 14: Draai naar links |Z|
 - Zenkutsu dachi hidari
   - Seiken oi gedan barai
+=> [11, 12, 13, 14] ?.
+   NOTITIE   Gebaseerd op Giles Hopkins zou 11 t/m 14 1 consistente bunkai moeten zijn
+   INGANG    Gebruik de ronde beweging om binnen te vanuit sterke positie
+   CONTROLE  kubi jime (mae of ura afhankelijk van waar je staat)
+   ACTIE     Knietje (de tsuruashi dachi)
+   BALANS    Gebruik de trappen om de stand te verzwakken
+   NEERHALEN Frame met de morote tski
+   AFWERKING gedan ude uchi?
+
+
 15: Veeg, draai 180 graden en stap |N|
   - migi ashi barai
 - Kake dachi migi
@@ -108,7 +116,6 @@
   - Shuto mawashi uke # kort, zonder lage blokkering, net als gekisai sho
 17: Blijf in deze stand |Z|
   - Seiken oi gedan barai
-
 18: Blijf in deze stand |Z|
   - Seiken oi uchi-uke
   - Seiken oi gedan barai & Seiken gyaku uchi-uke (morote)
