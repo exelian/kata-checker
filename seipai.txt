@@ -1,7 +1,19 @@
 # Seipai (Kyokushin)
 # Seipai (Goju ryu)
 
-=> 2 & 3 katate dori: trek arm terug voor tsiji tsuri tsuki, gebruik de stoot om de tegestanderspols beet te pakken, hikite + empi om los te breken.
+Seipai betekent vrij vertaald "18" of "18 technieken". De oorsprong of betekenis van deze naam lijkt onduidelijk, op een link naar budistisch significante getallen na.
+
+De meeste van deze bunkai zijn geïnspireerd op het boek "The kata and bunkai of Goju-ryu karate" van Giles Hopkins. 
+In geest en brede lijn zijn deze hetzelfde maar aangezien er verschillende variaties in uitvoering zijn, zijn in
+sommige gevallen de ideeën daar aan aangepast. De Kyokushin variant is veelal meer aggresief voorwaarts. Dit is te
+zien in stappen 1, 3, 7, en 19 waarbij de Goju-ryu kata defensie naar achter of op de plek blijft en Kyokushin
+een duidelijk voorwaarts component heeft, bijvoorbeeld in de gesprongen trap.
+
+Verschillende variaties in uitvoering ten opzichte van Goju-ryu zijn onder andere:
+- Een worp/take down ipv een nekverdraaiing bij stap 3.
+- Een gesprongen trap (interpretatie: een hiza ganmen geri?) ipv van een mae geri bij stap 7
+- De toevoeging van een staande arm bar als overbruggingstechniek in stap 9
+- Bunkai reeks 4 en 5 worden in de Goju-ryu variant herhaald, waar deze in de Kyokushin variant slecht 1 keer voorkomen
 
 1: Stap naar voren met rechts |N|
 - Kiba dachi migi
@@ -13,7 +25,7 @@
 - Kiba dachi migi
   - Empi jun jodan ate kiai # Bedek rechtervuist met linkerhand, lijkt op saifa
 => [1, 2, 3] katate dori migi.
-   AANVAL    katate/mune dori migi
+   AANVAL    katate/mune dori migi of andere arm controle
    INGANG    Stap naar voren in kiba en gebruik haishu om het hoofd nek te controleren
    ACTIE     Stap naar voren en stoot naar het hoofd
    CONTROLE  Plaats de rechterhand op de kin en de linker het achterhoofd
@@ -22,14 +34,10 @@
    CONTROLE  Rechterhand op de kin, linkerhand op onderrug of achterhoofd
    NEERHALEN werp met een kubi wa
    NOTITIE   Is de yoko geri om aan te geven dat je kracht moet zetten?
-=> [3b] vervolg.
-   CONTROLE  Rechterhand op achterhoofd, linkerhand op kin (de handen zijn ondersom)
-   BALANS    Stap naar achter en breng het hoofd naar beneden met een draai (voor je buik langs)
-   NEERHALEN Yoko geri om postuur te verbreken
-
 4: Trek voorste been terug, trap en zet been naar achter neer |N|
 - Tsuruashi dachi migi # kamae?
   - migi chudan yoko geri
+
 - Kiba dachi hidari |N|
   - Haito migi mae uchi-uke & Shuto hidari gedan barai (morote) ibuki
 5: Trek voorste been terug, trap en zet terug |N|
@@ -53,7 +61,8 @@
    CONTROLE  Links draaiend omhoog en maakt ruimte met rechts
    INGANG    Hikite om te controleren en shuto kubi uchi
    ACTIE     Houd hoofd vast -> knietje
-   AFWERKING Nek crank
+   POSITIE   De sprong creëert de mogelijkheid om meer achter/naast de tori te gaan staan
+   AFWERKING Nek crank of empi jodan ate
    NOTITIE   Vergelijkbare optie voor aanvallen als kata dori, mune dori, of iemand die je nek beetpakt
 
 8: Draai naar rechts |Z|
@@ -118,7 +127,7 @@
   - Seiken yama tsuki
 16: Draai 180 graden en slag |Z|
 - Kokutsu dachi hidari
-  - Shuto mawashi uke # kort, zonder lage blokkering, net als gekisai sho
+  - Shuto mawashi uke # kort, zonder lage blokkering, net als gekisai sho. De combinatie yama-tsuki shuto komt ook voor in gekisai sho
 17: Blijf in deze stand |Z|
   - Seiken oi gedan barai
 18: Blijf in deze stand |Z|
