@@ -67,7 +67,6 @@
   - migi chudan mae-geri
 - Kake dachi migi |Z|
   - Seiken yama tsuki kiai
-
 11: 180 graden draaien en met links uitstappen |N|
 - Kokutsu dachi hidari
   - Shuto mawashi uke # kort, zonder de lage blok. De combinatie yama-tsuki + shuto komt ook voor in seipai
@@ -76,3 +75,11 @@
   - Haito oi jodan  uchi
   - Gohon gyaku chudan nukite
   - Shuto gyaku mae mawashi uke ibuki
+=> [10, 11, 12] vanuit clinch. 
+   INGANG    mae giri naar kniegewricht
+   POSITIE   Stap explosie naar voren
+   CONTROLE  yama tsuki = linkerhand nekcontrole en rechterhand onder de arm
+   POSITIE   Gebruik de shuto om hoofd mee te duwen en achter tori te komen
+   CONTROLE  kubi jime
+   AFWERKING kubi hineri (nekdraai)
+   NOTITIE   Begin vergelijkbaar met Seipai bunkai 5
